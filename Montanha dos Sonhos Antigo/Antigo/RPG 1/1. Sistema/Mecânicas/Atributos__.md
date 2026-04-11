@@ -1,4 +1,4 @@
-**Atributos** são praticamente o corpo de um **Personagem**. Cada um deles aumenta um aspecto diferente, desde sua eficiência em lutas como sua capacidade de conjurar magias. É o que torna alguém mais poderoso que os demais.
+**Atributos** são o corpo de seres no mundo. Cada um dos **Atributos** aumenta um aspecto diferente, desde sua eficiência em lutas como sua capacidade de conjurar magias. É o que torna alguém mais poderoso que os demais.
 
 Os **Atributos** são divididos em duas categorias: os **Primários**, que aparecem na [[Ficha Base__]] e na maioria dos [[Equipamentos__]] e [[Ferramentas__]], e os **Secundários** que podem ter origens diversas, sendo muito mais raros.
 

@@ -1,24 +1,46 @@
 {
   "main": {
-    "id": "d2afac70324b3bb1",
+    "id": "5b0feb04c4794359",
     "type": "split",
     "children": [
       {
-        "id": "373cf9e7fb843dcb",
+        "id": "9e33de15e418850b",
         "type": "tabs",
+        "dimension": 50.63176895306859,
         "children": [
           {
-            "id": "d0a6345aad4fc571",
+            "id": "56abc87de006af12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regras/1. Turno de Combate.md",
+                "file": "3. Sistema/Feitos__.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Turno de Combate"
+              "title": "Feitos__"
+            }
+          }
+        ]
+      },
+      {
+        "id": "226d9c312927b5f7",
+        "type": "tabs",
+        "dimension": 49.36823104693141,
+        "children": [
+          {
+            "id": "f1acd66528ea592a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Personagem/Ficha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ficha"
             }
           }
         ]
@@ -27,15 +49,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1eddd6e15792d92a",
+    "id": "ee1aafa5dbb56fb9",
     "type": "split",
     "children": [
       {
-        "id": "3258d5143571e0da",
+        "id": "3aa0ba4e4c4c8ab3",
         "type": "tabs",
         "children": [
           {
-            "id": "99539ac777235f2e",
+            "id": "48c0c355f4e1cbaa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +70,7 @@
             }
           },
           {
-            "id": "9d64b9878a3ca721",
+            "id": "892d849485407acf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +87,7 @@
             }
           },
           {
-            "id": "9a2ee4ee3ca0d773",
+            "id": "9a8fa21ba5381a45",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +103,20 @@
     "width": 300
   },
   "right": {
-    "id": "dabafae848c6887f",
+    "id": "4e6d2a2f922c1c4d",
     "type": "split",
     "children": [
       {
-        "id": "f3d91d2744fae29c",
+        "id": "35e9b2c5525b3c52",
         "type": "tabs",
         "children": [
           {
-            "id": "70051dcf3cdcf697",
+            "id": "bcb90a5373ba724e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título.canvas",
+                "file": "Rolagem de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +126,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Sem título"
+              "title": "Links inversos para Rolagem de dados"
             }
           },
           {
-            "id": "6c35f6195bfbf4b4",
+            "id": "f783a232f5d64395",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título.canvas",
+                "file": "Rolagem de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Sem título"
+              "title": "Links de saída para Rolagem de dados"
             }
           },
           {
-            "id": "3c2bf45550d7bc7a",
+            "id": "658c7e5a83a138c4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +159,7 @@
             }
           },
           {
-            "id": "e4954c4435c0bc84",
+            "id": "7136b376e6899a97",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +173,18 @@
             }
           },
           {
-            "id": "6d540f9ffc6f8e4e",
+            "id": "12d05f09ca59fb22",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.canvas",
+                "file": "Rolagem de dados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de Rolagem de dados"
             }
           }
         ]
@@ -183,14 +205,29 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d0a6345aad4fc571",
+  "active": "56abc87de006af12",
   "lastOpenFiles": [
-    "Sem título.canvas",
-    "Regras/1. Turno de Combate.md",
-    "Imagens/hexagon-grid-seamless-pattern-white-geometric-structure-background-illustration-vector.jpg",
-    "Imagens/Tabuleiro.xcf",
-    "Imagens",
-    "RPG",
-    "Nova pasta"
+    "3. Sistema/Combate__.md",
+    "3. Sistema/Interpretação__.md",
+    "3. Sistema/Ações.md",
+    "3. Sistema/Aspectos e Atributos__.md",
+    "2. Personagem/Ficha Exemplo.md",
+    "2. Personagem/Ficha Base.md",
+    "2. Personagem/Ficha.md",
+    "1. Guia/Criação de Personagem__.md",
+    "1. Guia/Como Jogar__.md",
+    "1. Guia/Introdução__.md",
+    "Consumíveis__.md",
+    "3. Sistema/Feitos__.md",
+    "3. Sistema/2. Regras/Sem título.md",
+    "3. Sistema/1. Mecânicas",
+    "Personagem/Ficha Base - Copia (2).md",
+    "Personagem/Ficha Base - Copia.md",
+    "Personagem/Sem título.md",
+    "3. Sistema",
+    "2. Personagem",
+    "3. Sistema/2. Regras",
+    "Rolagem de dados.md",
+    "1. Guia"
   ]
 }

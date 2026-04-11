@@ -1,8 +1,7 @@
 **Efeitos** são variáveis que manipulam o estado atual de uma **Unidade**, como por exemplo um **Jogador**, **NPC** ou **Monstro**. Eles podem ser tanto **Positivos** quanto **Negativos** e são ordenados por ordem de **Dissipação**, um conceito que pode ser compreendido melhor em [[Habilidades__]].
 
 **Observação**: assim como descrito na [[Introdução__]], os **Efeitos** ocorrem sempre no começo de **Turno** da **Unidade**, assim como todos são reduzidos em um no final do **Turno**, o que também reduz sua duração (além da eficiência).
-
-# Efeitos Positivos
+# Efeitos Positivos 
 
 **Efeitos** de **Interpretação** (**Dissipação Fraca**): 
 
