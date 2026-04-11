@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "b71a4b4db84f8278",
+    "id": "d2afac70324b3bb1",
     "type": "split",
     "children": [
       {
-        "id": "6684c8ce7d9b7a79",
+        "id": "373cf9e7fb843dcb",
         "type": "tabs",
         "children": [
           {
-            "id": "4dea8165f47cd46d",
+            "id": "d0a6345aad4fc571",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Regras/1. Turno de Combate.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "1. Turno de Combate"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c6c7ef648cd7f137",
+    "id": "1eddd6e15792d92a",
     "type": "split",
     "children": [
       {
-        "id": "9cbe40c7e4b84806",
+        "id": "3258d5143571e0da",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb274881227f7b8",
+            "id": "99539ac777235f2e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "7801ea07e55d0614",
+            "id": "9d64b9878a3ca721",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "20a5d11d791404b0",
+            "id": "9a2ee4ee3ca0d773",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "3faae1baaf2b7715",
+    "id": "dabafae848c6887f",
     "type": "split",
     "children": [
       {
-        "id": "c4ae1e0aa1654cd4",
+        "id": "f3d91d2744fae29c",
         "type": "tabs",
         "children": [
           {
-            "id": "d0c4f8bc77f5166f",
+            "id": "70051dcf3cdcf697",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sem título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Sem título"
             }
           },
           {
-            "id": "ddb49ea6798c1b3a",
+            "id": "6c35f6195bfbf4b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sem título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Sem título"
             }
           },
           {
-            "id": "3cdb4c2a58e1c5c1",
+            "id": "3c2bf45550d7bc7a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +137,7 @@
             }
           },
           {
-            "id": "3f9b3b2f0e994940",
+            "id": "e4954c4435c0bc84",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,17 +151,18 @@
             }
           },
           {
-            "id": "5b8f8bb1b921d57f",
+            "id": "6d540f9ffc6f8e4e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Sem título.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Sem título"
             }
           }
         ]
@@ -176,14 +183,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "4dea8165f47cd46d",
+  "active": "d0a6345aad4fc571",
   "lastOpenFiles": [
-    "99. Antigo/99. Desenvolvimento/Feedbacks/Crítica 1.md",
-    "1. Notas",
-    "99. Antigo",
-    "99. Antigo/1. Informações/1. O que é Montanha dos Sonhos.md",
-    "99. Antigo/9. Notas de Atualização/Atualização 0.1.1.md",
-    "99. Antigo/1. Informações/3. Ficha Exemplo.md",
-    "99. Antigo/1. Informações/2. Ficha Base.md"
+    "Sem título.canvas",
+    "Regras/1. Turno de Combate.md",
+    "Imagens/hexagon-grid-seamless-pattern-white-geometric-structure-background-illustration-vector.jpg",
+    "Imagens/Tabuleiro.xcf",
+    "Imagens",
+    "RPG",
+    "Nova pasta"
   ]
 }

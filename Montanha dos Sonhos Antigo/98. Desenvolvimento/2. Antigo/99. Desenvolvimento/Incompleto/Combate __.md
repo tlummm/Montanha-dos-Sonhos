@@ -1,4 +1,4 @@
-Diferente do **Plano de Interpretação**, o **Plano de Combate** possui mais **Regras** além de mais importância nos [[Atributos]].
+Diferente do **Plano de Interpretação**, o **Plano de Combate** possui mais **Regras** além de mais importância nos [[98. Desenvolvimento/1. Dream Mountain/Funcional/Sistema/Mecânicas/Atributos__]].
 
 A **Primeira Regra** é que: existem uma ordem de turnos, baseado no **Atributo** de **Velocidade** dos **Jogadores**, do mais rápido para o mais lento, depois o turno dos **Oponentes**, também seguindo a mesma ordem.
 

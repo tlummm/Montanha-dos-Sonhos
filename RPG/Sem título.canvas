@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"3ad26cfd2a5776ef","type":"text","text":"Personagem","x":-176,"y":-177,"width":136,"height":60},
+		{"id":"9d5647d4db238cb8","type":"text","text":"Força","x":-155,"y":-380,"width":95,"height":60},
+		{"id":"011aedb3e2567f57","type":"text","text":"Ataque","x":-320,"y":-580,"width":105,"height":60},
+		{"id":"643c7da3208159ff","type":"text","text":"Vigor","x":-155,"y":-580,"width":101,"height":60},
+		{"id":"dedc8fb6aed2d309","type":"text","text":"Defesa","x":0,"y":-580,"width":111,"height":60},
+		{"id":"019351da1a4fbfde","type":"text","text":"Agilidade","x":160,"y":-177,"width":126,"height":60},
+		{"id":"b594bc91ba85bbcd","type":"text","text":"Inteligência","x":-480,"y":-177,"width":130,"height":60}
+	],
+	"edges":[
+		{"id":"af653d830bac7557","fromNode":"3ad26cfd2a5776ef","fromSide":"top","toNode":"9d5647d4db238cb8","toSide":"bottom"},
+		{"id":"6c7e6316e6a07e78","fromNode":"9d5647d4db238cb8","fromSide":"top","toNode":"643c7da3208159ff","toSide":"bottom"},
+		{"id":"fd046733a6411a5f","fromNode":"9d5647d4db238cb8","fromSide":"right","toNode":"dedc8fb6aed2d309","toSide":"bottom"},
+		{"id":"218cbea0a1cf8ad2","fromNode":"9d5647d4db238cb8","fromSide":"left","toNode":"011aedb3e2567f57","toSide":"bottom"},
+		{"id":"6c2fdc4986e00b6e","fromNode":"3ad26cfd2a5776ef","fromSide":"right","toNode":"019351da1a4fbfde","toSide":"left"},
+		{"id":"5ab377b65caad69a","fromNode":"3ad26cfd2a5776ef","fromSide":"left","toNode":"b594bc91ba85bbcd","toSide":"right"}
+	]
+}

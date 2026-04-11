@@ -1,0 +1,5 @@
+- **Terrestre** – Criaturas que vivem em terra firme (ex: leões, elefantes).
+- **Aquático** – Criaturas que vivem na água (ex: baleias, tubarões).
+- **Voador** – Criaturas que se deslocam no ar (ex: águias, morcegos).
+- **Subterrâneo** – Criaturas que vivem embaixo da terra (ex: toupeiras, minhocas).
+- **Parasitário** – Criaturas que vivem dentro de outras (ex: vermes, pulgas).
