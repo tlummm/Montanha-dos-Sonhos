@@ -1,16 +1,3 @@
-# Feito
-
-Raças. ✔️
-Sistema. ✔️
-Equipamentos. ✔️
-Ferramentas. ✔️
-Conhecimentos. ✔️
-Magias. ✔️
-
-# Fazendo
-
-Guerra.
-
 # A fazer
 
 Astúcia.
