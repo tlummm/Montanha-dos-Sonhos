@@ -1,2 +1,0 @@
-Ataque Nerfado
-Fatal Nerfado

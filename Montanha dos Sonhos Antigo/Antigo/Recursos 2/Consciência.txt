@@ -1,0 +1,164 @@
+//
+//	///	Qualidades e Defeitos
+//
+
+↪ Qualidades
+
+    ↪ Cordial: períto em pontualidade, etiqueta e elegância.
+
+    ↪ Leal: uma boa e confiável companhia.
+
+    ↪ Empático: bom em entender sentimentos e o estado mental de outros.
+
+    ↪ Simpático: alguém extremamente agrádavel.
+
+    ↪ Altruísta: não se incomoda em ajudar ou dividr os seus pertences.
+
+    ↪ Calmo: um estado mental consistente e inabalável.
+
+    ↪ Paciente: facilmente aguarda as melhores oportunidades.
+
+    ↪ Proativo: disposto a tomar as primeiras ações.
+
+    ↪ Humilde: reconhece suas limitações, além das qualidades de outros.
+
+    ↪ Focado: completamente dedicado em suas ações.
+
+↪ Defeitos
+
+    ↪ Indeciso: incapaz de tomar decisões e demonstrar confiança.
+
+    ↪ Ganancioso: com uma tendência exagerada de acumular recursos.
+
+    ↪ Irritado: temperamento muito alto.
+
+    ↪ Irresponsável: geralmente não cumpre tarefas, mesmo as mais simples.
+
+    ↪ Distraído: qualquer detalhe ou evento pode tirar o seu foco de qualquer atividade.
+
+    ↪ Egoísta: não se arrisca por outras pessoas ou objetivos alheios.
+
+    ↪ Desprezível: possui comportamentos controversos.
+
+    ↪ Cruel: há sadismo por trás de suas ações.
+
+    ↪ Arrogante: julga conhecer e ser superior a tudo.
+
+    ↪ Preguiçoso: 
+
+↪ Ambíguos
+
+    ↪ Ambicioso: bom em seguir seus objetivos, mas as vezes são irreais.
+
+    ↪ Frio: tomam decisões sem basear em sentimentos mesmo que duvidosas.
+
+    ↪ Otimista: consegue ver o lado bom de tudo, até de algo que não tenha.
+
+    ↪ Honesto: péssimo em mentir.
+
+    ↪ Controlador: tendência querer ter tudo na palma da mão.
+
+    ↪ Exigente: com padrões muito altos.
+
+    ↪ Inocente: não consegue ver maldade ou entender duplo sentido.
+
+    ↪ Excêntrico: aparencia e comportamentos bem incomuns.
+
+    ↪ Ousado: entre a coragem e a falta de noção.
+
+    ↪ Bipolar: possui mais de uma personalidade, não tendo controle da mudança.
+
+
+//
+//	///	Racionalidade
+//
+
+↪ Razão
+
+    ↪ Simples (Executa tarefas simples e podem usar habilidades).
+
+    ↪ Primitiva (Possui personalidade).
+
+    ↪ Racional (Pode usar itens e uso de linguagens).
+
+    ↪ Intelectual (Possui um conhecimento em classe especial).
+
+
+
+//
+//	///	Interpretação
+//
+
+↪ Ações (Modificadores)
+
+	↪ Força
+
+		↪ Provocação (STR): iniciar conflitos.
+
+		↪ Resistência (STR): suportar uma dificuldade.
+
+		↪ Intimidação (STR): assutar um ser.
+
+		↪ Exercício (STR): exercer uma atividade física.
+
+		↪ Superação (STR): quebrar limitações.
+
+	↪ Agilidade
+
+		↪ Roubo (AGI): adquirir a posse de um item sem o consentimento.
+
+		↪ Trapaça (AGI): enganar os sentidos de seres.
+
+		↪ Furtividade (AGI): não ser detectado.
+
+		↪ Mobilidade (AGI): poder se movimentar.
+
+		↪ Persuasão (AGI): convencer e manipular seres.
+
+    ↪ Inteligência
+
+		↪ Escrita (INT): habilidade de escrever em qualquer linguagem, ou produzir propriedade intelectual.
+
+		↪ Solução (INT): resolver problemas e enigmas.
+
+		↪ Leitura (INT): ler um texto em alguma linguagem antiga ou desconhecida.
+
+		↪ Criação (INT): produção de algo.
+
+		↪ Percepção (INT): identificar detalhes importantes.
+
+
+
+///
+///	///	Hostilidade
+///
+
+↪ Tendência
+
+    ↪ Dócil (Tenta interagir com os jogadores).
+
+    ↪ Passivo (Não ira revidar ao ser atacado).
+
+    ↪ Neutro (Revida).
+
+    ↪ Territorial (Ataca jogadores que entrarem uma área específica ou chegarem muito próximos).
+
+    ↪ Hostil (Ataca jogadores sempre que possível).
+
+↪ Comportamento
+
+    ↪ Monstro
+
+        ↪ Monstros de classe Tet ou superior recebem metade do dano mágico e metade dos efeitos negativos.
+
+        ↪ São atraídos por itens consumíveis, variando sua força e aparição pela classe do item ou se ele foi consumido ou não.
+
+        ↪ Possuem foco em abater o alvo.
+
+    ↪ Racional
+
+        ↪ Inimigos racionais de classe Tet ou superior possuem itens, habilidades e ações semelhante a jogadores.
+
+        ↪ São atraídos por equipamentos, variando sua força e aparição pela classe do item e principalmente a quantia de moedas de ouro e outros pertences de alto valor.
+
+        ↪ Possuem algum objetivo váriavel.

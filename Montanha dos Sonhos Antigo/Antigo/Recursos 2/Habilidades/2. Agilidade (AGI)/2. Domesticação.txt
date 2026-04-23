@@ -1,0 +1,287 @@
+↪ Shin (Classe 10 ou Básica, Novato)
+
+    ↪ Companhia.
+
+        ↪
+
+    ↪ Sequência de Uivos.
+
+        ↪
+
+    ↪ Golpe em Conjunto.
+
+        ↪
+
+    ↪ Emboscar.
+
+        ↪
+
+    ↪ Curar Fera.
+
+        ↪
+
+    ↪ Analisar Espécie.
+
+        ↪ Talento, Interpretação.
+
+        ↪ 
+
+    ↪ Domar.
+
+        ↪ Talento, Interpretação.
+
+        ↪ 
+
+
+↪ Resh (Classe 9, Regular)
+
+    ↪ Sincronia.
+
+        ↪
+
+    ↪ Abrir Feridas.
+
+        ↪
+
+    ↪ Arremessar Fera.
+
+        ↪
+
+    ↪ Rugido.
+
+        ↪
+
+    ↪ Dispersar.
+
+        ↪
+
+    ↪ Andar das Matas.
+
+        ↪ Talento, Interpretação.
+
+        ↪ 
+
+    ↪ Alimentar Fera.
+
+        ↪ Talento, Interpretação.
+
+        ↪ 
+
+
+↪ Ayin (Classe 8, Entusiasta)
+
+    ↪ Harmonia.
+
+        ↪
+
+    ↪ Convocar.
+
+        ↪
+
+    ↪ Justaposição.
+
+        ↪
+
+    ↪ Simbiose.
+
+        ↪
+
+    ↪ Horda.
+
+        ↪
+
+    ↪ Cadeia Alimentar.
+
+        ↪ Talento, Interpretação.
+
+        ↪ 
+
+    ↪ Monstruosidade.
+
+        ↪ Talento, Interpretação.
+
+        ↪ 
+
+
+↪ Samek (Classe 7, Profissional)
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+
+↪ Kaph (Classe 6, Veterano)
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+
+↪ Yod (Classe 5, Mestre)
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+
+↪ Tet (Classe 4, Gênio)
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+
+↪ Het (Classe 3, Senhor)
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+
+↪ Zayin (Classe 2, Lenda)
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+
+↪ Dalet (Classe 1, Rei)
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+
+↪ Aleph (Classe 0 ou Especial, Deus)
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪

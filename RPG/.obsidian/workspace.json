@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85397fcefd193d31",
+        "id": "2fc821c5c8e16f85",
         "type": "tabs",
         "children": [
           {
-            "id": "08690104a19d35de",
+            "id": "5660e1c30d759c65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema/Aspectos e Atributos__.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aspectos e Atributos__"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8118d7c27034c483",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff12bcc83a95c3a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagem/Ficha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ficha"
+              "title": "Nova aba"
             }
           }
         ]
@@ -73,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Efeitos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rolagem de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Rolagem de dados"
+              "title": "Links inversos"
             }
           },
           {
@@ -189,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -203,32 +178,43 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "08690104a19d35de",
+  "active": "48c0c355f4e1cbaa",
   "lastOpenFiles": [
+    "Sistema/Progressão__.md",
     "Sistema/Combate__.md",
-    "Personagem/Ficha.md",
-    "Sistema/Aspectos e Atributos__.md",
-    "Guia/Introdução.md",
-    "Guia/Criação de Personagem__.md",
-    "Guia/Como Jogar__.md",
-    "Imagens/Tabuleiro.jpg",
-    "Sistema/Interpretação__.md",
-    "Sistema/Ações.md",
+    "Sistema/Aspectos e Atributos.md",
+    "Recursos/Efeitos__.md",
+    "Sistema/Interpretação.md",
     "Sistema/Feitos.md",
+    "Sistema/Habilidades__.md",
+    "Sistema/Ações.md",
+    "Recursos/Classes__.md",
+    "Guia/Introdução.md",
+    "Guia/Criação de Personagem.md",
+    "Personagem/Ficha.md",
+    "Imagens/Tabuleiro.jpg",
+    "Sistema/Sessão__.md",
+    "Recursos/Ferramentas__.md",
+    "Recursos/Uso Único__.md",
+    "Recursos/Equipamentos__.md",
+    "Recursos/Conhecimentos__.md",
+    "Recursos/Habilidades e Talentos__.md",
+    "Sistema/Tipo de Dano__.md",
+    "Recursos/Itens__.md",
+    "Recursos",
+    "Guia/Como Jogar__.md",
+    "Esboço.md",
+    "Ideias e inspirações.md",
+    "Sem título.canvas",
     "Personagem/Ficha Exemplo.md",
     "Personagem/Ficha Base.md",
     "Imagens/Tabuleiro.xcf",
     "Imagens",
     "Consumíveis__.md",
-    "3. Sistema/2. Regras/Sem título.md",
     "3. Sistema/1. Mecânicas",
-    "Personagem/Ficha Base - Copia (2).md",
-    "Personagem/Ficha Base - Copia.md",
-    "Personagem/Sem título.md",
     "Sistema",
     "Personagem",
     "3. Sistema/2. Regras",
-    "Rolagem de dados.md",
     "Guia"
   ]
 }

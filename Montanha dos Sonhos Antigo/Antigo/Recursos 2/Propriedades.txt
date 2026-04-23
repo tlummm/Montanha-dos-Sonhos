@@ -1,0 +1,175 @@
+//
+//	///	Dissipação (e simplificação de classe)
+//
+
+↪ Fraca
+
+	↪ Classe Samek ou inferior (efeitos não-debilitante ou de performance).
+
+↪ Média
+
+	↪ Classe Tet ou inferior (efeitos debilitante ou de probabilidade).
+
+↪ Superior
+
+	↪ Classe Dalet ou inferior (efeitos inutilizantes e de resistência).
+
+↪ Verdadeira
+
+	↪ Classe Aleph ou inferior (efeitos de classe especial).
+
+
+
+//
+//	///	Traços
+//
+
+↪ Tipos de Habilidade ou Magia
+
+	↪ Ofensivo.
+
+	↪ Defensivo.
+
+	↪ Mobilidade.
+
+	↪ Controle.
+
+	↪ Recuperação.
+
+	↪ Utilidade.
+
+	↪ Invocação.
+
+	↪ Interrupção.
+
+↪ Tipos de Dano
+
+	↪ Físico
+
+		↪ Corte.
+
+		↪ Perfuração.
+
+		↪ Contusão (Pancada).
+
+	↪ Mágico
+
+		↪ Fogo.
+
+		↪ Gélido.
+
+		↪ Sombrio.
+
+		↪ Químico.
+
+		↪ Sagrado.
+
+		↪ Elétrico.
+
+	↪ Puro
+
+		↪ Especial (Ignora Redução de Dano).
+
+↪ Área de efeito
+
+	↪ Toque (Fraca).
+
+	↪ Projétil (Média).
+
+	↪ Individual (Média).
+
+	↪ Área (Superior).
+
+	↪ Local (Superior).
+
+	↪ Aura (Verdadeira).
+
+↪ Gatilhos
+
+	↪ Morrer (Classe: Shin)
+
+	↪ Abater (Classe: Resh).
+
+	↪ Causar Dano (Classe: Ayin).
+
+	↪ Aplicar Efeitos (Classe: Kaph).
+
+	↪ Causar Dano com Habilidade (Classe: Samek).
+
+	↪ Acertar (Classe: Yod).
+
+	↪ Consumir Item (Classe: Tet).
+
+	↪ Mover com Habilidade (Classe: Het).
+
+	↪ Ser Acertado (Classe: Zayin).
+
+	↪ Mover (Classe: Dalet).
+
+	↪ Começo de Turno (Classe: Aleph).
+
+↪ Precisão
+
+	↪ Crítica (20 no d20).
+
+	↪ Improvável (maior ou igual a 15 no d20).
+
+		↪ Fraca.
+
+	↪ Dificil (maior ou igual a 11 no d20).
+
+		↪ Média.
+
+	↪ Normal (maior ou igual a 7 no d20).
+
+		↪ Superior.
+
+	↪ Garantida (sem arremesso de dados).
+
+		↪ Verdadeira.
+
+
+
+///
+///	///	Palavras Chave
+///
+
+↪ Condicional (Fraca)
+
+	↪ Infortunio (Aleatoriedade em seu funcionamento).
+
+	↪ Sequência (Efeitos adicionais ao fazer uma sequência).
+
+	↪ Alternativo (Efeitos adicionais ao pagar um custo extra).
+
+	↪ Enigma (Muda a habilidade completamente devido a uma condição).
+
+↪ Maleável (Média)
+
+	↪ Reforçado (Acerto garantido).
+
+	↪ Fortificado (Dano se torna Puro).
+
+	↪ Diário (Usos limitados a um por dia).
+
+	↪ Dissipação (Dissipa algum efeito positivo ou negativo).
+
+↪ Váriavel (Superior)		
+
+	↪ Fervor X (Adiciona X marcadores de Fervor).
+
+	↪ Ricochete X (Acerta X alvos adicionais).
+
+	↪ Desgaste X (Adiciona X marcadores de Desgaste).
+
+	↪ Canalizar X (Canalizar por X turnos, sem poder sofrer dano ou efeitos para realizar algo).
+
+↪ Adicional (Verdadeira)
+
+	↪ Antecipação (Pode ser usado antes de uma ação).
+
+	↪ Proceder (pode ser usado depois de uma ação).
+
+	↪ Repentino (Pode ser usado fora do turno).
+
+	↪ Maestria (Pode ser usado várias vezes durante os turnos).

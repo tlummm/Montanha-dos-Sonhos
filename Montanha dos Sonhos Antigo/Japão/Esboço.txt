@@ -1,0 +1,11 @@
+// Base
+
+Skill genérica
+
+    Descrição breve;
+
+// Skills
+
+Burnout
+
+    O primeiro Ataque ou habilidade do seu turno também reduz a mana dos alvos em 1d8 + Maestria.

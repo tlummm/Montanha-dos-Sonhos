@@ -1,0 +1,134 @@
+//
+//	///	Atributos Principais
+//
+
+↪ Força
+
+    ↪ Sobre: O atributo responsável pela fisíca e propriedade de seres e objetos.
+
+    ↪ Secundário:
+
+        ↪ Ataque: cada 1 ponto corresponde a 1 Ponto de Dano Base da unidade.
+
+        ↪ Defesa: cada 2 pontos correspondem a 1 de Dano Físico reduzido sofrido.
+
+        ↪ Vitalidade: cada 1 ponto corresponde a 5 Pontos de Vida Máxima.
+
+↪ Agilidade
+
+    ↪ Sobre: O atributo responsável pelo comportamento do ser ou objeto em relação ao mundo.
+
+    ↪ Secundário:
+
+        ↪ Velocidade: cada 1 ponto corresponde a 1 metro que a unidade pode percorrer por turno.
+
+        ↪ Alcance: cada 1 ponto correspondem a 1 metro de alcance adicional nos Ataques e Habilidades (exceto por Corpo a Corpo).
+
+        ↪ Comunicação: cada 1 ponto corresponde a 3 metros de Distância Máxima de unidades controladas por esta.
+
+↪ Inteligência
+
+    ↪ Sobre: O atributo responsável pela consciência do ser ou objeto.
+
+    ↪ Secundário:
+
+        ↪ Maestria: cada 1 ponto corresponde a 1 ponto de dano em Habilidades e Unidades.
+
+        ↪ Noção: cada 2 pontos correspondem a 1 de Dano Mágico reduzido sofrido.
+
+        ↪ Domínio: cada 1 ponto corresponde a 4 Pontos de Mana máxima.
+
+
+//
+//	///	Características
+//
+
+↪ Tipo (categoria)
+
+    ↪ Animal.
+
+    ↪ Monstro.
+
+    ↪ Elemental.
+
+    ↪ Morto-vio.
+
+    ↪ Etc.
+
+↪ Tipo (espécie)
+
+    ↪ Aves.
+
+    ↪ Réptil.
+
+    ↪ Primata.
+
+    ↪ Canino.
+
+    ↪ Urso.
+
+    ↪ Etc.
+
+↪ Tipo (locomoção)
+
+    ↪ Terrestre.
+
+    ↪ Aquático.
+
+    ↪ Voador.
+
+↪ Tipo (alimentação)
+
+    ↪ Carnívoro
+
+    ↪ Herbívoro
+
+    ↪ Detritívoro
+
+    ↪ Onívoro
+
+
+
+//
+//	///	Sub-habilidades
+//
+
+↪ Movimentação (Fraca)
+
+	↪ Submergir (Escavar e se locomever dentro de algumas superfícies)
+
+	↪ Salto (Realizar grandes pulos)
+
+	↪ Escalar (Poder se mover em algumas paredes ou tetos)
+
+	↪ Impulso (Domínio na movimentação)
+
+↪ Sobrevivência (Média)
+
+	↪ Disparo (Possuí ataques básicos a distância)
+
+	↪ Regeneração (Regeneração de vida e mana base além dos atributos)
+
+	↪ Detecção (Capacidade poder identificar e prever coisas)
+
+	↪ Camuflagem (Se esconder no meio ambiente ou até se tornar invisível)
+
+↪ Peculiaridade (Superior)
+
+	↪ Comunicação (Poder se comunicar com individuos da mesma espécie ou outros seres)
+
+	↪ Mimetismo (Imitiar um outro ser ou a habilidade do mesmo)
+
+	↪ Multiplicação (Criar cópias de si mesmo ou outros indivíduos da mesma espécie)
+
+	↪ Resistência (Redução de danos e efeitos além dos marcadores)
+
+↪ Única (Verdadeira)
+
+	↪ Imune (Imunidade a algum efeito, propriedade e etc)
+
+	↪ Especialização (Escolher e mudar o atributo principal)
+
+	↪ Conjuração (Conjurar magias e habilidades como um jogador ou NPC)
+
+	↪ Renascimento (Voltar a vida ou evitar a morte)
