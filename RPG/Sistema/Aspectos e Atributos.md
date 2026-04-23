@@ -47,8 +47,8 @@ A cada 10 pontos de um **Atributo**:
 * **Vigor**: aumenta a **Regeneração** de **Vida** em 1, ou em 2 caso esteja a baixo da metade da **Vida** máxima (arredondado para baixo);
 
 * **Domínio**: reduz os **Custos** de **Energia** em 3, ou em 4 caso esteja a baixo da metade da **Energia** máxima (arredondado para baixo);
-* **Espírito**: aumenta a **Falha Crítica** nas **Ações Especiais** contra você em 1;
-* **Maestria**: aumenta o **Acerto Crítico** em 1 em suas **Ações Especiais**;
+* **Espírito**: aumenta a **Falha Crítica** nas **Ações Principais** contra você em 1;
+* **Maestria**: aumenta o **Acerto Crítico** em 1 em suas **Ações Principais**;
 
 **Observação**: a cada 10 pontos de um **Atributo** também aumenta o seu modificador em [[Interpretação]].
 
@@ -58,8 +58,8 @@ Ao atingir o valor máximo de um **Atributo** (99 pontos):
 * **Vigor**: após todas as modificações positivas na sua **Vida Máxima** ela é dobrada;
 
 * **Alcance**: suas **Ações** de **Alvo** único tem **Alcance** e **Alvos** infinitos;
-* **Sorte**: pode escolher os [[Itens__]] concedidos em [[Feitos]], porém ainda respeitando as regras da [[Progressão__]];
-* **Velocidade**: você tem **Ações de Movimento** infinitas, porém sem **Ações Especiais** nela, além que a distância dessas **Ações** é infinita;
+* **Sorte**: pode escolher os [[Itens__]] concedidos em [[Feitos]], porém ainda respeitando as regras da [[Progressão]];
+* **Velocidade**: você tem **Ações de Movimento** infinitas, porém sem **Ações Principais** nela, além que a distância dessas **Ações** é infinita;
 
 * **Domínio**: suas **Ações Principais** custam metade do seus **Custos** de **Energia** ou **Vida**;
 * **Espírito**: recebe metade do **Dano** e [[Efeitos__]] que a fonte seja uma **Ação Principal**;

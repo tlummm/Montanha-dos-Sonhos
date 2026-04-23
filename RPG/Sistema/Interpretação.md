@@ -4,7 +4,7 @@ Inicialmente na [[Sessão__]] os personagens começam no **Plano de Interpretaç
 
 Nesse modo os jogadores tem liberdade para poder realizar qualquer **Ação**, sem restrições como turnos ou tempo (raramente tendo turnos para todos poderem jogar igualmente, ou tempo se nada estiver progredindo).
 
-Nesse plano os jogadores podem usar qualquer item ou habilidade, desde as **Interpretativas** até as de [[Combate__]].
+Nesse plano os jogadores podem usar qualquer item ou habilidade, desde as **Interpretativas** até as de [[Combate]].
 
 As **Ações Interpretativas** podem ser qualquer uma baseadas na **Imaginação** do **Jogador**, porém essas ações são sempre englobadas em alguns tipos, que podem ser consultados no próximo tópico, **Ações Interpretativas**, para mais detalhes. Essas ações podem ter variações criativas, dependendo de como um **Jogador** consegue convencer a **Mesa** e o **Mestre**. Por exemplo em um cenário onde alguém precisa pular um buraco:
 
@@ -39,7 +39,7 @@ Personagens baseados em **Inteligência** possuem vantagem nas seguintes categor
 
 # Modificadores
 
-Modificadores impactam diretamente na **Precisão** das **Ações Interpretativa** (mais detalhes em [[Habilidades__]]), quanto maior for o modificador, também será maior o valor adicional somado no arremesso de **Dados**.  
+Modificadores impactam diretamente na **Precisão** das **Ações Interpretativa** (mais detalhes em [[Habilidades e Talentos]]), quanto maior for o modificador, também será maior o valor adicional somado no arremesso de **Dados**.  
 
 É importante que ressaltar que por adversidades o **Personagem** pode ter esse **Efeito Negativado**, atrapalhando suas jogadas. Também existe **Modificadores Críticos**, que facilitam o valor máximo o reduzindo para menos de 20 no **d20**, como 19 em apenas um **Modificador Crítico** por exemplo.
 

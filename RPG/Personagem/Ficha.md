@@ -46,6 +46,6 @@ Iniciante em **Texto**;
 
 **Texto**: Texto;
 
-# [[Habilidades e Talentos__]]
+# [[Habilidades e Talentos]]
 
 **Texto**: Texto;

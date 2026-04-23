@@ -1,8 +1,10 @@
-As **Habilidades** são o coração de personagens em **Dream Mountain**, graças ao fator de serem **Ações Especiais** que podem ser feitas tanto por **Jogadores**, **NPCs**, **Monstros** e até por objetos como **Itens** e **Estruturas**. No entanto essa **Ações** possuem certos padrões e regras.
+# Habilidades
+
+As **Habilidades** são como o coração de **Personagens**, graças ao fator de serem **Ações Principais** que podem ser feitas tanto por **Jogadores**, **NPCs**, **Monstros** e até por objetos como **Itens** e **Estruturas**. No entanto essa **Ações** possuem certos padrões e regras.
 
 # Dissipação
 
-É muito comum uma **Habilidade** aplicar [[Efeitos__]], tanto **Positivos** quanto **Negativos**. No entanto, esses mesmos **Efeitos** também podem ser anulados por outras **Habilidades**. No processo de **Dissipação** a fonte causadora decide o que e quanto vai ser removido, mas com certos limites:
+É muito comum uma **Habilidade** aplicar [[Efeitos__]], tanto **Positivos** quanto **Negativos**. No entanto, esses mesmos [[Efeitos__]] também podem ser anulados por outras **Habilidades**. No processo de **Dissipação** a fonte causadora decide o que e quanto vai ser removido, mas com certos limites:
 
 * **Dissipação Fraca**: Remove **Efeitos** de **Interpretação** ou **Não-Debilitante**.
 * **Dissipação Normal**: Remove **Efeitos** de **Combate** ou **Debilitantes**, além de inferiores.
@@ -11,9 +13,9 @@ As **Habilidades** são o coração de personagens em **Dream Mountain**, graça
 
 Caso um **Efeito** seja **Único** e não se enquadre na documentação de [[Efeitos__]], a **Dissipação** segue essas regras:
 
-* **Dissipação Fraca**: Remove **Efeitos** de **Nível** 3 ou inferior.
-* **Dissipação Normal**: Remove **Efeitos** de **Nível** 6 ou inferior.
-* **Dissipação Forte**: Remove **Efeitos** de **Nível** 9 ou inferior.
+* **Dissipação Fraca**: Remove **Efeitos** de **Nível 3** ou inferior.
+* **Dissipação Normal**: Remove **Efeitos** de **Nível 6** ou inferior.
+* **Dissipação Forte**: Remove **Efeitos** de **Nível 9** ou inferior.
 * **Dissipação Verdadeira**: Remove qualquer **Efeito** de qualquer **Nível**.
 
 # Traço
@@ -21,17 +23,19 @@ Caso um **Efeito** seja **Único** e não se enquadre na documentação de [[Efe
 As **Habilidades** sempre possuem algumas características que influencia em sua execução. Podem ser desde o seu **Tipo**, **Área de Efeito**, **Dano** ou **Precisão**. Esses **Traços** são os que definem a forma que essas habilidades devem ser interpretadas ou usadas.
 
 #### Tipo
+
 Significa o que é **Habilidade** ou a que grupo ela pertence. Elas podem ser diversas como:
 
 * **Ofensivo**: ferir ou atacar.
 * **Defensivo**: proteger.
-* **Mobilidade**: mover-se.
-* **Controle**: reduzir as características.
+* **Mobilidade**: mover-se ou mover algo.
+* **Controle**: manipular ou reduzir características.
 * **Recuperação**: recuperar algo perdido.
 * **Utilidade**: oferecer soluções alternativas.
-* **Invocação**: criar a partir de algo do nada.
+* **Invocação**: criar algo a partir do nada.
 
 #### Área de Efeito
+
 É como a **Habilidade** será aplicada, assim como quem irá receber o **Dano** e os **Efeitos**:
 
 * **Toque**: também conhecido como **Alcance** **Corpo a Corpo**, é aplicada a um **Alvo** ao lado do **Usuário**.
@@ -44,6 +48,7 @@ Significa o que é **Habilidade** ou a que grupo ela pertence. Elas podem ser di
 * **Aura**: todas as unidades são afetadas, podendo ou não ter uma distância do **Usuário**, e os efeitos são aplicados uma vez a cada **Turno**.
 
 #### Precisão
+
 É a dificuldade para acertar a **Habilidade**, podendo variar entre:
 
 * **Garantida**: sem arremesso de **Dados**.
@@ -51,3 +56,7 @@ Significa o que é **Habilidade** ou a que grupo ela pertence. Elas podem ser di
 * **Difícil**: maior ou igual a 11 no **d20**.
 * **Improvável**: maior ou igual a 15 no **d20**.
 * **Crítica**: 20 no **d20**.
+
+# Talentos
+
+São como **Habilidades**, e tem todas as suas **Propriedades**, no entanto não podem ser usadas em **Ação Principal**, mas em condições que os **Talentos** propõe. Alguns são completamente estáticos, concedendo apenas [[Aspectos e Atributos]] ou peculiaridades adicionais a [[Ficha]], no entanto alguns podem acionados por atender condições, ao realizar outras **Ações**, e mesmo não sendo ativos podem ter **Custos**.

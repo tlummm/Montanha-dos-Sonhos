@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fc821c5c8e16f85",
+        "id": "f2561d90dbbd43da",
         "type": "tabs",
         "children": [
           {
-            "id": "5660e1c30d759c65",
+            "id": "032b90e2af022017",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Efeitos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Recursos/Equipamentos__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Equipamentos__"
             }
           },
           {
@@ -178,43 +179,45 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "48c0c355f4e1cbaa",
+  "active": "032b90e2af022017",
   "lastOpenFiles": [
-    "Sistema/Progressão__.md",
-    "Sistema/Combate__.md",
-    "Sistema/Aspectos e Atributos.md",
-    "Recursos/Efeitos__.md",
-    "Sistema/Interpretação.md",
-    "Sistema/Feitos.md",
-    "Sistema/Habilidades__.md",
-    "Sistema/Ações.md",
-    "Recursos/Classes__.md",
-    "Guia/Introdução.md",
-    "Guia/Criação de Personagem.md",
-    "Personagem/Ficha.md",
-    "Imagens/Tabuleiro.jpg",
-    "Sistema/Sessão__.md",
-    "Recursos/Ferramentas__.md",
-    "Recursos/Uso Único__.md",
-    "Recursos/Equipamentos__.md",
     "Recursos/Conhecimentos__.md",
-    "Recursos/Habilidades e Talentos__.md",
-    "Sistema/Tipo de Dano__.md",
-    "Recursos/Itens__.md",
-    "Recursos",
-    "Guia/Como Jogar__.md",
-    "Esboço.md",
-    "Ideias e inspirações.md",
-    "Sem título.canvas",
-    "Personagem/Ficha Exemplo.md",
-    "Personagem/Ficha Base.md",
-    "Imagens/Tabuleiro.xcf",
-    "Imagens",
-    "Consumíveis__.md",
-    "3. Sistema/1. Mecânicas",
-    "Sistema",
-    "Personagem",
-    "3. Sistema/2. Regras",
-    "Guia"
+    "Personagem/Tabela de Níveis.md",
+    "Sistema/Progressão.md",
+    "Recursos/Conhecimentos/Magia/Ventus__.md",
+    "Recursos/Conhecimentos/Magia/Ignis__.md",
+    "Recursos/Conhecimentos/Magia/Gaia__.md",
+    "Recursos/Conhecimentos/Magia/Aqua__.md",
+    "Recursos/Conhecimentos/Técnica/Trapaça__.md",
+    "Recursos/Conhecimentos/Técnica/Furtividade__.md",
+    "Recursos/Conhecimentos/Técnica/Atletismo__.md",
+    "Recursos/Conhecimentos/Conjuração/Voz__.md",
+    "Recursos/Conhecimentos/Conjuração/Mãos Livres__.md",
+    "Recursos/Conhecimentos/Conjuração/Catalizador__.md",
+    "Recursos/Conhecimentos/Combate/Perfuração__.md",
+    "Recursos/Conhecimentos/Combate/Haste__.md",
+    "Recursos/Conhecimentos/Combate/Corte__.md",
+    "Recursos/Conhecimentos/Combate/Contusão__.md",
+    "Recursos/Conhecimentos/Combate/Bloqueio__.md",
+    "Recursos/Habilidades e Talentos.md",
+    "Recursos/Conhecimentos/Técnica",
+    "Recursos/Conhecimentos/Armaduras/Sem título.md",
+    "Recursos/Conhecimentos/Armaduras",
+    "Recursos/Conhecimentos/Combate",
+    "Recursos/Classes/Acadêmico__.md",
+    "Recursos/Conhecimentos/Magia",
+    "Recursos/Conhecimentos/Conjuração",
+    "Sistema/Aspectos e Atributos.md",
+    "Recursos/Conhecimentos",
+    "Recursos/Classes/Soldado__.md",
+    "Recursos/Classes/Mercenário__.md",
+    "Guia/Criação de Personagem.md",
+    "Recursos/Itens/Ferramentas__.md",
+    "Recursos/Itens",
+    "98. Desenvolvimento/1. Dream Mountain/Funcional/Sistema/Mecânicas",
+    "98. Desenvolvimento/1. Dream Mountain/Funcional/Sistema",
+    "98. Desenvolvimento/1. Dream Mountain/Funcional",
+    "Imagens/Tabuleiro.jpg",
+    "Sem título.canvas"
   ]
 }
