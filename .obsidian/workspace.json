@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "014f06fe0e2d249f",
+    "type": "split",
+    "children": [
+      {
+        "id": "97eee72086bfa139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a651d9a07fbce043",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfbc5b9f0e04a1e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c43d03534af5f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69edc1dc2b2e14d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c2773e1b0dea1b4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "4c7aa5d9ad77f474",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d80eed99f26e716",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e2084732fc2520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63d8682d8d9e6148",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Funcional/Guias/Introdução.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Introdução"
+            }
+          },
+          {
+            "id": "eaa1e60fa3279a47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Funcional/Guias/Introdução.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Introdução"
+            }
+          },
+          {
+            "id": "94949a70399d6ff9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a51dc71c580d6529",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "0c4ac5ef02f90722",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Funcional/Guias/Introdução.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Introdução"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "d69edc1dc2b2e14d",
+  "lastOpenFiles": [
+    "Personagens/Ficha Exemplo.md",
+    "Personagens/Ficha Base.md",
+    "Personagens/Ficha.md",
+    "Sistemas/Progressão.md",
+    "Guias/Criação de Personagem.md",
+    "Sistemas/Combate.md",
+    "Recursos/Classes.md",
+    "Sistemas/Aspectos e Atributos.md",
+    "Recursos/Classes/Astúcia__.md",
+    "Recursos/Classes/Guerra__.md",
+    "Recursos/Classes/Magia__.md",
+    "Recursos/Efeitos.md",
+    "Recursos/Itens/Equipamentos.md",
+    "Recursos/Itens__.md",
+    "Recursos/Itens/Ferramentas.md",
+    "Recursos/Itens/Uso Único.md",
+    "Guias/Introdução.md",
+    "Sistemas/Ações.md",
+    "Sistemas/Feitos.md",
+    "Sistemas/Habilidades e Talentos.md",
+    "Sistemas/Interpretação.md",
+    "Sistemas/Regra de Ouro.md",
+    "Sistemas/Sessão.md",
+    "Sem título.canvas",
+    "Introdução__.md",
+    "Recursos/Itens",
+    "Imagens/Tabuleiro.xcf",
+    "Imagens/Tabuleiro.jpg",
+    "Imagens",
+    "Sistemas",
+    "Recursos",
+    "Recursos/Classes",
+    "Personagens",
+    "Desenvolvimento/RPG/Guias/Introdução.md",
+    "Funcional/Guias"
+  ]
+}

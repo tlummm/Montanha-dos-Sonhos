@@ -1,0 +1,17 @@
+As [[Classes]] definem as **Habilidades** e **Talentos** da [[Ficha]] de um **Personagem**, definindo quem ele é, o que pode fazer e suas funções, sendo recomendável alguns **Itens**,  [[Aspectos e Atributos]] para o melhor rendimento de suas funcionalidades.
+
+As [[Classes]] são divididas nos três grandes **Aspectos** sendo a **Agilidade**, **Força** e **Inteligência**, além de também possuírem **Funções**:  
+
+1. **Dano**: atacar e finalizar adversários.
+2. **Suporte**: utilidade e recuperação de recursos.
+3. **Tanque**: resistir e sobreviver a ameaças.
+
+Uma [[Classes]] de qualquer **Aspecto** pode também desempenhar qualquer papel, porém na maioria dos casos o **Aspecto** de **Força** cumpre a **Função** de **Tanque**, **Agilidade** de **Dano** e **Inteligência** de **Suporte**. Porém há exceções, como **Aspectos** cobrindo funções diferentes do projetado, além de que todos podem sempre cumprir a **Função** de **Dano** para permitir a independência de um **Jogador**.
+
+# Classes Disponíveis
+
+Atualmente há 3 **Classes** básicas:
+
+1. [[Astúcia__]]: **Classe** de **Agilidade**, com apenas a **Função** de **Dano**.
+2. [[Guerra__]]: **Classe** de **Força**, cumpre as **Funções** de **Dano** e **Tanque**.
+3. [[Magia__]]: **Classe** de **Inteligência**, cumpre as **Funções** de **Dano** e **Suporte**.
