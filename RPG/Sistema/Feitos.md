@@ -1,3 +1,3 @@
 São **Eventos** que ocorrem ao fazer uma tarefa que conceda **Progresso** ao seu **Personagem**, resultando em pontos de **Experiência** e finalmente a subida de **Nível**. Um **Feito** pode ser tanto derrotar um **Monstro**, como ganhar uma **Aposta** ou um **Debate**, vender um **Item** e entre outros. É tudo que seja tão difícil quanto derrotar um **Oponente**.
 
-Pequenos **Feitos** ou **Feitos Menores** são na vitória de qualquer teste em [[Interpretação]], eles concedem um quinto de **Experiência** de derrotar um **Oponente** do mesmo **Nível** que o **Feitor**.
+Pequenos **Feitos**, ou **Feitos Menores**, são a vitória de qualquer teste em [[Interpretação]] e concedem um quinto de **Experiência** de derrotar um **Oponente** do mesmo **Nível** que o **Jogador** que o fez.

@@ -1,6 +1,6 @@
 # Plano de Interpretação
 
-Inicialmente na [[Sessão__]] os personagens começam no **Plano de Interpretação**, um modo de jogo onde diálogos e tomadas de decisões são o ponto chave.
+Inicialmente na [[Sessão]] os personagens começam no **Plano de Interpretação**, um modo de jogo onde diálogos e tomadas de decisões são o ponto chave.
 
 Nesse modo os jogadores tem liberdade para poder realizar qualquer **Ação**, sem restrições como turnos ou tempo (raramente tendo turnos para todos poderem jogar igualmente, ou tempo se nada estiver progredindo).
 
