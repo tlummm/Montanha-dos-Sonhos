@@ -27,7 +27,7 @@ Um ponto de **Força** sempre concede um ponto de **Ataque**, **Defesa** e **Vig
 Esse **Aspecto** se baseia em elementos chave como o **Domínio**, **Espírito** e **Maestria**. Os exemplos de suas capacidades são o foco, utilidade, mentalidade, noção, técnica, expertise e entre outros.
 
 **Atributos**:
-1. **Domínio**: 5 pontos de **Energia** máxima;
+1. **Domínio**: 5 pontos de **Mana** máxima;
 2. **Espírito**: 1 ponto reduzido ao sofrer **Dano Mágico** (exceto em [[Efeitos]]);
 3. **Maestria**: 1 ponto adicional de **Eficiência** em **Itens**, **Habilidades** e **Talentos**, com exceção de [[Efeitos]];
 
@@ -56,7 +56,7 @@ A cada 10 pontos de um **Atributo**:
 * **Defesa**: aumenta a **Falha Crítica** nos **Ataques** contra você em 1;
 * **Vigor**: aumenta a **Regeneração** de **Vida** em 1, ou em 2 caso esteja a baixo da metade da **Vida** máxima (arredondado para baixo);
 
-* **Domínio**: reduz os **Custos** de **Energia** em 3, ou em 4 caso esteja a baixo da metade da **Energia** máxima (arredondado para baixo);
+* **Domínio**: reduz os **Custos** de **Mana** em 3, ou em 4 caso esteja a baixo da metade da **Mana** máxima (arredondado para baixo);
 * **Espírito**: aumenta a **Falha Crítica** nas **Ações Principais** contra você em 1;
 * **Maestria**: aumenta o **Acerto Crítico** em 1 em suas **Ações Principais**;
 
@@ -71,6 +71,6 @@ Ao atingir o valor máximo de um **Atributo** (99 pontos):
 * **Sorte**: pode escolher os **Itens** concedidos em [[Feitos]], porém ainda respeitando as regras da [[Progressão]];
 * **Velocidade**: você tem **Ações de Movimento** infinitas, porém sem **Ações Principais** nela, além que a distância dessas **Ações** é infinita;
 
-* **Domínio**: suas **Ações Principais** custam metade do seus **Custos** de **Energia** ou **Vida**;
+* **Domínio**: suas **Ações Principais** custam metade do seus **Custos** de **Mana** ou **Vida**;
 * **Espírito**: recebe metade do **Dano** e [[Efeitos]] que a fonte seja uma **Ação Principal**;
 * **Maestria**: seus **Acertos** normais em **Ações Principais** podem ser **Críticos**;

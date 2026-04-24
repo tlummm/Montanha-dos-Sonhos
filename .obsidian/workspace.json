@@ -11,10 +11,14 @@
             "id": "a651d9a07fbce043",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Testes/Testes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Testes"
             }
           }
         ]
@@ -179,29 +183,31 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d69edc1dc2b2e14d",
+  "active": "a651d9a07fbce043",
   "lastOpenFiles": [
+    "Recursos/Classes/Magia.md",
+    "Testes/Testes.md",
+    "Testes",
+    "Recursos/Classes/Guerra.md",
+    "Recursos/Classes/Astúcia.md",
+    "Recursos/Itens/Uso Único.md",
+    "Recursos/Itens/Ferramentas.md",
+    "Recursos/Itens/Equipamentos.md",
+    "Sistemas/Aspectos e Atributos.md",
+    "Recursos/Efeitos.md",
+    "Sistemas/Interpretação.md",
+    "Recursos/Classes.md",
     "Personagens/Ficha Exemplo.md",
     "Personagens/Ficha Base.md",
     "Personagens/Ficha.md",
     "Sistemas/Progressão.md",
     "Guias/Criação de Personagem.md",
     "Sistemas/Combate.md",
-    "Recursos/Classes.md",
-    "Sistemas/Aspectos e Atributos.md",
-    "Recursos/Classes/Astúcia__.md",
-    "Recursos/Classes/Guerra__.md",
-    "Recursos/Classes/Magia__.md",
-    "Recursos/Efeitos.md",
-    "Recursos/Itens/Equipamentos.md",
     "Recursos/Itens__.md",
-    "Recursos/Itens/Ferramentas.md",
-    "Recursos/Itens/Uso Único.md",
     "Guias/Introdução.md",
     "Sistemas/Ações.md",
     "Sistemas/Feitos.md",
     "Sistemas/Habilidades e Talentos.md",
-    "Sistemas/Interpretação.md",
     "Sistemas/Regra de Ouro.md",
     "Sistemas/Sessão.md",
     "Sem título.canvas",

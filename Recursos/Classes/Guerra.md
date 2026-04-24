@@ -5,7 +5,7 @@ Possuem a mesma quantia de **Talentos** quanto **Habilidades**, feitos para r
 - **Dano**: de todas as formas possíveis contra todos os tipos de oponentes.
 - **Tanque**: Resistir a **Ataques**, tendo proteção contra qualquer tipo de ameaça.
 
-É do **Aspecto** da **Força**, ou seja possui 1 **Modificador** nas suas modalidades de [[Interpretação__]], além de 1 ponto adicional nos [[98. Desenvolvimento/1. Dream Mountain/Funcional/Sistema/Mecânicas/Atributos__]] de **Ataque**, **Defesa** e **Vitalidade**.
+Por ser do **Aspecto** da **Força** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional em cada [[Aspectos e Atributos]] de **Ataque**, **Defesa** e **Vigor**, mas também recebe em um **Atributo Secundário** de **Crítico**.
 
 # Nível Inicial (Novato)
 
@@ -13,7 +13,7 @@ Possuem a mesma quantia de **Talentos** quanto **Habilidades**, feitos para r
 
 Talento Principal.
 
-Participar de várias lutas faz com que você sempre aprenda algo novo a cada conflito, aumentando sua força a medida de novas ameaças. Sempre que ganhar um **Plano de Combate** você pode escolher entre **Ataque** e **Vitalidade**, ganhando permanentemente um 1 ponto daquele **Atributo**. A quantia de pontos adicionais ganhos não pode superior a 3 vezes o seu **Nível**.
+Participar de várias lutas faz com que você sempre aprenda algo novo a cada conflito, aumentando sua força a medida de novas ameaças. Sempre que ganhar um **Plano de Combate** você pode escolher entre **Ataque** e **Vigor**, ganhando permanentemente um 1 ponto daquele **Atributo**. A quantia de pontos adicionais ganhos não pode superior a 3 vezes o seu **Nível**.
 
 Para **Oponentes** do tipo **Chefe** há uma nova contagem, sendo um máximo de pontos ganhos igual ao seu **Nível**, e os distribuindo apenas entre **Defesa** ou **Letalidade**.
 
@@ -43,7 +43,7 @@ Imitando uma fase da lua você realiza um ataque poderosos empurrando seus opone
 
 Talento Físico, Defensivo e Ofensivo.
 
-Seu treinamento intenso o concedeu um corpo ideal para conflitos armados. Aumenta a **Vitalidade** em 1, e o seu **Ataque** é aumentado em 1 para cada **Arma** equipada.
+Seu treinamento intenso o concedeu um corpo ideal para conflitos armados. Aumenta a **Vigor** em 1, e o seu **Ataque** é aumentado em 1 para cada **Arma** equipada.
 
 ### Pancada
 
@@ -217,7 +217,7 @@ Para você defesa e ataque são duas faces da mesma moeda. No início de um **Co
 
 Talento Físico, Defensivo.
 
-Sua liderança é passada através de uma formação imbatível. Enquanto equipado com um **Escudo**, **Aliados** dentro de um **Alcance** igual a metade da sua **Vitalidade**, arredondado para cima, recebem 1 **Aumento** de **Defesa** para cada **Aliado** sobre esse **Efeito**. Você também recebe esse **Aumento**, mas não faz parte da contagem.
+Sua liderança é passada através de uma formação imbatível. Enquanto equipado com um **Escudo**, **Aliados** dentro de um **Alcance** igual a metade da sua **Vigor**, arredondado para cima, recebem 1 **Aumento** de **Defesa** para cada **Aliado** sobre esse **Efeito**. Você também recebe esse **Aumento**, mas não faz parte da contagem.
 
 ### Indomável
 
@@ -239,7 +239,7 @@ Habilidade Física, Controle, Área.
 
 **Precisão Normal**, requer **Escudo** e **Custa** 13 pontos de **Mana**.
 
-Uma batida de escudo no chão que chama a atenção de todos os adversários. Em um raio igual a sua **Vitalidade** força todos os **Oponentes** a só poderem se movimentar em sua direção, atacar ou usar **Habilidades** com você como **Alvo**, até o seu próximo **Turno**.
+Uma batida de escudo no chão que chama a atenção de todos os adversários. Em um raio igual a sua **Vigor** força todos os **Oponentes** a só poderem se movimentar em sua direção, atacar ou usar **Habilidades** com você como **Alvo**, até o seu próximo **Turno**.
 
 # Nível 5 (Mestre)
 

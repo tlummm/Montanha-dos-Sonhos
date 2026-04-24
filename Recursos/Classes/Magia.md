@@ -5,7 +5,7 @@ Eles podem usar **Habilidades** para destruir vários alvos simultâneos, contro
 * **Dano**: acompanhado de controle com diversos **Efeitos**.
 * **Suporte**: recuperar recursos para você e seus aliados.
 
-É do **Aspecto** da **Inteligência**, ou seja possui 1 **Modificador** nas suas modalidades de [[Interpretação__]], além de 1 ponto adicional nos [[98. Desenvolvimento/1. Dream Mountain/Funcional/Sistema/Mecânicas/Atributos__]] de **Domínio**, **Maestria** e **Precisão**.
+Por ser do **Aspecto** da **Inteligência** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional em cada [[Aspectos e Atributos]] de **Domínio**, **Espírito** e **Maestria**, mas também recebe em um **Atributo Secundário** de **Precisão**.
 
 # Nível Inicial (Novato)
 

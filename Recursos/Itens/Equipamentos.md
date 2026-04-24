@@ -182,7 +182,7 @@ Conjunto Completo: Ganha **Maestria** igual a metade do seu **Atributo** de **At
 
 Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-O maior arrependimento de um guardião é não ser o primeiro a cair. Cada parte aumenta o **Carisma**, **Defesa** e **Vitalidade** em 1.
+O maior arrependimento de um guardião é não ser o primeiro a cair. Cada parte aumenta o **Carisma**, **Defesa** e **Vigor** em 1.
 
 Conjunto Completo: Você pode escolher um **Aliado** no começo de um **Combate**, todo o **Dano** que ele sofrer é redirecionado para você (isso ocorre antes da mitigação do **Aliado**).
 
@@ -198,7 +198,7 @@ Conjunto Completo: Pode domesticar um **Monstro** de **Nível** 5 ou inferior, s
 
 Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Sacerdotes estudam a vida inteira para poder ajudar o máximo de pessoas possível. Cada parte aumenta **Domínio**, **Maestria** e **Vitalidade** em 1.
+Sacerdotes estudam a vida inteira para poder ajudar o máximo de pessoas possível. Cada parte aumenta **Domínio**, **Maestria** e **Vigor** em 1.
 
 Conjunto Completo: suas **Habilidades** do **Tipo** **Defensivo**, **Recuperação** e **Utilidade** sempre tem um **Alvo** adicional.
 

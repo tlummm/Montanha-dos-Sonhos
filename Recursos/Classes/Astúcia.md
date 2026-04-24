@@ -4,7 +4,7 @@ Possuem **Talentos** e **Habilidades** que modificam **Regras**, feitos para tra
 
 * **Dano**: de todas as formas possíveis contra todos os tipos de oponentes.
 
-É do **Aspecto** da **Agilidade**, ou seja possui 1 **Modificador** nas suas modalidades de [[Interpretação__]], além de 1 ponto adicional nos [[98. Desenvolvimento/1. Dream Mountain/Funcional/Sistema/Mecânicas/Atributos__]] de **Alcance**, **Esquiva** e **Velocidade**.
+Por ser do **Aspecto** da **Agilidade** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional em cada [[Aspectos e Atributos]] de **Alcance**, **Sorte** e **Velocidade**, mas também recebe em um **Atributo Secundário** de **Esquiva**.
 
 # Nível Inicial (Novato)
 

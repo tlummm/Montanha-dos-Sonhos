@@ -162,7 +162,7 @@ Uma estratégia covarde usada contra grandes guerreiros. Dentro de 10 metros des
 Consumível Encantado, Diversos, 2 Cargas.
 
 Os guerreiros costumam inspirar seus aliados apenas com o brado de batalha. Consuma uma carga para:
-* Aplicar **Efeitos** de **Barreira** a um alvo igual ao seu **Atributo** de **Vitalidade**, independente da distância.
+* Aplicar **Efeitos** de **Barreira** a um alvo igual ao seu **Atributo** de **Vigor**, independente da distância.
 
 ### Cantil Encantado
 
@@ -381,7 +381,7 @@ Pode ser combinado com os outros 3 **Selos** únicos para fazer o ?.
 
 Runa Eterna.
 
-Os dez **Reinos** a palma da mão. Pode ser consumida para conceder a 1 **Equipamento** ou **Arma** permanentemente um aumento de 30 de **Vitalidade**. O **Item** afetado, quando seu dono está **Morto** ou **Derrotado**, pode ser extraído novamente o **Selo**, assim removendo seus bônus.
+Os dez **Reinos** a palma da mão. Pode ser consumida para conceder a 1 **Equipamento** ou **Arma** permanentemente um aumento de 30 de **Vigor**. O **Item** afetado, quando seu dono está **Morto** ou **Derrotado**, pode ser extraído novamente o **Selo**, assim removendo seus bônus.
 
 Pode ser combinado com os outros 3 **Selos** únicos para fazer o ?.
 

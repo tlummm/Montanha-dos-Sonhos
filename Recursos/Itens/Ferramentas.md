@@ -144,13 +144,13 @@ Quem golpeia sua placa de metal costuma a sentir os próprios ossos. Aumenta a *
 
 Arma de Duas Mãos, Machado.
 
-Mesmo sem nenhuma forma de se defender os bárbaros são os últimos a cair. Aumenta o **Ataque** e **Vitalidade** em 10, além da **Defesa** em 2.
+Mesmo sem nenhuma forma de se defender os bárbaros são os últimos a cair. Aumenta o **Ataque** e **Vigor** em 10, além da **Defesa** em 2.
 
 ### Punhal do Pântano Nevoeiro
 
 Arma de Uma Mão, Espada.
 
-No pântano serve para tudo, tudo mesmo. Aumenta o **Alcance**, **Ataque**, **Domínio**, **Maestria**, **Velocidade** e **Vitalidade** em 2.
+No pântano serve para tudo, tudo mesmo. Aumenta o **Alcance**, **Ataque**, **Domínio**, **Maestria**, **Velocidade** e **Vigor** em 2.
 
 # Nível 4 (Encantado)
 
