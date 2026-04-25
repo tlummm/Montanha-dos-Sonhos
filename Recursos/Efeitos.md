@@ -10,8 +10,8 @@
 **Efeitos** de **Combate** (**Dissipação Normal**): 
 
 * **Aumento**: melhora um **Atributo**.
-* **Concentração**: restaura pontos de **Mana**.
-* **Regeneração**: restaura pontos de **Vida**.
+* **Concentração**: restaura pontos de **Mana** ao número de **Efeitos**.
+* **Regeneração**: restaura pontos de **Vida** igual ao número de **Efeitos**.
 
 **Efeitos** de **Tolerância** (**Dissipação Forte**): 
 
@@ -29,9 +29,9 @@
 
 **Efeitos Não-Debilitantes** (**Dissipação Fraca**): 
 
-* **Desgaste**: perde pontos de **Mana**.
+* **Desgaste**: perde pontos de **Mana** ao número de **Efeitos**.
 * **Redução**: reduz um **Atributo**.
-* **Sangramento**: perde pontos de **Vida**.
+* **Sangramento**: perde pontos de **Vida** ao número de **Efeitos**.
 
 **Efeitos Debilitantes** (**Dissipação Normal**): 
 

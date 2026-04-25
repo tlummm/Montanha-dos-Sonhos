@@ -361,7 +361,7 @@ Assim como a guarda imperial você treinou exaustivamente para acertar os pontos
 
 Habilidade Física, Ofensivo, Toque.
 
-**Precisão Difícil**, requer alguma **Arma** e **Custa** 30 pontos de **Mana**.
+**Precisão Improvável**, requer alguma **Arma** e **Custa** 30 pontos de **Mana**.
 
 Realiza vários ataques fatais contra o alvo. Realiza 1d6 **Ataques** contra o **Oponente**, cada um deles escalando com a **Maestria**.
 
@@ -421,7 +421,7 @@ Texto.
 
 # Nível 9 (Lenda)
 
-### Cicatrização Completa
+### Principal: Cicatrização Completa
 
 Texto.
 

@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testes/Ficha Teste Magia.md",
+                "file": "Recursos/Classes/Magia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ficha Teste Magia"
+              "title": "Magia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "142ea949a361c513",
@@ -217,14 +218,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a651d9a07fbce043",
+  "active": "4fa945833869d213",
   "lastOpenFiles": [
-    "Testes/Ficha Teste Magia.md",
     "Recursos/Classes/Guerra.md",
-    "Testes/Ficha Teste Guerra.md",
     "Recursos/Classes/Magia.md",
-    "Sistemas/Aspectos e Atributos.md",
+    "Sistemas/Progressão.md",
+    "Sistemas/Habilidades e Talentos.md",
+    "Testes/Ficha Teste Guerra.md",
     "Recursos/Efeitos.md",
+    "Sistemas/Feitos.md",
+    "Testes/Ficha Teste Magia.md",
+    "Sistemas/Aspectos e Atributos.md",
     "Testes/Testes.md",
     "Guias/Criação de Personagem.md",
     "Personagens/Ficha.md",
@@ -239,13 +243,10 @@
     "Recursos/Classes.md",
     "Personagens/Ficha Exemplo.md",
     "Personagens/Ficha Base.md",
-    "Sistemas/Progressão.md",
     "Sistemas/Combate.md",
     "Recursos/Itens__.md",
     "Guias/Introdução.md",
     "Sistemas/Ações.md",
-    "Sistemas/Feitos.md",
-    "Sistemas/Habilidades e Talentos.md",
     "Sistemas/Regra de Ouro.md",
     "Sistemas/Sessão.md",
     "Sem título.canvas",
