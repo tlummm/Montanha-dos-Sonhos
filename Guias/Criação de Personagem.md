@@ -4,7 +4,7 @@ O novo personagem pode ser criado utilizando a [[Ficha]] para colocar as informa
 
 **Personagem**: onde há informações básicas como **Nome**, **Apelido** e **História**, é um espaço totalmente livre para criatividade do jogador. Nenhuma dessas informações é muito relevante, sendo apenas formas do jogador, o grupo e o mestre visualizarem melhor seu **Personagem**. Entretanto a **Classe** é a decisão central da [[Ficha]]. Essa escolha pode ser feita em [[Classes]].
 
-[[Aspectos e Atributos]]: onde há informações relevantes tanto para **Interpretação** quanto para **Combate**. Todos os personagens começam no **Nível** 1. O primeiro passo é distribuir pontos de **Atributo Primário**, assim ganhando os seus valores como **Vida** e **Mana**. São 12 pontos iniciais para distribuir, mas cada **Atributo** já possui 1 ponto base, além de não poderem passar de um máximo de 9 na criação de [[Ficha]].
+[[Aspectos e Atributos]]: onde há informações relevantes tanto para **Interpretação** quanto para **Combate**. Todos os personagens começam no **Nível** 1. O primeiro passo é distribuir pontos de **Atributo Primário**, assim ganhando os seus valores como **Vida** e **Mana**. São 12 pontos iniciais para distribuir, mas cada **Atributo** já possui 2 ponto base, além de não poderem passar de um máximo de 9 na criação de [[Ficha]].
 
 **Itens** um novo personagem tem direito a alguns **Itens** de **Nível 1**, sendo a sua escolha 2 [[Ferramentas]], 3 [[Equipamentos]] e 4 [[Uso Único]]. Além disso **Jogadores** tem um inventário de apenas de 5 espaços de **Itens**, onde ficam suas [[Ferramentas]] e [[Equipamentos]] desequipados, e também onde seus **Itens** de [[Uso Único]] vão automaticamente. O inventário pode ser expandido com **Mochilas**.
 

@@ -21,7 +21,7 @@ Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, a
 
 Magia de Água, Defensivo e Recuperação, Individual.
 
-**Precisão Normal** e **Custa** 3 ponto de **Mana**.
+**Precisão Normal** e **Custa** 3 pontos de **Mana**.
 
 Você levanta uma esfera de água protetora para um aliado, além de curar as suas feridas. Em um **Aliado** adiciona 3 **Efeitos** de **Regeneração** e **Barreira**. Você recebe 2 **Efeitos** de **Desgaste**.
 

@@ -21,7 +21,7 @@ Para **Oponentes** do tipo **Chefe** há uma nova contagem, sendo um máximo de 
 
 Habilidade Física, Controle e Ofensivo, Cone.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 3 ponto de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 4 ponto de **Mana**.
 
 Imitando uma fase da lua você realiza um ataque menor, empurrando seus oponentes e os incapacitando. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**, os aplicando 2 **Efeitos** de **Redução** de **Velocidade**.
 
@@ -35,7 +35,7 @@ Mesmo sem escudo você ainda consegue resistir a golpes. Sua **Defesa** é perma
 
 Habilidade Física, Ofensivo, Cone.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 4 pontos de **Mana**.
 
 Imitando uma fase da lua você realiza um ataque poderosos empurrando seus oponentes. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**.
 

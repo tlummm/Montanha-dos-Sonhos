@@ -39,7 +39,7 @@ Além dos **Atributos** baseados em **Aspectos** existem alguns adicionais que s
 
 1. **Crítico**: 1 de redução no 20 do **d20** para **Acertos Críticos** (apenas para **Combate**).
 2. **Esquiva**: 1 de redução na **Precisão** em **Ações** de **Oponentes** contra você (apenas para **Combate**).
-3. **Letalidade**: ignora 1 ponto de **Defesa** de **Oponentes**.
+3. **Letalidade**: ignora 1 ponto de **Defesa** e **Espírito** de **Oponentes**.
 4. **Liderança**: 1 ponto adicional em todos os **Atributos** de **Unidades** controladas por você.
 5. **Precisão**: 1 de aumento na **Precisão** de **Ações de Combate**.
 
