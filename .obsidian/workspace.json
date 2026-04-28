@@ -83,8 +83,7 @@
               "title": "Habilidades e Talentos"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,15 +247,16 @@
   },
   "active": "caaaa407c725e213",
   "lastOpenFiles": [
+    "Guias/Criação de Personagem.md",
+    "Sistemas/Habilidades e Talentos.md",
+    "Recursos/Classes/Astúcia.md",
+    "Sistemas/Aspectos e Atributos.md",
     "Recursos/Classes/Guerra.md",
     "Recursos/Classes/Magia.md",
-    "Sistemas/Habilidades e Talentos.md",
     "Testes/Ficha Teste Guerra.md",
     "Testes/Ficha Teste Guerra Base.md",
     "Testes/Ficha Teste Magia Base.md",
     "Testes/Ficha Teste Magia.md",
-    "Guias/Criação de Personagem.md",
-    "Sistemas/Aspectos e Atributos.md",
     "Recursos/Efeitos.md",
     "Personagens/Ficha.md",
     "Personagens/Ficha Base.md",
@@ -264,7 +264,6 @@
     "Sistemas/Combate.md",
     "Sistemas/Interpretação.md",
     "Testes/Testes.md",
-    "Recursos/Classes/Astúcia.md",
     "Sistemas/Progressão.md",
     "Sistemas/Feitos.md",
     "Testes/Teste de Tabuleiro.xcf",
