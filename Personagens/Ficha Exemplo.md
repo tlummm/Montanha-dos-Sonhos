@@ -37,6 +37,10 @@
 **Secundários**:
 * **Outros**: 0;
 
+# Efeitos
+
+**X Efeitos** de **Texto**;
+
 # Itens
 
 **Texto**: Texto;

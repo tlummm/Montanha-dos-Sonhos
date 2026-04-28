@@ -13,7 +13,7 @@
 
 # [[Aspectos e Atributos]]
 
-**Nível**: 0;
+**Nível**: 1;
 
 **Pontos de Vida**: 0/0;
 **Pontos de Mana**: 0/0;
@@ -24,18 +24,18 @@
 * **Inteligência**: 0;
 
 **Primários**:
-* **Alcance**: 0;
-* **Ataque**: 0;
-* **Defesa**: 0;
-* **Domínio**: 0;
-* **Espírito**: 0;
-* **Maestria**: 0;
-* **Sorte**: 0;
-* **Velocidade**: 0;
-* **Vigor**: 0;
+* **Alcance**: 2;
+* **Ataque**: 2;
+* **Defesa**: 2;
+* **Domínio**: 2 + 1;
+* **Espírito**: 2 + 1;
+* **Maestria**: 2 + 1;
+* **Sorte**: 2;
+* **Velocidade**: 2;
+* **Vigor**: 2;
 
 **Secundários**:
-* **Outros**: 0;
+* **Precisão**: 1;
 
 # Efeitos
 
@@ -45,6 +45,5 @@
 
 **Texto**: Texto;
 
-# [[Habilidades e Talentos]]: Classe
+# [[Habilidades e Talentos]]: [[Magia]]
 
-**Texto**: Texto;
