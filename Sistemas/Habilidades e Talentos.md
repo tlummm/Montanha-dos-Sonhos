@@ -52,9 +52,9 @@ Significa o que é **Habilidade** ou a que grupo ela pertence. Elas podem ser di
 É a dificuldade para acertar a **Habilidade**, podendo variar entre:
 
 * **Garantida**: sem arremesso de **Dados**.
-* **Normal**: maior ou igual a 7 no **d20**.
-* **Difícil**: maior ou igual a 11 no **d20**.
-* **Improvável**: maior ou igual a 15 no **d20**.
+* **Normal**: maior ou igual a 8 no **d20**.
+* **Difícil**: maior ou igual a 12 no **d20**.
+* **Improvável**: maior ou igual a 16 no **d20**.
 * **Crítica**: 20 no **d20**.
 
 **O que é um Crítico**: é o acerto de 20 no **d20**, ocasionando em combate o dobro do **Dano** e **Efeitos** de uma **Ação**. O mesmo pode ocorrer com [[Ações]] de [[Interpretação]] para ganhar imediatamente de testes com o melhor resultado possível. Existem propriedades que podem facilitar o **Crítico** aumentando a sua chance, como o reduzindo para 19 através de [[Aspectos e Atributos]] secundários. Além disso existe o **Crítico Verdadeiro** onde é o 20 no **Dado** sem modificações. 

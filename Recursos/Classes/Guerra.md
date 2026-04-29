@@ -13,7 +13,7 @@ Por ser do **Aspecto** da **Força** essa **Classe** começa com 1 **Modificador
 
 Talento Principal.
 
-Participar de várias lutas faz com que você sempre aprenda algo novo a cada conflito, aumentando sua força a medida de novas ameaças. Sempre que ganhar um **Plano de Combate** você pode escolher entre **Ataque** e **Vigor**, ganhando permanentemente um 1 ponto daquele **Atributo**. A quantia de pontos adicionais ganhos não pode superior a 3 vezes o seu **Nível**.
+Participar de várias lutas faz com que você sempre aprenda algo novo a cada conflito, aumentando sua força a medida de novas ameaças. Sempre que ganhar um **Plano de Combate** você pode escolher entre **Ataque** e **Vigor**, ganhando permanentemente um 1 ponto daquele **Atributo**. A quantia de pontos adicionais ganhos não pode superior a 5 vezes o seu **Nível**.
 
 Para **Oponentes** do tipo **Chefe** há uma nova contagem, sendo um máximo de pontos ganhos igual ao seu **Nível**, e os distribuindo apenas entre **Defesa** ou **Letalidade**.
 
@@ -21,7 +21,7 @@ Para **Oponentes** do tipo **Chefe** há uma nova contagem, sendo um máximo de 
 
 Habilidade Física, Controle e Ofensivo, Cone.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 4 ponto de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 5 ponto de **Mana**.
 
 Imitando uma fase da lua você realiza um ataque menor, empurrando seus oponentes e os incapacitando. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**, os aplicando 3 **Efeitos** de **Redução** de **Velocidade**.
 
@@ -35,7 +35,7 @@ Mesmo sem escudo você ainda consegue resistir a golpes. Seu **Espírito** é au
 
 Habilidade Física, Ofensivo, Cone.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 4 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
 
 Imitando uma fase da lua você realiza um ataque poderosos empurrando seus oponentes. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza um **Ataque** em todos os **Oponentes** atingidos, além de os mover 2 metros para a direita do **Cone**.
 
@@ -49,15 +49,15 @@ Seu treinamento intenso o concedeu um corpo ideal para conflitos armados. Aument
 
 Habilidade Física, Controle, Toque.
 
-**Precisão Normal** e **Custa** 4 pontos de **Mana**.
+**Precisão Normal** e **Custa** 5 pontos de **Mana**.
 
-Um ataque entre o queixo e o pescoço, impossibilitando a conjuração de magias ou a estabilidade de habilidades. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 3 metros de **Alcance** adicional. Anula a **Habilidade** de um **Oponente**, se aproximando dele e aplicando um **Ataque**.
+Um ataque entre o queixo e o pescoço, impossibilitando a conjuração de magias ou a estabilidade de habilidades. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 2 metros de **Alcance** adicional. Anula a **Habilidade** de um **Oponente** se não for uma **Magia**, se aproximando dele e aplicando um **Ataque**.
 
 ### Segundo Fôlego
 
 Talento Físico, Recuperação.
 
-Você consegue encontrar brechas na batalha para se recuperar. No começo de seus **Turnos** você recupera 1 ponto de **Vida**, ou 3 se estiver com metade dos pontos de **Vida** ou inferior, arredondado para baixo. Com um **Escudo** equipado a regeneração base desse **Talento** é aumentado para 2 e adicional em 5
+Você consegue encontrar brechas na batalha para se recuperar. No começo de seus **Turnos** você recupera 1 ponto de **Vida**, ou 2 se estiver com metade dos pontos de **Vida** ou inferior, arredondado para baixo. Com um **Escudo** equipado a regeneração base desse **Talento** é aumentado para 2 e adicional em 3.
 
 # Nível 1 (Regular)
 
@@ -71,7 +71,7 @@ Seus reflexos são afiados ao ponto de te dar oportunidades para se defender com
 
 Habilidade Física, Controle, Toque.
 
-**Precisão Normal** e **Custa** 4 pontos de **Mana**.
+**Precisão Normal** e **Custa** 5 pontos de **Mana**.
 
 A arte de bloquear ataques é a mesma de devolver na mesma moeda. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 3 metros de **Alcance** adicional. Anula o **Ataque** de um **Oponente**, se aproximando dele e devolvendo o **Dano** original, escalando também com seu **Ataque** e **Maestria** se estiver usando um **Escudo**.
 
@@ -81,7 +81,7 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 Talento Físico, Ofensivo e Utilidade.
 
-Sua liderança em combate inspira seus aliados a realizarem suas melhores ofensivas. Marca permanentemente o último **Oponente** que você acertou um **Ataque** ou **Habilidade**, se essa **Ação** acertou mais de um **Oponente** ao mesmo tempo ambos terão a marca de **Comando**. Você e **Aliados** tem o aumento de 2 de **Ataque** e **Maestria** contra esses **Oponentes**.
+Sua liderança em combate inspira seus aliados a realizarem suas melhores ofensivas. Marca permanentemente o último **Oponente** que você acertou um **Ataque** ou **Habilidade**, se essa **Ação** acertou mais de um **Oponente** ao mesmo tempo ambos terão a marca de **Comando**. Você e **Aliados** tem o aumento de 1 de **Ataque** e **Maestria** contra esses **Oponentes**.
 
 ### Desvantagem Tática
 
@@ -95,7 +95,7 @@ Habilidade Física, Controle, Toque.
 
 **Precisão Normal**, requer **Escudo** e **Custa** 4 pontos de **Mana**.
 
-A mesma força para desestabilizar seus adversários com o escudo pode ser usado como uma pancada ao chão, chamando a atenção de todos. Realiza um **Ataque** no **Oponente**, porém com apenas metade do **Dano** e **Maestria**, o fazendo receber 3 **Efeitos** de **Redução** de **Ataque**, ou 6 de **Maestria** a sua escolha.
+A mesma força para desestabilizar seus adversários com o escudo pode ser usado como uma pancada ao chão, chamando a atenção de todos. Realiza um **Ataque** no **Oponente**, porém com apenas metade do **Dano** e **Maestria**, o fazendo receber 3 **Efeitos** de **Redução** de **Ataque**, ou 7 de **Maestria** a sua escolha.
 
 Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Planos de Interpretação** fazendo com que você comece imediatamente o **Plano de Combate**, porém com o foco de todos os **Monstros** e **NPCs** a você.
 
@@ -103,9 +103,9 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 Habilidade Física, Ofensivo e Utilidade, Toque.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 8 pontos de **Mana**.
 
-Com pequenos avanços você consegue ter todos os adversários ao seu alcance. Realiza um **Ataque** no **Oponente**, porém se ele estiver em até 5 metros de diferença de você se aproxima dele para realizar esse **Ataque**. O mesmo ocorre para seu próximo **Ataque Básico** nesse **Turno**.
+Com pequenos avanços você consegue ter todos os adversários ao seu alcance. Realiza um **Ataque** no **Oponente**, porém se ele estiver em até 4 metros de diferença de você se aproxima dele para realizar esse **Ataque**. Se você tiver alguma **Redução** de **Velocidade** essa distância adicional é cortada pela metade.
 
 Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Planos de Interpretação** fazendo com que você comece imediatamente o **Plano de Combate**, porém posicionado a frente de qualquer **Unidade**.
 
@@ -123,7 +123,7 @@ Realiza dois golpes velozes, ambos fatais. Realiza dois **Ataques** contra o **O
 
 Talento Físico, Ofensivo.
 
-Você se torna mais forte a medida da sua precisão. Toda vez que você acertar um **Ataque** ou **Habilidade** o seu **Ataque** e **Maestria** é aumentado em 1 até o fim do **Plano**. Esses valores adicionais não pode ser superiores a 3.
+Você se torna mais forte a medida da sua precisão. Aumenta a **Velocidade** em 1. Toda vez que você acertar um **Ataque** ou **Habilidade** o seu **Ataque** e **Maestria** é aumentado em 1 até o fim do **Plano**. Esses valores adicionais não pode ser superiores a 3.
 
 ### Cutilada
 
@@ -139,7 +139,7 @@ Habilidade Física, Mobilidade, Individual.
 
 **Precisão Normal** e **Custa** 9 pontos de **Mana**.
 
-Em um ímpeto de guerra você corre contra um adversário o incapacitando. Avança contra um **Oponente** o aplicando um **Ataque** e 1 **Efeito** de **Enraizamento**, além disso você e o **Alvo** são movidos em **1d4** metros da direção oposta dessa **Habilidade**. o **Alcance** dessa **Habilidade** também é influenciado pela **Maestria** e **Velocidade** além do **Alcance**.
+Em um ímpeto de guerra você corre contra um adversário o incapacitando. Avança contra um **Oponente** o aplicando um **Ataque** e 1 **Efeito** de **Enraizamento**, além disso você e o **Alvo** são movidos em **1d6** metros da direção oposta dessa **Habilidade**. o **Alcance** dessa **Habilidade** também é influenciado pela **Maestria** e **Velocidade** além do **Alcance**.
 
 ### Ímpeto
 
@@ -171,7 +171,7 @@ Sua maestria em combate faz você revidar qualquer golpe. Aumenta a **Defesa** e
 
 Habilidade Física Interpretativa, Utilidade, Individual.
 
-**Precisão Normal** e **Custa** 8 pontos de **Mana**.
+**Precisão Normal** e **Custa** 7 pontos de **Mana**.
 
 Anos de treinamento o fizeram uma máquina para qualquer atividade física. Garante um acerto na próxima **Ação de Interpretação** que envolva **Exercício** ou **Mobilidade** neste **Plano**, ainda há o lançamento de **Dado** para possibilidade de **Crítico**.
 
@@ -179,7 +179,7 @@ Anos de treinamento o fizeram uma máquina para qualquer atividade física. Gara
 
 Habilidade Física Interpretativa, Controle, Individual.
 
-**Precisão Normal** e **Custa** 10 pontos de **Mana**.
+**Precisão Normal** e **Custa** 9 pontos de **Mana**.
 
 Você consegue expressar todas as atrocidades que quer cometer com alguém apenas no olhar. Assusta e inutiliza um **Alvo**, fazendo ele correr e não participar do **Combate**. Só pode ser usado uma vez por **Plano**, e apenas contra **Alvos** com nível semelhante ou inferior ao seu e sem ser **Chefes**. Acerto **Crítico** assusta até 3 **Alvos** de uma vez.
 
@@ -187,13 +187,13 @@ Você consegue expressar todas as atrocidades que quer cometer com alguém apena
 
 Talento Físico, Utilidade.
 
-Erros não são tolerados no fronte. Aumenta a sua **Precisão** em 1. Ao errar um **Ataque** ou **Habilidade** você ganha um **Marcador** até o fim do **Combate** com um máximo de 3. Sua **Precisão** é aumentada com base nesse **Marcador**, porém ele é removido ao efetivamente acertar um **Ataque** ou **Habilidade**.
+Erros não são tolerados no fronte. Aumenta a sua **Precisão** e **Velocidade** em 1. Ao errar um **Ataque** ou **Habilidade** você ganha um **Marcador** até o fim do **Combate** com um máximo de 3. Sua **Precisão** é aumentada com base nesse **Marcador**, porém ele é removido ao efetivamente acertar um **Ataque** ou **Habilidade**.
 
 ### Reconhecer Equipamento
 
 Habilidade Física Interpretativa, Utilidade, Toque.
 
-**Precisão Garantida** e **Custa** 11 pontos de **Mana**.
+**Precisão Garantida** e **Custa** 10 pontos de **Mana**.
 
 Seus estudos sobre armas e armaduras te concedeu a capacidade de extrair o máximo de cada ferramenta. Aumenta a **Precisão** de sua próxima ação **Percepção** em 2, mas apenas quando relacionado a **Equipamentos**. Essa **Habilidade** também pode ser usada para aumentar cada **Atributo** de um **Equipamento** em 1 permanentemente, mas apenas uma vez para cada **Item** com nome único (todos os **Itens** com um nome reconhecido também vão receber esse aumento). 
 
@@ -211,33 +211,33 @@ Dilacera todos os adversários em sua vista com um golpe circular. Realiza um **
 
 Talento Físico, Defensivo e Ofensivo.
 
-Para você defesa e ataque são duas faces da mesma moeda. Aumenta o **Ataque** e **Defesa** em 1. No início de um **Combate** você pode escolher entre **Ataque** ou **Defesa**, aumentando em 4 esse **Atributo** permanentemente até o fim daquele **Plano**.
+Para você defesa e ataque são duas faces da mesma moeda. Aumenta o **Ataque** e **Defesa** em 2. No início de um **Combate** você pode escolher entre **Ataque** ou **Defesa**, aumentando em 4 esse **Atributo** permanentemente até o fim daquele **Plano**.
 
 ### Guarda Conjunta
 
 Talento Físico, Defensivo.
 
-Sua liderança é passada através de uma formação imbatível. Enquanto equipado com um **Escudo**, **Aliados** dentro de um **Alcance** igual a metade de seu **Vigor**, arredondado para cima, recebem 2 **Aumento** de **Defesa** e 1 de **Espírito** para cada **Aliado** sobre esse **Efeito**. Você também recebe esse **Aumento**, mas não faz parte da contagem.
+Sua liderança é passada através de uma formação imbatível. Aumenta o seu **Alcance** e **Vigor** são aumentados em 2. Enquanto equipado com um **Escudo**, **Aliados** dentro de um **Alcance** igual a metade de seu **Vigor**, arredondado para cima, recebem 2 **Aumento** de **Defesa** e 1 de **Espírito** para cada **Aliado** sobre esse **Efeito**. Você também recebe esse **Aumento**, mas não faz parte da contagem.
 
 ### Indomável
 
 Talento Físico, Defensivo.
 
-Sua resistência a condições extremas é elevada a além do limite. Sua **Tolerância** a **Efeitos** é duplicada, fazendo que você tenha uma **Precisão Difícil** para não ter nenhum **Efeito** Negativo, e seus **Atributos** não podem ser inferiores a 6 (a menos que os **Atributos** base sejam inferiores).
+Sua resistência a condições extremas é elevada a além do limite. Aumenta o **Vigor** em 3. Sua **Tolerância** a **Efeitos** é duplicada, fazendo que você tenha uma **Precisão Difícil** para não ter nenhum **Efeito** Negativo, e seus **Atributos** não podem ser inferiores a 6 (a menos que os **Atributos** base sejam inferiores).
 
 ### Salto Triunfal
 
 Habilidade Física, Controle e Mobilidade, Área.
 
-**Precisão Normal**, **Custa** 12 pontos de **Mana**.
+**Precisão Normal**, **Custa** 13 pontos de **Mana**.
 
-Um pulo alto, atacando todos na aterrisagem. Dentro de um raio igual ao seu **Ataque** salta para aquela direção, realizando um **Ataque** em todos os **Oponentes** dentro de um raio de 5 metros da nova posição. 
+Um pulo alto, atacando todos na aterrisagem. Dentro de um raio igual ao seu **Ataque** salta para aquela direção, realizando um **Ataque** em todos os **Oponentes** dentro de um raio de **1d8** metros da nova posição. 
 
 ### Vanguarda
 
 Habilidade Física, Controle, Área.
 
-**Precisão Normal**, requer **Escudo** e **Custa** 11 pontos de **Mana**.
+**Precisão Normal**, requer **Escudo** e **Custa** 10 pontos de **Mana**.
 
 Uma batida de escudo no chão que chama a atenção de todos os adversários. Em um raio igual a seu **Vigor** força todos os **Oponentes** só podem se movimentar em sua direção, atacar ou usar **Habilidades** com você como **Alvo**, até fim do seu próximo **Turno**.
 
@@ -247,7 +247,7 @@ Uma batida de escudo no chão que chama a atenção de todos os adversários. Em
 
 Habilidade Física, Ofensivo, Projétil.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 13 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 12 pontos de **Mana**.
 
 Muitos não conseguem explicar como em cada arremesso suas armas sempre retornam magicamente para a sua mão. Arremessa sua **Arma** em um **Oponente** dentro do **Alcance**, causando o **Dano** apenas como se tivesse aquele **Equipamento** como **Arma**. Pode atingir até mais dois **Oponentes** dentro do seu **Alcance**, fazendo com que a **Arma** retorne equipada em sua **Mão** no final do trajeto.
 
@@ -257,13 +257,13 @@ Pode ser usado com **Precisão Garantida** e **Custo** 7 pontos de **Mana** em *
 
 Talento Físico, Utilidade.
 
-Cada arma é escolhida a dedo para cada situação. Aumenta a **Defesa** e **Letalidade** em 2. Você pode desequipar e equipar até duas **Armas** ou **Equipamentos** sem consumir uma **Ação Principal** no seu **Turno**.
+Cada arma é escolhida a dedo para cada situação. Aumenta a **Defesa** e **Letalidade** em 3. Você pode desequipar e equipar até duas **Armas** ou **Equipamentos** sem consumir uma **Ação Principal** no seu **Turno**.
 
 ### Descontrole
 
 Habilidade Física, Defensivo e Ofensivo, Individual.
 
-**Precisão Normal**, **Custa** 12 pontos de **Mana**.
+**Precisão Normal**, **Custa** 11 pontos de **Mana**.
 
 Um estado de fúria, esquecendo completamente toda disciplina e anos de treino, confiando apenas na sua força e ódio. Entra em um outro **Estado**, se silenciando permanentemente e não podendo usar **Itens** como **Ação**. Nesse **Estado** você recebe metade do **Dano** e **Efeitos** por **Habilidades** e **Itens**, além de sempre no fim do seu **Turno** realizar um **Ataque** básico, sem consumir **Ação**, e todos os seus **Ataques** atingirem todos os **Oponentes** dentro do **Alcance**. Esse estado **Custa** **1d4** pontos de **Mana** cada fim de **Turno** para se manter, e pode ser desativado optando por não pagar o **Custo** adicional.
 
@@ -273,7 +273,7 @@ Pode ser usado com **Precisão Garantida** e **Custo** 6 pontos de **Mana** em *
 
 Habilidade Física, Defensivo, Individual.
 
-**Precisão Normal**, requer **Escudo** e **Custa** 15 pontos de **Mana**.
+**Precisão Normal**, requer **Escudo** e **Custa** 14 pontos de **Mana**.
 
 Convivência é necessária para a resistência no fronte. Escolhe um **Aliado**, independente da distância, fazendo com que você e ele recebam um **Aumento** de 2 de **Defesa** e **Espírito**, suas **Defesas** e **Espíritos** sejam somadas e depois dividas igualmente até o fim do **Combate**.
 
@@ -285,13 +285,13 @@ Pode ser desativado a qualquer momento em seu **Turno** e só pode haver uma **I
 
 Talento Físico, Ofensivo e Utilidade.
 
-Um golpe bem acertado é como uma aula para seus aliados. Aumenta o **Crítico** e **Defesa** em 1. Quando você realizar o seu primeiro acerto **Crítico** em um **Plano** você pode escolher um **Aliado**. A próxima **Ação Principal** ou **Ataque** dele também terá acerto **Crítico**.
+Um golpe bem acertado é como uma aula para seus aliados. Aumenta o **Crítico** em 1 e a **Defesa** em 3. Quando você realizar o seu primeiro acerto **Crítico** em um **Plano** você pode escolher um **Aliado**. A próxima **Ação Principal** ou **Ataque** dele também terá acerto **Crítico**.
 
 ### Inspiração
 
 Talento Físico, Mobilidade e Utilidade.
 
-Cada passo seu é tático, inspirando seus aliados a fazerem o mesmo. Ao usar sua **Ação de Movimento**, um **Aliado** fora do **Turno** dele também pode realizar uma **Ação de Movimento**, porém se locomovendo apenas uma distância metade do valor original.
+Cada passo seu é tático, inspirando seus aliados a fazerem o mesmo. Aumenta o **Espírito** e a **Velocidade** em 2. Ao usar sua **Ação de Movimento**, um **Aliado** fora do **Turno** dele também pode realizar uma **Ação de Movimento**, porém se locomovendo apenas uma distância metade do valor original.
 
 # Nível 6 (Gênio)
 
@@ -299,7 +299,7 @@ Cada passo seu é tático, inspirando seus aliados a fazerem o mesmo. Ao usar su
 
 Talento Físico, Controle e Mobilidade.
 
-Ninguém pode passar por você. Aumenta a **Velocidade** em 3. Se algum **Oponente** usar alguma **Ação** que envolva **Movimentação** e passe em um **Alcance** dentro de um raio igual a sua **Velocidade**, você pode se movimentar em direção a ele, mesmo que fora de seu **Turno**, anulando essa **Ação** e realizando um **Ataque**. Só pode ocorrer 3 vezes por **Oponente** em cada **Combate**.
+Ninguém pode passar por você. Aumenta a **Defesa** e **Velocidade** em 3. Se algum **Oponente** usar alguma **Ação** que envolva **Movimentação** e passe em um **Alcance** dentro de um raio igual a sua **Velocidade**, você pode se movimentar em direção a ele, mesmo que fora de seu **Turno**, anulando essa **Ação** e realizando um **Ataque**. Só pode ocorrer 3 vezes por **Oponente** em cada **Combate**.
 
 ### Contenção
 
@@ -335,7 +335,7 @@ Sua vingança sempre é cumprida. Aumenta a **Defesa** e **Letalidade** em 3. To
 
 Talento Físico, Ofensivo.
 
-O impacto de seus golpes ecoa em tremores, ferindo adversários próximos. Aumenta o **Ataque** em 3. Seus **Ataques** causam metade do **Dano** em **Oponentes** até um raio de 5 metros do **Alvo** atingido. Um **Oponente** não pode sofrer dano de múltiplas **Transposições** com a mesma **Ação**. Acerto **Crítico** dobra o raio de efeito e o **Dano** se torna integral.
+O impacto de seus golpes ecoa em tremores, ferindo adversários próximos. Aumenta o **Ataque** em 5. Seus **Ataques** causam metade do **Dano** em **Oponentes** até um raio de 5 metros do **Alvo** atingido. Um **Oponente** não pode sofrer dano de múltiplas **Transposições** com a mesma **Ação**. Acerto **Crítico** dobra o raio de efeito e o **Dano** se torna integral.
 
 # Nível 7 (Lorde)
 
@@ -361,7 +361,7 @@ Assim como a guarda imperial você treinou exaustivamente para acertar os pontos
 
 Habilidade Física, Ofensivo, Toque.
 
-**Precisão Improvável**, requer alguma **Arma** e **Custa** 30 pontos de **Mana**.
+**Precisão Improvável**, requer alguma **Arma** e **Custa** 33 pontos de **Mana**.
 
 Realiza vários ataques fatais contra o alvo. Realiza 1d6 **Ataques** contra o **Oponente**, cada um deles escalando com a **Maestria**.
 
@@ -369,7 +369,7 @@ Realiza vários ataques fatais contra o alvo. Realiza 1d6 **Ataques** contra o *
 
 Habilidade Física, Utilidade, Individual.
 
-**Precisão Normal**, **Custa** 20 pontos de **Mana**.
+**Precisão Normal**, **Custa** 21 pontos de **Mana**.
 
 Você consegue se libertar de qualquer limitação, seja mágica ou física. Aplica uma **Dissipação Forte** a si mesmo em todos os **Efeitos Negativos**, podendo ser usado mesmo **Inutilizado**. A cada **Plano** pode ser usada pelo menos uma vez fora de seu **Turno**.
 
@@ -377,7 +377,7 @@ Você consegue se libertar de qualquer limitação, seja mágica ou física. Apl
 
 Habilidade Física, Defensivo, Toque.
 
-**Precisão Normal**, requer **Escudo** e **Custa** 20 pontos de **Mana**.
+**Precisão Normal**, requer **Escudo** e **Custa** 21 pontos de **Mana**.
 
 Um golpe sangrento, ferindo tanto você quanto o adversário, o assuntando com a insanidade. Você pode sacrificar até metade dos seus pontos de **Vida** atual, arredondado para baixo, para causar como **Dano** ao **Oponente**, o fazendo receber 1 **Efeito** de **Medo**. Acerto **Crítico** não dobra o **Dano**, mas aplica 2 **Efeitos** de **Medo** em todos **Oponentes**, independente da distância.
 
