@@ -4,83 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97eee72086bfa139",
+        "id": "76f9340d443e91b5",
         "type": "tabs",
         "children": [
           {
-            "id": "caaaa407c725e213",
+            "id": "390cd9de724ac0dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recursos/Classes/Astúcia.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Astúcia"
-            }
-          }
-        ]
-      },
-      {
-        "id": "142ea949a361c513",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c0154a53c0500b72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guias/Criação de Personagem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Criação de Personagem"
-            }
-          },
-          {
-            "id": "f02ff6f3d932b7d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas/Aspectos e Atributos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aspectos e Atributos"
-            }
-          },
-          {
-            "id": "04ac68f0fd641d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recursos/Efeitos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Efeitos"
-            }
-          },
-          {
-            "id": "a2d22ddef4d89e28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas/Habilidades e Talentos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Habilidades e Talentos"
+              "title": "Nova aba"
             }
           }
         ]
@@ -218,21 +152,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funcional/Guias/Introdução.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Introdução"
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "b1d561f56ace5a55",
+            "type": "leaf",
+            "state": {
+              "type": "agent-client-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Agent client"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,22 +185,23 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "agent-client:Open agent client": false
     }
   },
-  "active": "caaaa407c725e213",
+  "active": "b1d561f56ace5a55",
   "lastOpenFiles": [
-    "Guias/Criação de Personagem.md",
     "Sistemas/Habilidades e Talentos.md",
-    "Recursos/Classes/Astúcia.md",
+    "Recursos/Efeitos.md",
     "Sistemas/Aspectos e Atributos.md",
-    "Recursos/Classes/Guerra.md",
+    "Guias/Criação de Personagem.md",
     "Recursos/Classes/Magia.md",
+    "Recursos/Classes/Guerra.md",
+    "Recursos/Classes/Astúcia.md",
     "Testes/Ficha Teste Guerra.md",
     "Testes/Ficha Teste Guerra Base.md",
     "Testes/Ficha Teste Magia Base.md",
     "Testes/Ficha Teste Magia.md",
-    "Recursos/Efeitos.md",
     "Personagens/Ficha.md",
     "Personagens/Ficha Base.md",
     "Personagens/Ficha Exemplo.md",
