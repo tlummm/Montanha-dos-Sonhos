@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "06d6759b3f99c5be",
+        "id": "b8df49701675cd93",
         "type": "tabs",
         "children": [
           {
-            "id": "97365e45da159479",
+            "id": "b64411a69fd6695f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursos/Classes/Magia.md",
+                "file": "Testes/Ficha Teste Magia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magia"
+              "title": "Ficha Teste Magia"
+            }
+          },
+          {
+            "id": "152ad582b5233512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recursos/Classes/Guerra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guerra"
             }
           }
         ]
@@ -195,26 +209,26 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "97365e45da159479",
+  "active": "b64411a69fd6695f",
   "lastOpenFiles": [
     "Recursos/Classes/Guerra.md",
-    "Recursos/Classes/Astúcia.md",
+    "Testes/Ficha Teste Magia.md",
     "Recursos/Classes/Magia.md",
+    "Sistemas/Combate.md",
+    "Personagens/Ficha.md",
+    "Sistemas/Aspectos e Atributos.md",
+    "Testes/Ficha Teste Magia Base.md",
+    "Testes/Ficha Teste Guerra.md",
+    "Recursos/Classes/Astúcia.md",
     "Sistemas/Ações.md",
     "Sistemas/Feitos.md",
     "Sistemas/Habilidades e Talentos.md",
-    "Sistemas/Aspectos e Atributos.md",
     "Sistemas/Sessão.md",
     "Recursos/Efeitos.md",
     "Guias/Criação de Personagem.md",
-    "Testes/Ficha Teste Guerra.md",
     "Testes/Ficha Teste Guerra Base.md",
-    "Testes/Ficha Teste Magia Base.md",
-    "Testes/Ficha Teste Magia.md",
-    "Personagens/Ficha.md",
     "Personagens/Ficha Base.md",
     "Personagens/Ficha Exemplo.md",
-    "Sistemas/Combate.md",
     "Sistemas/Interpretação.md",
     "Testes/Testes.md",
     "Sistemas/Progressão.md",

@@ -14,13 +14,13 @@ Talento Principal.
 
 Seus passos cofundem os oponentes, como se estivesse em vários lugares ao mesmo tempo. Sua **Ação de Movimento** é modificada, você pode se movimentar livremente entre, antes e depois de suas outras **Ações** (**Ataque** e **Principal**), porém o limite da distância total é igual ou inferior a seu **Alcance** somado a **Velocidade**.
 
-Você ganha 1 ponto de **Alcance** ou **Velocidade** por **Nível**, além de **Ações de Movimento** adicionais só aumentam o limite dessa movimentação. **Efeitos** de **Redução** de **Velocidade** ou os de **Enraizamento** são removidos duas vezes mais rápido de você.
+Você ganha 1 ponto de **Agilidade** por **Nível**, além de **Ações de Movimento** adicionais só aumentam o limite dessa movimentação. **Efeitos** de **Redução** de **Velocidade** ou os de **Enraizamento** são removidos duas vezes mais rápido de você.
 
 ### Ângulo Isolado
 
 Talento Físico, Utilidade.
 
-Quanto mais silencioso o local, melhor é a mira. Aumenta a seu **Ataque** e **Precisão** em 1, em 2 caso não haja **Oponentes** dentro de 5 metros, ou em 3 caso não haja nenhuma outra **Unidade** em 5 metros além de você. O **Alcance** e **Maestria** de **Oponentes** contra você é reduzido nesses mesmos valores e condições.
+Quanto mais silencioso o local, melhor é a mira. Aumenta a seu **Ataque** em 1 caso não haja **Oponentes** dentro de 5 metros, ou em 2 caso não haja nenhuma outra **Unidade** em 5 metros além de você.
 
 ### Apunhalar
 
@@ -50,7 +50,7 @@ Um disparo para o alto para deixar todos atentos. Consome uma de qualquer **Muni
 
 Talento Físico, Mobilidade e Ofensivo.
 
-Seus movimentos são breves e sempre deixam uma lembrança. Aumenta a **Velocidade** em 1. Quando em **Movimento**, se você atravessar um **Oponente** você pode realizar um pequeno **Ataque** nele sem consumir **Ações**, porém com o **Dano** fixo em **1d4**, **Puro** e sem escalar com **Ataque** ou **Maestria**, mas causando totalmente os **Efeitos** adicionais de um **Ataque**. **Passagem** não pode ser repetida múltiplas vezes no mesmo **Oponente** em apenas um **Turno**.
+Seus movimentos são breves e sempre deixam uma lembrança. Aumenta a **Velocidade** em 2. Quando em **Movimento**, se você atravessar um **Oponente** você pode realizar um pequeno **Ataque** nele sem consumir **Ações**, porém com o **Dano** fixo em **1d4**, **Puro** e sem escalar com **Ataque** ou **Maestria**, mas causando totalmente os **Efeitos** adicionais de um **Ataque**. **Passagem** não pode ser repetida múltiplas vezes no mesmo **Oponente** em apenas um **Turno**.
 
 ### Ricochete
 
@@ -76,13 +76,13 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 Talento Físico, Utilidade.
 
-Suas falhas se acumulam como grandes acertos no futuro. Aumenta o **Crítico** em 1. O seu primeiro erro de **d20** nesse **Combate** aumenta o seu **Crítico** em 1. Esse valor é aumentado para 2 no primeiro erro **Crítico**.
+Suas falhas se acumulam como grandes acertos no futuro. Aumenta o **Crítico** em 1. O seu primeiro erro de **d20** nesse **Combate** aumenta o seu **Crítico** em 1. Esse valor também é aumentado em 1 no primeiro erro **Crítico**.
 
 ### Desigualdade
 
 Talento Físico, Utilidade.
 
-É apenas uma cobrança do que é justo. Aumenta a **Sorte** em 3. Ao causar **Dano**, que não seja de **Efeitos**, você rouba 1 **Atributo** aleatório desse **Oponente** que seja superior ao seu. Só é possível roubar 1 ponto de cada **Atributo** e a aleatoriedade é sobre os restantes.
+É apenas uma cobrança do que é justo. Aumenta a **Sorte** em 5. Ao causar **Dano**, que não seja de **Efeitos**, você rouba 1 **Atributo** aleatório desse **Oponente** que seja superior ao seu. Só é possível roubar 1 ponto de cada **Atributo** e a aleatoriedade é sobre os restantes.
 
 ### Disparo de Contusão
 
@@ -120,7 +120,7 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 Talento Físico, Utilidade.
 
-Pode ser um grogue ou veneno. Aumenta o **Alcance** em 2. Quando você for usar um **Consumível**, você pode ao invés disso o arremessar em um **Alvo** aplicando seus **Efeitos** nele. A distância do arremesso é igual a seu **Alcance** mais a **Velocidade**.
+Pode ser um grogue ou veneno. Aumenta o **Alcance** em 3. Quando você for usar um **Consumível**, você pode ao invés disso o arremessar em um **Alvo** aplicando seus **Efeitos** nele. A distância do arremesso é igual a seu **Alcance** mais a **Velocidade**.
 
 ### Cortar Tendão
 
@@ -142,7 +142,7 @@ Sem erros. Realiza um **Ataque**, porém pode ser usado como uma **Ação de Com
 
 Talento Físico, Ofensivo.
 
-Apenas assegurando o trabalho. Aumenta a **Esquiva** em 1. Ao causar **Dano**, que não seja de **Efeitos**, em um **Oponente** que tenha sofrido **Dano** de outro **Aliado** seu, faz com que você use metade desse **Dano** como um adicional.
+Apenas assegurando o trabalho. Aumenta a **Esquiva** em 2. Ao causar **Dano**, que não seja de **Efeitos**, em um **Oponente** que tenha sofrido **Dano** de outro **Aliado** seu, faz com que você use metade desse **Dano** como um adicional.
 
 ### Passo Oculto
 

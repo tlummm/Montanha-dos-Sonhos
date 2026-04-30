@@ -13,9 +13,9 @@ Por ser do **Aspecto** da **Inteligência** essa **Classe** começa com 1 **Modi
 
 Talento Principal.
 
-O controle de diversos elementos da natureza sobrecarregam a sua **Mana**, tornando as magias mais poderosas assim como instáveis. Ao usar uma **Habilidade** você anota o seu **Elemento** e aumenta a seu **Alcance** e **Maestria** permanentemente em um valor igual ao seu **Nível** até o fim do **Plano**. O custo de **Mana** de suas **Magias** também é aumentado no mesmo valor.
+O controle de diversos elementos da natureza sobrecarregam a sua **Mana**, tornando as magias mais poderosas assim como instáveis. Ao usar uma **Habilidade** você anota o seu **Elemento** e aumenta a seu **Espírito** e **Maestria** permanentemente em um valor igual ao seu **Nível** até o fim do **Plano**. O custo de **Mana** de suas **Magias** também é aumentado no mesmo valor.
 
-Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, além de seu **Alcance**, **Maestria** e **Custos** adicionais por este **Talento** serem perdidos.
+Quando anotar novamente o mesmo **Elemento** todas as anotações são limpas, além de seu **Espírito**, **Maestria** e **Custos** adicionais por este **Talento** serem perdidos.
 
 ### Domo Líquido
 
@@ -31,13 +31,13 @@ O primeiro **Domo Líquido** conjurado por você em cada **Combate** não tem **
 
 Talento Mágico, Recuperação.
 
-Sua concentração é incrível quando o assunto é magia. Aumenta o **Alcance** e **Domínio** em 1. Todo fim de seu **Turno** você recupera 1 ponto de **Mana**, ou 2 se tiver igual ou mais da metade da **Mana** máxima.
+Sua concentração é incrível quando o assunto é magia. Aumenta o **Domínio** em 2. Todo fim de seu **Turno** você recupera 1 ponto de **Mana**.
 
 ### Poeira
 
 Magia de Terra, Utilidade, Área.
 
-**Precisão Normal** e **Custa** 10 pontos de **Mana**.
+**Precisão Normal** e **Custa** 9 pontos de **Mana**.
 
 Manipulando pequenos grãos no chão você os joga- magicamente pelo ar, dificultando a visão de oponentes e revelando inimigos furtivos. Em uma área ao seu redor, com raio igual ao seu **Atributo** de **Alcance**, todos **Oponentes** recebem **1d6** **Efeitos** de **Redução** de **Velocidade** e **Precisão**. **Oponentes** ocultos são revelados e voltam para o **Plano de Combate**, recebendo **1d12** de **Dano**.
 
@@ -47,23 +47,23 @@ A primeira **Poeira** conjurada por você em cada **Combate** aplica 1 **Efeito*
 
 Talento Mágico, Ofensivo e Recuperação.
 
-Um feitiço bem executado sempre refresca a mente. Aumenta o **Espírito** e **Maestria** em 1. Quando seus pontos de **Mana** estiverem abaixo da metade você tem um **Aumento** de 1 no **Crítico**. Acertos **Críticos** restauram 3 pontos de **Mana**.
+Um feitiço bem executado sempre refresca a mente. Aumenta a **Maestria** em 2. O primeiro Acerto de **Habilidade** em cada **Turno** restaura **1d6** pontos de **Mana**.
 
 ### Seta de Fogo
 
 Magia de Fogo, Ofensivo, Projétil.
 
-**Precisão Normal** e **Custa** 11 pontos de **Mana**.
+**Precisão Normal** e **Custa** 10 pontos de **Mana**.
 
-Chamas se concentram na palma da sua mão se tornando uma flecha pronta para atingir seu alvo. Dispara um **Projétil** contra um **Inimigo** causando **1d6** de **Dano**, o adicionando **1d4** **Efeitos** de **Sangramento**.
+Chamas se concentram na palma da sua mão se tornando uma flecha pronta para atingir seu alvo. Dispara um **Projétil** contra um **Inimigo** causando **1d6** de **Dano** e **Efeitos** de **Sangramento**.
 
-A primeira **Seta de Fogo** conjurada por você em cada **Combate** tem 1 de **Crítico** adicional.
+A primeira **Seta de Fogo** conjurada por você em cada **Combate** tem 1 de **Crítico** e **Precisão** adicional.
 
 ### Vendaval
 
 Magia de Vento, Defensivo, Área.
 
-**Precisão Normal** e **Custa** 12 pontos de **Mana**.
+**Precisão Normal** e **Custa** 11 pontos de **Mana**.
 
 Um movimento de mão que impulsiona o ar e afasta todas as ameaças. Aplica **1d6** **Efeitos** de **Redução** de **Velocidade** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. Você pode os empurrar para direção oposta em até, a sua escolha, seu **Atributo** de **Alcance**.
 
@@ -75,7 +75,7 @@ O primeiro **Vendaval** conjurado por você em cada **Combate** aplica 1 **Efeit
 
 Magia de Vento, Defensivo e Utilidade, Individual.
 
-**Precisão Normal** e **Custa** 12 pontos de **Mana**.
+**Precisão Normal** e **Custa** 11 pontos de **Mana**.
 
 Conjura uma pequena esfera de ar, recobrando o raciocínio do aliado ao mesmo tempo que sempre o permite respirar. Em um **Aliado** dentro do seu **Alcance** realiza uma **Dissipação Fraca** de até **1d12** **Efeitos Negativos**, podendo escolher todos separadamente que deseja remover.
 
@@ -87,7 +87,7 @@ Pode ser usado com **Precisão Garantida** e metade do **Custo** em **Planos de 
 
 Magia de Fogo, Utilidade, Individual.
 
-**Precisão Garantida** e **Custa** 10 pontos de **Mana**.
+**Precisão Garantida** e **Custa** 9 pontos de **Mana**.
 
 Ninguém sabe ao certo se é um golem ou alguma forma de vida, mas ele sempre quer ajudar seu dono. Cria uma pequena **Unidade** que é uma chama de luz viva, iluminando **1d12** metros ao seu redor. Só pode ter uma por vez invocada e ela sempre te segue sem ocupar espaço no campo.
 
@@ -99,15 +99,15 @@ Essa **Unidade** dura até o fim o **Plano** e aumenta o **Crítico** e **Precis
 
 Talento Mágico de Fogo, Ofensivo.
 
-Sua falta de paciência intensifica o uso do **Fogo**. Aumenta o **Alcance** e **Maestria** em 1. Para **Magias de Fogo** o **Alcance**, **Crítico**, **Letalidade**, **Precisão** e **Maestria** também são aumentadas em 1, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 2.
+Sua falta de paciência intensifica o uso do **Fogo**. Aumenta a **Maestria** em 2. Para **Magias de Fogo** o **Crítico**, **Letalidade**, **Precisão** e **Maestria** também são aumentadas em 1, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 2.
 
 ### Terraformar
 
 Magia de Terra, Local e Linha, Mobilidade e Controle.
 
-**Precisão Normal** e **Custa** 12 pontos de **Mana**.
+**Precisão Normal** e **Custa** 11 pontos de **Mana**.
 
-Movimenta um bloco de terra abaixo do pé das pessoas, movendo-se como se tivesse vida própria. Escolhe qualquer local, de área quadrada igual o seu **Alcance**, e depois escolha uma direção. Todas as **Unidades** daquele local são deslocadas para essa direção em uma distância igual a sua **Maestria** somada ao **Alcance**. **Oponentes** que atravessarem **Estruturas**, outros **Oponentes** ou serem atravessados, todos recebem 1 **Efeito** de **Atordoamento**. Pode **Custar** 6 de **Mana** a menos ao optar por não causar os **Atordoamentos**.
+Movimenta um bloco de terra abaixo do pé das pessoas, movendo-se como se tivesse vida própria. Escolhe qualquer local, de área quadrada igual o seu **Alcance**, e depois escolha uma direção. Todas as **Unidades** daquele local são deslocadas para essa direção em uma distância igual a sua **Maestria** somada ao **Alcance**. **Oponentes** que atravessarem **Estruturas**, outros **Oponentes** ou serem atravessados, todos recebem 1 **Efeito** de **Atordoamento**. Pode **Custar** 5 de **Mana** a menos ao optar por não causar os **Atordoamentos**.
 
 O primeiro **Terraformar** conjurado por você em cada **Combate** não tem **Custo**, mesmo com **Atordoamento**.
 
@@ -117,7 +117,7 @@ Pode ser usado com **Precisão Garantida** e **Custo** 3 pontos de **Mana** em *
 
 Magia de Água, Toque, Controle.
 
-**Precisão Normal** e **Custa** 12 pontos de **Mana**.
+**Precisão Normal** e **Custa** 11 pontos de **Mana**.
 
 Ao encostar um dedo, mesmo que por pequenos instantes, você é capaz de congelar o que tocar. Adiciona 2 **Efeitos** de **Atordoamento** no **Alvo**. Você recebe 2 **Efeitos** de **Desgaste**.
 
@@ -129,7 +129,7 @@ Pode ser usado em **Planos de Interpretação** fazendo com que o **Alvo** seja 
 
 Talento Mágico de Água, Utilidade.
 
-Seu excesso de paciência intensifica o uso da **Água**. Aumenta o **Espírito** e **Vigor** em 1. **Magias de Água** conjuradas sempre restauram 1 ponto de **Vida** de você e todos os **Aliados**, independente do seu **Alcance**, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 2.
+Seu excesso de paciência intensifica o uso da **Água**. Aumenta o **Espírito** em 2. **Magias de Água** conjuradas sempre restauram 1 ponto de **Vida** de você e todos os **Aliados**, independente do seu **Alcance**, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 2.
 
 # Nível 2 (Entusiasta)
 
@@ -137,13 +137,13 @@ Seu excesso de paciência intensifica o uso da **Água**. Aumenta o **Espírito*
 
 Talento Mágico de Terra, Controle.
 
-Na sua presença o chão que sustenta seus oponentes torna-se traiçoeiro. Aumenta a **Defesa** em 2 e o **Espírito** em 1. Reduz o **Custo** de **Magias de Terra** em 3. Toda vez que um **Oponente** usar uma **Ação Principal** você pode o mover **1d4** metros após a sua **Ação** para qualquer direção em linha reta.
+Na sua presença o chão que sustenta seus oponentes torna-se traiçoeiro. Aumenta o **Espírito** em 3. Reduz o **Custo** de **Magias de Terra** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode o mover **1d4** metros após a sua **Ação** para qualquer direção em linha reta.
 
 ### Pilastra
 
 Magia de Terra, Local, Controle e Ofensivo.
 
-**Precisão Improvável** e **Custa** 19 pontos de **Mana**.
+**Precisão Improvável** e **Custa** 18 pontos de **Mana**.
 
 Com um leve atraso você conjura uma série de pilastras de terra contra os seus inimigos, os ferindo e nocauteando. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com raio igual o seu **Alcance**. Apenas no seu próximo **Turno** os **Oponentes** naquele local recebem **1d20** de **Dano** e 1 **Efeito** de **Atordoamento**.
 
@@ -153,7 +153,7 @@ A primeira **Pilastra** conjurada por você em cada **Combate** pode não ter at
 
 Magia de Vento, Controle, Individual.
 
-**Precisão Normal** e **Custa** 11 pontos de **Mana**.
+**Precisão Normal** e **Custa** 10 pontos de **Mana**.
 
 Conjura uma ventania brusca, redirecionando magias e ataques para outros adversários. Essa **Habilidade** pode ser usada fora de seu **Turno**, porém te aplica 3 **Efeitos** de **Desgaste** e só pode usado uma vez até voltar seu **Turno**. Você pode controlar o **Alvo** ou **Área** de uma **Habilidade** de um **Oponente**, contanto que não seja **Crítica** ou com **Alcance** de **Toque**. Essa **Habilidade** ainda deve respeitar o **Atributo** de **Alcance** da **Unidade**, além de o **Alvo** não poder ser a própria **Unidade** ou estar na sua **Área de efeito** da sua própria **Habilidade**.
 
@@ -163,7 +163,7 @@ O primeiro **Redirecionar** conjurado por você em cada **Combate** não tem **C
 
 Magia de Água, Ofensivo e Controle, Projétil.
 
-**Precisão Normal** e **Custa** 13 pontos de **Mana**.
+**Precisão Normal** e **Custa** 12 pontos de **Mana**.
 
 Frio e neve se concentram na palma da sua mão se tornando uma flecha pronta para atingir seu alvo. Essa **Habilidade** considera o dobro do seu **Atributo** de **Alcance**. Dispara um **Projétil** contra um **Inimigo** causando **1d8** de **Dano**, além **1d6** de **Efeitos** de **Redução** de **Velocidade**.
 
@@ -173,7 +173,7 @@ A primeira **Seta de Gelo** conjurada por você em cada **Combate** aplica 1 **E
 
 Magia de Fogo, Ofensivo, Cone.
 
-**Precisão Normal** e **Custa** 22 pontos de **Mana**.
+**Precisão Normal** e **Custa** 21 pontos de **Mana**.
 
 É uma imitação quase perfeita de um bafo de dragão, incendiando quem atinge. Em uma área cônica, que não pode passar de metade do seu **Atributo** de **Alcance**, você assopra fogo causando **1d20** de **Dano**, e metade do **Dano** causado como **Efeitos** de **Sangramento**, arredondado para baixo.
 
@@ -183,7 +183,7 @@ O primeiro **Sopro Incendiário** conjurado por você em cada **Combate** tem **
 
 Talento Mágico de Vento, Mobilidade.
 
-Há um vento misteriosos que te afasta de todas as ameaças. Aumenta o **Alcance** e **Velocidade** em 2. Reduz o **Custo** de **Magias de Vento** em 3. Toda vez que um **Oponente** usar uma **Ação Principal** você pode se mover **1d4** metros após a **Ação** dele, sem consumir nenhuma de suas **Ações** mas em linha reta.
+Há um vento misteriosos que te afasta de todas as ameaças. Aumenta a **Maestria** em 3. Reduz o **Custo** de **Magias de Vento** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode se mover **1d4** metros após a **Ação** dele, sem consumir nenhuma de suas **Ações** mas em linha reta.
 
 # Nível 3 (Especialista)
 
@@ -237,7 +237,7 @@ Um dos métodos de transporte mágico mais requisitados. Cria uma pequena torren
 
 Magia de Fogo, Ofensivo, Linha.
 
-**Precisão Normal** e **Custa** 27 pontos de **Mana**.
+**Precisão Normal** e **Custa** 26 pontos de **Mana**.
 
 Com um gesto simples de mão todos os inimigos em uma direção são incinerados. Escolha uma direção e, em uma linha reta com distância igual ao seu **Alcance** e largura de 3 metros, causa **2d12** de **Dano** em todos os **Unidades** dentro da área. O dano é causado com **Letalidade** adicional igual o número de **Oponentes** afetados.
 
@@ -245,7 +245,7 @@ Com um gesto simples de mão todos os inimigos em uma direção são incinerados
 
 Magia de Gelo, Local, Controle.
 
-**Precisão Normal** e **Custa** 23 pontos de **Mana**.
+**Precisão Normal** e **Custa** 22 pontos de **Mana**.
 
 Uma nevasca repentina congela o local, congelando os pés dos oponentes e dificultando sua movimentação. Escolhe um **Local** em qualquer lugar do campo de batalha mas com raio igual ao seu **Alcance**, onde os **Oponentes** recebem 1 **Efeito** de **Enraizamento**. **Oponentes** em cima do local tem distância das **Ações** que envolvem **Movimento** reduzidas pela metade, arredondado para cima. Ao finalmente saírem da área recebem 1 **Efeito** de atordoamento.
 
@@ -255,7 +255,7 @@ Só pode haver um chão congelado por vez.
 
 Magia de Terra, Defensivo, Linha.
 
-**Precisão Normal** e **Custa** 18 pontos de **Mana**.
+**Precisão Normal** e **Custa** 17 pontos de **Mana**.
 
 Pisa no chão criando uma grande fortaleza, separando completamente o confronto. Cria uma estrutura em **Linha**, o seu início pode ser qualquer qualquer lugar do campo, pode ir para qualquer direção, mas a sempre a sua distância é igual o seu **Atributo** de **Alcance**, e a sua altura a metade, arredondado para cima. **Unidades** não podem atravessar essa **Estrutura**, assim como não **Atacar** ou usar **Habilidade** contra outros do outro lado. Essas regras não se aplicam a **Ações** com **Área** ou **Local**. A **Muralha** pode ser **Alvo** e possui pontos de **Vida** máxima igual a **Mana** máxima do dono.
 
@@ -265,13 +265,13 @@ Você só pode ter três **Muralhas** por vez.
 
 Talento Mágico de Vento, Movimentação.
 
-A astúcia do seu poder de vento é tão sagaz que as vezes escapam algumas correntes de ar mesmo que esteja conjurando um outro elemento. Aumenta o **Espírito** em 3 e a **Velocidade** em 2. Sempre que você usar uma **Magia**, não importando qual **Elemento**, você e seus **Aliados** recebem 2 **Efeitos** de **Aumento** de **Velocidade**.
+A astúcia do seu poder de vento é tão sagaz que as vezes escapam algumas correntes de ar mesmo que esteja conjurando um outro elemento. Aumenta o **Espírito** em 5. Sempre que você usar uma **Magia**, não importando qual **Elemento**, você e seus **Aliados** recebem 2 **Efeitos** de **Aumento** de **Velocidade**.
 
 ### Tornado
 
 Magia de Vento, Controle, Área.
 
-**Precisão Normal** e **Custa** 33 pontos de **Mana**.
+**Precisão Normal** e **Custa** 32 pontos de **Mana**.
 
 Você gira junto de um tornado, arremessando todos os oponentes ao ar. Aplica **1d4** **Efeitos** de **Banimento** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. No final do **Banimento**, você pode escolher as novas posições do campo onde os **Oponentes** vão pousar, mas dentro do seu **Alcance**.
 
@@ -279,7 +279,7 @@ Você gira junto de um tornado, arremessando todos os oponentes ao ar. Aplica **
 
 Talento Mágico de Terra, Controle.
 
-A disciplina do seu poder de Terra é tão rígida que as vezes escapam alguns pequenos terremotos mesmo que você esteja conjurando um outro elemento. Aumenta a **Defesa** em 2 e o **Espírito** em 3. Sempre que você usar uma **Magia**, não importando qual **Elemento**, os **Oponentes** recebem 2 **Efeitos** de **Redução** de **Velocidade**.
+A disciplina do seu poder de Terra é tão rígida que as vezes escapam alguns pequenos terremotos mesmo que você esteja conjurando um outro elemento. Aumenta o **Domínio** em 5. Sempre que você usar uma **Magia**, não importando qual **Elemento**, os **Oponentes** recebem 2 **Efeitos** de **Redução** de **Velocidade**.
 
 # Nível 5 (Mestre)
 
@@ -287,19 +287,19 @@ A disciplina do seu poder de Terra é tão rígida que as vezes escapam alguns p
 
 Magia de Vento, Recuperação, Projétil.
 
-**Precisão Normal** e **Custa** 9 pontos de **Mana**.
+**Precisão Normal** e **Custa** 8 pontos de **Mana**.
 
-Uma corrente de água que cura os aliados, sendo também um meio de locomoção no mar. Restaura 1 ponto de **Vida** de um **Aliado** o aplicando **1d4** **Efeitos** de **Regeneração**. A **Cura**, **Efeitos** e a **Distância** são dobrados para um outro **Aliado** dentro desse novo **Alcance**, e assim por diante até um máximo de dois **Aliados** adicionais, sem repetir. Esses **Aliados** podem a sua escolha sofrer uma **Dissipação Normal** em todos os **Efeitos Negativos**. A **Maestria** também é duplicada. Você recebe 3 **Efeitos** de **Desgaste**.
+Uma corrente de água que cura os aliados, sendo também um meio de locomoção no mar. Restaura 1 ponto de **Vida** de um **Aliado** o aplicando **1d4** **Efeitos** de **Regeneração**. A **Cura**, **Efeitos** e a **Distância** são dobrados para um outro **Aliado** dentro desse novo **Alcance**, e assim por diante até um máximo de dois **Aliados** adicionais, sem repetir. Esses **Aliados** podem a sua escolha sofrer uma **Dissipação Normal** em todos os **Efeitos Negativos**. A **Maestria** também é duplicada. Você recebe 2 **Efeitos** de **Desgaste**.
 
-Pode ser usado com **Precisão Garantida** e **Custo** 8 pontos de **Mana** em **Planos de Interpretação** e em um ambiente aquático para fazer você e todos os seus **Aliados** usarem uma viagem rápida para qualquer lugar daquele ambiente (inclusive outras **Zonas** e **Regiões** conhecidas se estiverem conectadas como por exemplo em rios e mares).
+Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em **Planos de Interpretação** e em um ambiente aquático para fazer você e todos os seus **Aliados** usarem uma viagem rápida para qualquer lugar daquele ambiente (inclusive outras **Zonas** e **Regiões** conhecidas se estiverem conectadas como por exemplo em rios e mares).
 
 ### Flutuar
 
 Magia de Vento, Mobilidade, Individual.
 
-**Precisão Normal** e **Custa** 9 pontos de **Mana**.
+**Precisão Normal** e **Custa** 8 pontos de **Mana**.
 
-Abençoa um aliado com o poder do vento, dando a capacidade de planar levemente pelo ar sem uma queda brusca. Aplica em um **Aliado** 6 **Efeitos** de **Aumento** de **Esquiva** e 0 de **Aumento** de **Velocidade**. Você recebe 3 **Efeitos** de **Desgaste**.
+Abençoa um aliado com o poder do vento, dando a capacidade de planar levemente pelo ar sem uma queda brusca. Aplica em um **Aliado** 6 **Efeitos** de **Aumento** de **Esquiva** e 0 de **Aumento** de **Velocidade**. Você recebe 2 **Efeitos** de **Desgaste**.
 
 Pode ser usado com **Precisão Garantida** e **Custo** 8 pontos de **Mana** em **Planos de Interpretação**  para fazer o **Aliado** planar, assim dando acertos **Garantidos** em **Ações Interpretativas** de **Movimentação**, ainda há arremesso de **Dado** para possibilidade de **Crítico**.
 
@@ -307,19 +307,19 @@ Pode ser usado com **Precisão Garantida** e **Custo** 8 pontos de **Mana** em *
 
 Talento Mágico de Fogo, Aura, Ofensivo.
 
-Os inimigos em sua presença ficam com uma visão turva e soam sem parar. Aumenta o **Domínio** em 3 e a **Maestria** em 2. No início do seu **Turno** sempre causa **1d4** pontos de **Dano** em todos os **Oponentes**, ignorando totalmente a **Defesa** e **Espírito** e não importando a distância. O **Dano** não escala com a **Maestria**.
+Os inimigos em sua presença ficam com uma visão turva e soam sem parar. Aumenta o **Domínio** em e **Maestria** em 3. No início do seu **Turno** sempre causa **1d4** pontos de **Dano** em todos os **Oponentes**, ignorando totalmente a **Defesa** e **Espírito** e não importando a distância. O **Dano** não escala com a **Maestria**.
 
 ### Presença Invernal
 
 Talento Mágico de Água, Aura, Controle.
 
-Os inimigos em sua presença tremem de frio e perdem a concentração aos poucos. Aumenta o **Domínio** em 3 e o **Espírito** em 2. No início do seu **Turno** os **Oponentes** sempre perdem **1d4** pontos de **Mana**, não importando a distância.
+Os inimigos em sua presença tremem de frio e perdem a concentração aos poucos. Aumenta o **Domínio** e **Espírito** em 3. No início do seu **Turno** os **Oponentes** sempre perdem **1d4** pontos de **Mana**, não importando a distância.
 
 ### Rastro de Chamas
 
 Magia de Fogo, Mobilidade e Ofensivo, Individual.
 
-**Precisão Normal** e **Custa** 23 pontos de **Mana**.
+**Precisão Normal** e **Custa** 22 pontos de **Mana**.
 
 Em um piscar de olhos você se teletransporta para um novo local, deixando um rastro de destruição onde passou. Executa uma **Ação de Movimento** adicional, porém com a **Velocidade** somada ao **Alcance** e **Maestria**. Na trajetória, todos os **Oponente** que você passar sofrem **1d20** de **Dano**, ganhando 2 **Efeitos** de **Aumento** de **Velocidade** por **Oponente** atingido.
 
@@ -329,7 +329,7 @@ Pode ser usado com **Precisão Garantida** e **Custo** 10 pontos de **Mana** em 
 
 Magia de Pedra, Controle, Individual.
 
-**Precisão Difícil** e **Custa** 23 pontos de **Mana**.
+**Precisão Difícil** e **Custa** 22 pontos de **Mana**.
 
 Convoca duas conchas de pedra prendendo uma alvo entre elas. Essa **Habilidade** considera o dobro do **Atributo** de **Alcance**. Aplica em um **Oponente** 3 **Efeitos** de **Atordoamento**. Durante o **Atordoamento** dele você pode realizar **Ações Básicas** de movimento com o **Alvo**, no entanto a **Velocidade** dele agora é seu **Atributo** de **Alcance**.
 
@@ -341,7 +341,7 @@ Pode ser usado com **Precisão Normal** e **Custo** 10 pontos de **Mana** em **P
 
 Magia de Água, Controle e Ofensivo, Individual e Local.
 
-**Precisão Difícil** e **Custa** 19 pontos de **Mana**.
+**Precisão Difícil** e **Custa** 18 pontos de **Mana**.
 
 Você tenta usar o ambiente para afogar o oponente, mas caso não haja o ambiente ideal, você o cria lentamente. Essa **Habilidade** só pode ser usada contra um **Oponente** que não seja um **Chefe**, além de ser do mesmo **Nível** ou inferior ao seu e também estar em um ambiente aquático. o **Alvo** é executado se for um **Oponente**.
 
@@ -351,7 +351,7 @@ Caso essa **Habilidade** seja usada fora de sua **Condição** principal, o ambi
 
 Magia de Fogo, Mobilidade e Ofensivo, Projétil.
 
-**Precisão Improvável** e **Custa** 45 pontos de **Mana**.
+**Precisão Improvável** e **Custa** 44 pontos de **Mana**.
 
 Em um frenesi violento você dispara um sequência incansável de disparos incendiários. Você conjura **1d6** **Setas de Fogo** em um **Oponente** sem gastar seus **Custos**. **Crítico** multiplica o número de **Magias**, mas não o **Dano** e os **Efeitos**. Se o alvo for eliminado, o resto das **Magias** são direcionados a um novo **Alvo**, independente da distância.
 
@@ -359,7 +359,7 @@ Em um frenesi violento você dispara um sequência incansável de disparos incen
 
 Magia de Terra, Controle, Local.
 
-**Precisão Difícil** e **Custa** 33 pontos de **Mana**.
+**Precisão Difícil** e **Custa** 32 pontos de **Mana**.
 
 Com um grande tremor uma imensa cratera surge do chão engolindo seus adversários. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde os **Oponentes** recebem **1d8** **Efeitos** de **Sangramento**. **Unidades** não podem sair desse **Local** ou **Atacar** e usar **Habilidades** em **Alvos** fora da **Cratera**, mas essa regra não se aplica a **Ações** com **Área** ou **Local**.
 
@@ -369,19 +369,19 @@ Você só pode ter uma **Cratera** por vez.
 
 Talento Mágico de Terra, Aura, Defensivo.
 
-Os inimigos em sua presença não ousam te contestar. Aumenta a **Defesa** em 1 e **Espírito** em 6. Desde o início do seu **Turno** os **Oponentes** não podem te interromper, isso só ocorre em seus **Turnos** ímpares e não importando a distância.
+Os inimigos em sua presença não ousam te contestar. Aumenta o **Espírito** em 6. Desde o início do seu **Turno** os **Oponentes** não podem te interromper, isso só ocorre em seus **Turnos** ímpares e não importando a distância.
 
 ### Presença Volátil
 
 Talento Mágico de Vento, Aura, Controle.
 
-Os inimigos em sua presença não conseguem te acertar. Aumenta a **Esquiva** em 1 e **Velocidade** em 3. Desde o início do **Turno** dos **Oponentes** eles tem a metade da **Precisão** contra você, isso só ocorre em seus **Turnos** ímpares não importando a distância.
+Os inimigos em sua presença não conseguem te acertar. Aumenta o **Domínio** em 3 e a **Esquiva** em 1. Desde o início do **Turno** dos **Oponentes** eles tem a metade da **Precisão** contra você, isso só ocorre em seus **Turnos** ímpares não importando a distância.
 
 ### Vórtice
 
 Magia de Vento, Local, Ofensivo.
 
-**Precisão Normal** e **Custa** 33 pontos de **Mana**.
+**Precisão Normal** e **Custa** 32 pontos de **Mana**.
 
 Um furacão que surge e se mantém destruindo tudo que toca. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde causa **1d12** de **Dano** imediatamente. Você pode manter aquele **Local** gastando 5 pontos de **Mana** no começo de cada um de seus **Turnos**, assim causando **1d6** de **Dano** em **Oponentes** que estiverem em cima, além de terem a **Velocidade** reduzida em 6.
 
@@ -401,7 +401,7 @@ Arremessa ao ar seu adversário o mais alto que puder. Se o **Oponente** não fo
 
 Talento Mágico de Fogo, Ofensivo.
 
-Em alguns momentos você consegue usar o fogo da sua forma mais concentrada. Aumenta a **Maestria** em 6. Nos seus **Turnos** pares as **Magias de Fogo** se tornam azuis, fazendo que quando acertem sempre sejam **Crítico**.
+Em alguns momentos você consegue usar o fogo da sua forma mais concentrada. Seus **Críticos** usam metade da **Maestria** como **Dano Mágico** adicional. Nos seus **Turnos** pares as **Magias de Fogo** se tornam azuis, fazendo que quando acertem sempre sejam **Crítico**.
 
 ### Ignição Espontânea
 
@@ -415,7 +415,7 @@ Para lendas do fogo um estalar de dedos basta. Essa **Magia** só pode ser usada
 
 Magia de Água, Local, Ofensivo.
 
-**Precisão Garantida** e **Custa** 75 pontos de **Mana**.
+**Precisão Garantida** e **Custa** 70 pontos de **Mana**.
 
 Uma catástrofe que inunda todo o cenário. Torna o campo de batalha inteiro em um ambiente aquático, onde todos os **Oponente** submersos que não possam respirar recebem 3 **Efeitos** de **Sangramento** por **Turno**. A altura do ambiente pode ser o dobro do seu **Alcance**, **Domínio** ou **Maestria** a sua escolha. **Oponentes** em cima da inundação não são mais considerados submersos ou em ambiente aquático. **Oponentes** podem em suas **Ações de Movimento** sacrificar o movimento horizontal para nadar verticalmente, para assim poderem chegar a superfície.
 
@@ -481,13 +481,13 @@ Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familia
 
 Talento Mágico de Vento, Aura, Controle.
 
-O ar que você respira se torna diabólico, diminuindo o foco de seus adversários. Aumenta o **Espírito** em 7. **Oponentes** dentro de um raio igual ao o dobro de seu **Alcance** tem os **Custos** de **Mana** dobrados. Não se aplica a **Chefes**.
+O ar que você respira se torna diabólico, diminuindo o foco de seus adversários. Aumenta o **Domínio** em 7. **Oponentes** dentro de um raio igual ao o dobro de seu **Alcance** tem os **Custos** de **Mana** dobrados. Não se aplica a **Chefes**.
 
 ### Poeira Clara
 
 Talento Mágico de Terra, Aura, Recuperação.
 
-A terra que você pisa se torna perto do divino, aumentando a concentração de seus aliados. Aumenta a **Sorte** em 15. **Aliados** dentro de um raio igual ao o dobro de seu **Alcance** tem os **Custos** de **Mana** reduzidos pela metade. Não se aplica a você.
+A terra que você pisa se torna perto do divino, aumentando a concentração de seus aliados. Aumenta a **Maestria** em 7. Você e **Aliados** dentro de um raio igual ao o dobro de seu **Alcance** tem os **Custos** de **Mana** reduzidos pela metade.
 
 # Nível 9 (Lenda)
 
@@ -535,10 +535,10 @@ A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no 
 
 Talento Mágico, Ofensivo.
 
-A sua instabilidade de tantos elementos da natureza diferentes finalmente foi contida. Aumenta a **Inteligência** em 9. Seu **Talento Principal** de **Instabilidade** perde o **Custo** de **Mana** adicional e não é mais limpo ao repetir o mesmo **Elemento**.
+A sua instabilidade de tantos elementos da natureza diferentes finalmente foi contida. Aumenta a **Inteligência** em 10. Seu **Talento Principal** de **Instabilidade** perde o **Custo** de **Mana** adicional e não é mais limpo ao repetir o mesmo **Elemento**.
 
 ### Maestria Familiar
 
 Talento Mágico, Invocação.
 
-Como uma verdadeira lenda da magia você é capaz de controlar cada senhor dos elementos. Aumenta a **Agilidade**, **Força** e **Inteligência** em 3. Seus **Familiares** não tem mais duração, e são reinvocados automaticamente no próximo **Plano**, sem gastar **Mana**, caso sejam eliminados.
+Como uma verdadeira lenda da magia você é capaz de controlar cada senhor dos elementos. Seus **Familiares** não tem mais duração, e são reinvocados automaticamente no próximo **Plano**, sem gastar **Mana**, caso sejam eliminados. Os **Familiares** também tem seus **Talentos**, mas respectivos a seus **Elementos**.
