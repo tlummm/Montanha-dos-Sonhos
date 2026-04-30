@@ -23,7 +23,7 @@ Habilidade Física, Controle e Ofensivo, Cone.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 5 ponto de **Mana**.
 
-Imitando uma fase da lua você realiza um ataque menor, empurrando seus oponentes e os incapacitando. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**, os aplicando 3 **Efeitos** de **Redução** de **Velocidade**.
+Imitando uma fase da lua você realiza um ataque, empurrando seus oponentes e os incapacitando. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**, os aplicando **1d4** **Efeitos** de **Redução** de **Velocidade**.
 
 ### Defesa Simples
 
@@ -37,13 +37,13 @@ Habilidade Física, Ofensivo, Cone.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 5 pontos de **Mana**.
 
-Imitando uma fase da lua você realiza um ataque poderosos empurrando seus oponentes. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza um **Ataque** em todos os **Oponentes** atingidos, além de os mover 2 metros para a direita do **Cone**.
+Imitando uma fase da lua você realiza um ataque poderosos, empurrando seus oponentes e se capacitando. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 2 metros para a direita do **Cone**. Você ganha um **1d4** **Efeitos** de **Aumento** de **Velocidade**.
 
 ### Punho Firme
 
 Talento Físico, Defensivo e Ofensivo.
 
-Seu treinamento intenso o concedeu um corpo ideal para conflitos armados. Aumenta o **Vigor** em 2, e o seu **Ataque** é aumentado em 1 para cada **Arma** equipada.
+Seu treinamento intenso o concedeu um corpo ideal para conflitos armados. Aumenta o **Vigor** em 1, e o seu **Ataque** é aumentado em 1 para cada **Arma** equipada.
 
 ### Pancada
 
@@ -51,7 +51,7 @@ Habilidade Física, Controle, Toque.
 
 **Precisão Normal** e **Custa** 5 pontos de **Mana**.
 
-Um ataque entre o queixo e o pescoço, impossibilitando a conjuração de magias ou a estabilidade de habilidades. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 2 metros de **Alcance** adicional. Anula a **Habilidade** de um **Oponente** se não for uma **Magia**, se aproximando dele e aplicando um **Ataque**.
+Um ataque entre o queixo e o pescoço, impossibilitando a conjuração de magias ou a estabilidade de habilidades. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 2 metros de **Alcance** adicional. Anula a **Habilidade** de um **Oponente** se não for uma **Magia**, se aproximando dele e aplicando metade de um **Ataque**.
 
 ### Segundo Fôlego
 
@@ -73,7 +73,7 @@ Habilidade Física, Controle, Toque.
 
 **Precisão Normal** e **Custa** 5 pontos de **Mana**.
 
-A arte de bloquear ataques é a mesma de devolver na mesma moeda. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 3 metros de **Alcance** adicional. Anula o **Ataque** de um **Oponente**, se aproximando dele e devolvendo o **Dano** original, escalando também com seu **Ataque** e **Maestria** se estiver usando um **Escudo**.
+A arte de bloquear ataques é a mesma de devolver na mesma moeda. Essa **Habilidade** só pode ser usada fora de seu **Turno**, apenas uma vez até voltar o seu **Turno** e possui 3 metros de **Alcance** adicional. Anula o **Ataque** de um **Oponente**, se aproximando dele e devolvendo o **Dano** original, escalando também com metade de seu **Ataque** e **Maestria** se estiver usando um **Escudo**.
 
 Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Planos de Interpretação** fazendo com que um **Ataque** feito por um **Oponente** seja anulado e não comece o **Plano de Combate**, dando ao seu grupo 1 modificador adicional em **Ações de Interpretação**.
 
@@ -95,7 +95,7 @@ Habilidade Física, Controle, Toque.
 
 **Precisão Normal**, requer **Escudo** e **Custa** 4 pontos de **Mana**.
 
-A mesma força para desestabilizar seus adversários com o escudo pode ser usado como uma pancada ao chão, chamando a atenção de todos. Realiza um **Ataque** no **Oponente**, porém com apenas metade do **Dano** e **Maestria**, o fazendo receber 3 **Efeitos** de **Redução** de **Ataque**, ou 7 de **Maestria** a sua escolha.
+A mesma força para desestabilizar seus adversários com o escudo pode ser usado como uma pancada ao chão, chamando a atenção de todos. Realiza metade de um **Ataque** no **Oponente**, porém com apenas metade do **Dano** de **Maestria**, o fazendo receber 3 **Efeitos** de **Redução** de **Ataque**, ou 7 de **Maestria** a sua escolha.
 
 Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Planos de Interpretação** fazendo com que você comece imediatamente o **Plano de Combate**, porém com o foco de todos os **Monstros** e **NPCs** a você.
 
@@ -105,7 +105,7 @@ Habilidade Física, Ofensivo e Utilidade, Toque.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 8 pontos de **Mana**.
 
-Com pequenos avanços você consegue ter todos os adversários ao seu alcance. Realiza um **Ataque** no **Oponente**, porém se ele estiver em até 4 metros de diferença de você se aproxima dele para realizar esse **Ataque**. Se você tiver alguma **Redução** de **Velocidade** essa distância adicional é cortada pela metade.
+Com pequenos avanços você consegue ter todos os adversários ao seu alcance. Realiza metade de um **Ataque** no **Oponente**, porém se ele estiver em até 4 metros de diferença de você se aproxima dele para realizar esse **Ataque**. Se você tiver alguma **Redução** de **Velocidade** essa distância adicional é cortada pela metade.
 
 Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Planos de Interpretação** fazendo com que você comece imediatamente o **Plano de Combate**, porém posicionado a frente de qualquer **Unidade**.
 
@@ -115,9 +115,9 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 Habilidade Física, Ofensivo, Toque.
 
-**Precisão Difícil**, requer alguma **Arma** e **Custa** 12 pontos de **Mana**.
+**Precisão Difícil**, requer alguma **Arma** e **Custa** 11 pontos de **Mana**.
 
-Realiza dois golpes velozes, ambos fatais. Realiza dois **Ataques** contra o **Oponente**, cada um deles escalando com a sua **Maestria** separadamente.
+Realiza dois golpes velozes, ambos fatais. Realiza dois **Ataques** contra o **Oponente**, cada um deles escalando com a sua **Maestria** separadamente, mas com metade do **Ataque**. A **Defesa** do **Alvo** não é considerada duas vezes.
 
 ### Competência
 
@@ -131,7 +131,7 @@ Habilidade Física, Controle e Ofensivo, Toque.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 6 pontos de **Mana**.
 
-Um ataque sangramento usando a parte mais fina e afiada da arma. Realiza um **Ataque** no **Oponente**, porém com apenas metade do **Dano** e **Maestria**, arredondado para baixo, o fazendo receber **1d4** **Efeitos** de **Sangramento** ou **Desgaste** a sua escolha.
+Um ataque sangramento usando a parte mais fina e afiada da arma. Realiza metade de um **Ataque** no **Oponente**, porém com apenas metade do **Dano** de **Maestria**, arredondado para baixo, o fazendo receber **1d4** **Efeitos** de **Sangramento** ou **Desgaste** a sua escolha.
 
 ### Investida
 
@@ -139,19 +139,19 @@ Habilidade Física, Mobilidade, Individual.
 
 **Precisão Normal** e **Custa** 9 pontos de **Mana**.
 
-Em um ímpeto de guerra você corre contra um adversário o incapacitando. Avança contra um **Oponente** o aplicando um **Ataque** e 1 **Efeito** de **Enraizamento**, além disso você e o **Alvo** são movidos em **1d6** metros da direção oposta dessa **Habilidade**. o **Alcance** dessa **Habilidade** também é influenciado pela **Maestria** e **Velocidade** além do **Alcance**.
+Em um ímpeto de guerra você corre contra um adversário o incapacitando. Avança contra um **Oponente** o aplicando metade de um **Ataque** e 1 **Efeito** de **Enraizamento**, além disso você e o **Alvo** são movidos em **1d6** metros da direção oposta dessa **Habilidade**. o **Alcance** dessa **Habilidade** também é influenciado pela **Maestria** e **Velocidade** além do **Alcance**.
 
 ### Ímpeto
 
 Talento Físico, Mobilidade.
 
-Você se torna mais veloz a medida dos seus movimentos. Toda vez que você usar uma **Ação de Movimentação** aumenta a seu **Espírito** e **Velocidade** em 1 até o fim do **Plano**. Esse valor adicional não pode ser superior a 5.
+Você se torna mais veloz a medida dos seus movimentos. Aumenta o **Espírito** e **Velocidade** em 1. Toda vez que você usar uma **Ação de Movimentação** aumenta a seu **Espírito** e **Velocidade** em 1 até o fim do **Plano**. Esse valor adicional não pode ser superior a 5.
 
 ### Resiliência
 
 Talento Físico, Defensivo.
 
-Você se torna mais resistente a medida dos ferimentos. Toda vez que você sofrer um **Ataque** ou **Habilidade** aumenta a sua **Defesa** em 2 e o **Espírito** em 1 até o fim do **Plano**. Esses valores adicionais não podem ser superiores a 4.
+Você se torna mais resistente a medida dos ferimentos. Aumenta a **Defesa** e **Espírito** em 1. Toda vez que você sofrer um **Ataque** ou **Habilidade** aumenta a sua **Defesa** em 2 e o **Espírito** em 1 até o fim do **Plano**. Esses valores adicionais não podem ser superiores a 4.
 
 # Nível 3 (Especialista)
 
@@ -205,7 +205,7 @@ Habilidade Física, Ofensivo, Área.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 12 pontos de **Mana**.
 
-Dilacera todos os adversários em sua vista com um golpe circular. Realiza um **Ataque** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**, e você recebe **1d6** **Efeitos** de **Aumento** de **Letalidade**.
+Dilacera todos os adversários em sua vista com um golpe circular. Realiza metade de um **Ataque** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**, e você recebe **1d6** **Efeitos** de **Aumento** de **Letalidade**.
 
 ### Dualidade
 
@@ -231,7 +231,7 @@ Habilidade Física, Controle e Mobilidade, Área.
 
 **Precisão Normal**, **Custa** 13 pontos de **Mana**.
 
-Um pulo alto, atacando todos na aterrisagem. Dentro de um raio igual ao seu **Ataque** salta para aquela direção, realizando um **Ataque** em todos os **Oponentes** dentro de um raio de **1d8** metros da nova posição. 
+Um pulo alto, atacando todos na aterrisagem. Dentro de um raio igual ao seu **Ataque** salta para aquela direção, realizando metade de um **Ataque** em todos os **Oponentes** dentro de um raio de **1d8** metros da nova posição. 
 
 ### Vanguarda
 
@@ -249,7 +249,7 @@ Habilidade Física, Ofensivo, Projétil.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 12 pontos de **Mana**.
 
-Muitos não conseguem explicar como em cada arremesso suas armas sempre retornam magicamente para a sua mão. Arremessa sua **Arma** em um **Oponente** dentro do **Alcance**, causando o **Dano** apenas como se tivesse aquele **Equipamento** como **Arma**. Pode atingir até mais dois **Oponentes** dentro do seu **Alcance**, fazendo com que a **Arma** retorne equipada em sua **Mão** no final do trajeto.
+Muitos não conseguem explicar como em cada arremesso suas armas sempre retornam magicamente para a sua mão. Arremessa sua **Arma** em um **Oponente** dentro do **Alcance**, causando metade do **Dano** como se tivesse aquele **Equipamento** como **Arma**. Pode atingir até mais dois **Oponentes** dentro do seu **Alcance**, fazendo com que a **Arma** retorne equipada em sua **Mão** no final do trajeto.
 
 Pode ser usado com **Precisão Garantida** e **Custo** 7 pontos de **Mana** em **Planos de Interpretação** para arremessar sua **Arma** e ela voltar para sua **Mão**, podendo coletar **Itens** a distância, ou até começar um **Combate** já causando seu **Ataque** inteiro em até 3 **Oponentes**, independente da distância.
 
@@ -305,7 +305,7 @@ Ninguém pode passar por você. Aumenta a **Defesa** e **Velocidade** em 3. Se a
 
 Habilidade Física, Defensivo, Individual.
 
-**Precisão Normal**, requer **Escudo** e **Custa** 8 pontos de **Mana**.
+**Precisão Normal**, requer **Escudo** e **Custa** 9 pontos de **Mana**.
 
 Sua guarda pode defender, além de ataques letais, a grandes feitiços. Fora de seu **Turno** anula qualquer **Ação** que tenha você como **Alvo** ou afetado pela **Área de Efeito**. Recebe 3 **Efeitos** de **Desgaste**.
 
@@ -323,7 +323,7 @@ Habilidade Física, Controle, Área.
 
 **Precisão Garantida**, **Custa** 9 pontos de **Mana**.
 
-Um passo forte que cria uma pequena cratera no chão, desestabilizando os oponentes e os arrastando até você. Realiza um **Ataque** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. o **Alvos** atingidos recebem 1 **Efeito** Atordoamento e são movidos a você até o **Alcance** de **Toque**. Recebe 3 **Efeitos** de **Desgaste**.
+Um passo forte que cria uma pequena cratera no chão, desestabilizando os oponentes e os arrastando até você. Realiza metade de um **Ataque** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. o **Alvos** atingidos recebem 1 **Efeito** Atordoamento e são movidos a você até o **Alcance** de **Toque**. Recebe 3 **Efeitos** de **Desgaste**.
 
 ### Retaliação
 
@@ -361,15 +361,15 @@ Assim como a guarda imperial você treinou exaustivamente para acertar os pontos
 
 Habilidade Física, Ofensivo, Toque.
 
-**Precisão Improvável**, requer alguma **Arma** e **Custa** 33 pontos de **Mana**.
+**Precisão Improvável**, requer alguma **Arma** e **Custa** 29 pontos de **Mana**.
 
-Realiza vários ataques fatais contra o alvo. Realiza 1d6 **Ataques** contra o **Oponente**, cada um deles escalando com a **Maestria**.
+Realiza vários ataques fatais contra o alvo. Realiza 1d6 **Ataques** contra o **Oponente**, cada um deles escalando com a **Maestria** porém apenas com a metade do **Ataque**. A **Defesa** do **Alvo** não é considerada múltiplas vezes.
 
 ### Superar
 
 Habilidade Física, Utilidade, Individual.
 
-**Precisão Normal**, **Custa** 21 pontos de **Mana**.
+**Precisão Normal**, **Custa** 19 pontos de **Mana**.
 
 Você consegue se libertar de qualquer limitação, seja mágica ou física. Aplica uma **Dissipação Forte** a si mesmo em todos os **Efeitos Negativos**, podendo ser usado mesmo **Inutilizado**. A cada **Plano** pode ser usada pelo menos uma vez fora de seu **Turno**.
 

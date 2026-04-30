@@ -25,6 +25,8 @@ Magia de Água, Defensivo e Recuperação, Individual.
 
 Você levanta uma esfera de água protetora para um aliado, além de curar as suas feridas. Em um **Aliado** adiciona 3 **Efeitos** de **Regeneração** e **Barreira**. Você recebe 3 **Efeitos** de **Desgaste**.
 
+O primeiro **Domo Líquido** conjurado por você em cada **Combate** não tem **Desgaste**.
+
 ### Hiperfoco
 
 Talento Mágico, Recuperação.
@@ -38,6 +40,8 @@ Magia de Terra, Utilidade, Área.
 **Precisão Normal** e **Custa** 10 pontos de **Mana**.
 
 Manipulando pequenos grãos no chão você os joga- magicamente pelo ar, dificultando a visão de oponentes e revelando inimigos furtivos. Em uma área ao seu redor, com raio igual ao seu **Atributo** de **Alcance**, todos **Oponentes** recebem **1d6** **Efeitos** de **Redução** de **Velocidade** e **Precisão**. **Oponentes** ocultos são revelados e voltam para o **Plano de Combate**, recebendo **1d12** de **Dano**.
+
+A primeira **Poeira** conjurada por você em cada **Combate** aplica 1 **Efeito** de **Atordoamento**.
 
 ### Reforço Positivo
 
@@ -53,6 +57,8 @@ Magia de Fogo, Ofensivo, Projétil.
 
 Chamas se concentram na palma da sua mão se tornando uma flecha pronta para atingir seu alvo. Dispara um **Projétil** contra um **Inimigo** causando **1d6** de **Dano**, o adicionando **1d4** **Efeitos** de **Sangramento**.
 
+A primeira **Seta de Fogo** conjurada por você em cada **Combate** tem 1 de **Crítico** adicional.
+
 ### Vendaval
 
 Magia de Vento, Defensivo, Área.
@@ -60,6 +66,8 @@ Magia de Vento, Defensivo, Área.
 **Precisão Normal** e **Custa** 12 pontos de **Mana**.
 
 Um movimento de mão que impulsiona o ar e afasta todas as ameaças. Aplica **1d6** **Efeitos** de **Redução** de **Velocidade** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. Você pode os empurrar para direção oposta em até, a sua escolha, seu **Atributo** de **Alcance**.
+
+O primeiro **Vendaval** conjurado por você em cada **Combate** aplica 1 **Efeito** de **Enraizamento**.
 
 # Nível 1 (Regular)
 
@@ -71,6 +79,8 @@ Magia de Vento, Defensivo e Utilidade, Individual.
 
 Conjura uma pequena esfera de ar, recobrando o raciocínio do aliado ao mesmo tempo que sempre o permite respirar. Em um **Aliado** dentro do seu **Alcance** realiza uma **Dissipação Fraca** de até **1d12** **Efeitos Negativos**, podendo escolher todos separadamente que deseja remover.
 
+A primeira **Esfera de Folego** conjurada por você em cada **Combate** tem **Dissipação Normal** ao invés de **Dissipação Fraca**.
+
 Pode ser usado com **Precisão Garantida** e metade do **Custo** em **Planos de Interpretação** fazendo com que o **Aliado** também possa respirar independente do ambiente, durando até o fim do **Plano**.
 
 ### Isqueiro Vivo
@@ -79,7 +89,9 @@ Magia de Fogo, Utilidade, Individual.
 
 **Precisão Garantida** e **Custa** 10 pontos de **Mana**.
 
-Ninguém sabe ao certo se é um golem ou alguma forma de vida, mas ele sempre quer ajudar seu dono. Cria uma pequena **Unidade** que é uma chama de luz viva, iluminando 10 metros ao seu redor. Só pode ter uma por vez invocada e ela sempre te segue sem ocupar espaço no campo.
+Ninguém sabe ao certo se é um golem ou alguma forma de vida, mas ele sempre quer ajudar seu dono. Cria uma pequena **Unidade** que é uma chama de luz viva, iluminando **1d12** metros ao seu redor. Só pode ter uma por vez invocada e ela sempre te segue sem ocupar espaço no campo.
+
+O primeiro **Isqueiro Vivo** conjurado por você em cada **Combate** também revela **Unidades Invisíveis** em seu **Alcance**, além de iluminar **2d12** metros.
 
 Essa **Unidade** dura até o fim o **Plano** e aumenta o **Crítico** e **Precisão** em 1 de você e seus aliados, porém apenas se estiverem dentro da iluminação, além de suas **Ações de Interpretação** envolvendo **Percepção** também ser aumentado a seu **Crítico** e **Precisão** em 1.
 
@@ -97,6 +109,8 @@ Magia de Terra, Local e Linha, Mobilidade e Controle.
 
 Movimenta um bloco de terra abaixo do pé das pessoas, movendo-se como se tivesse vida própria. Escolhe qualquer local, de área quadrada igual o seu **Alcance**, e depois escolha uma direção. Todas as **Unidades** daquele local são deslocadas para essa direção em uma distância igual a sua **Maestria** somada ao **Alcance**. **Oponentes** que atravessarem **Estruturas**, outros **Oponentes** ou serem atravessados, todos recebem 1 **Efeito** de **Atordoamento**. Pode **Custar** 6 de **Mana** a menos ao optar por não causar os **Atordoamentos**.
 
+O primeiro **Terraformar** conjurado por você em cada **Combate** não tem **Custo**, mesmo com **Atordoamento**.
+
 Pode ser usado com **Precisão Garantida** e **Custo** 3 pontos de **Mana** em **Planos de Interpretação** como uma **Montaria** para uma ou mais **Unidades**, sendo sua **Velocidade** igual ao **Domínio** somado a **Maestria**, durando até o fim do **Plano**.
 
 ### Toque Frio
@@ -106,6 +120,8 @@ Magia de Água, Toque, Controle.
 **Precisão Normal** e **Custa** 12 pontos de **Mana**.
 
 Ao encostar um dedo, mesmo que por pequenos instantes, você é capaz de congelar o que tocar. Adiciona 2 **Efeitos** de **Atordoamento** no **Alvo**. Você recebe 2 **Efeitos** de **Desgaste**.
+
+O primeiro **Toque Frio** conjurado por você em cada **Combate** tem **Alcance** é um **Projétil** ao invés de **Toque**.
 
 Pode ser usado em **Planos de Interpretação** fazendo com que o **Alvo** seja permanentemente **Atordoado** contanto que você mantenha contato direto com pelo menos uma mão (a inutilizando junto de seus **Itens** equipados).
 
@@ -131,6 +147,8 @@ Magia de Terra, Local, Controle e Ofensivo.
 
 Com um leve atraso você conjura uma série de pilastras de terra contra os seus inimigos, os ferindo e nocauteando. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com raio igual o seu **Alcance**. Apenas no seu próximo **Turno** os **Oponentes** naquele local recebem **1d20** de **Dano** e 1 **Efeito** de **Atordoamento**.
 
+A primeira **Pilastra** conjurada por você em cada **Combate** pode não ter atraso, mas aplica **Enraizamento** ao invés de **Atordoamento**.
+
 ### Redirecionar
 
 Magia de Vento, Controle, Individual.
@@ -138,6 +156,8 @@ Magia de Vento, Controle, Individual.
 **Precisão Normal** e **Custa** 11 pontos de **Mana**.
 
 Conjura uma ventania brusca, redirecionando magias e ataques para outros adversários. Essa **Habilidade** pode ser usada fora de seu **Turno**, porém te aplica 3 **Efeitos** de **Desgaste** e só pode usado uma vez até voltar seu **Turno**. Você pode controlar o **Alvo** ou **Área** de uma **Habilidade** de um **Oponente**, contanto que não seja **Crítica** ou com **Alcance** de **Toque**. Essa **Habilidade** ainda deve respeitar o **Atributo** de **Alcance** da **Unidade**, além de o **Alvo** não poder ser a própria **Unidade** ou estar na sua **Área de efeito** da sua própria **Habilidade**.
+
+O primeiro **Redirecionar** conjurado por você em cada **Combate** não tem **Custo** e não pode ser interrompido.
 
 ### Seta de Gelo
 
@@ -147,6 +167,8 @@ Magia de Água, Ofensivo e Controle, Projétil.
 
 Frio e neve se concentram na palma da sua mão se tornando uma flecha pronta para atingir seu alvo. Essa **Habilidade** considera o dobro do seu **Atributo** de **Alcance**. Dispara um **Projétil** contra um **Inimigo** causando **1d8** de **Dano**, além **1d6** de **Efeitos** de **Redução** de **Velocidade**.
 
+A primeira **Seta de Gelo** conjurada por você em cada **Combate** aplica 1 **Efeito** de **Enraizamento**.
+
 ### Sopro Incendiário
 
 Magia de Fogo, Ofensivo, Cone.
@@ -154,6 +176,8 @@ Magia de Fogo, Ofensivo, Cone.
 **Precisão Normal** e **Custa** 22 pontos de **Mana**.
 
 É uma imitação quase perfeita de um bafo de dragão, incendiando quem atinge. Em uma área cônica, que não pode passar de metade do seu **Atributo** de **Alcance**, você assopra fogo causando **1d20** de **Dano**, e metade do **Dano** causado como **Efeitos** de **Sangramento**, arredondado para baixo.
+
+O primeiro **Sopro Incendiário** conjurado por você em cada **Combate** tem **Alcance** total ao invés da metade.
 
 ### Pés Leves
 
