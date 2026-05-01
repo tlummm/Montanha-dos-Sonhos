@@ -29,7 +29,7 @@ Imitando uma fase da lua você realiza um ataque, empurrando seus oponentes e os
 
 Talento Físico, Defensivo.
 
-Mesmo sem escudo você ainda consegue resistir a golpes. Sua **Defesa** é aumentada em 1, ou em 2 caso você esteja com um **Escudo** equipado.
+Mesmo sem escudo você ainda consegue resistir a golpes. Sua **Defesa** é aumentada em 1, ou em 2 caso você esteja com um **Escudo** equipado. Sempre reduz o **Dano** em 1 de todas as fontes antes das mitigações, exceto por **Efeitos**.
 
 ### Golpe Crescente
 
@@ -43,7 +43,7 @@ Imitando uma fase da lua você realiza um ataque poderosos, empurrando seus opon
 
 Talento Físico, Defensivo e Ofensivo.
 
-Seu treinamento intenso o concedeu um corpo ideal para conflitos armados. O seu **Ataque** é aumentado em 1 para cada **Arma** equipada.
+Seu treinamento intenso o concedeu um corpo ideal para conflitos armados. O seu **Ataque** é aumentado em 1 para cada **Arma** ou **Escudo** equipado. Se você não tiver nenhuma **Mão** livre o seu **Vigor** é aumentado em 1.
 
 ### Pancada
 
@@ -57,7 +57,7 @@ Um ataque entre o queixo e o pescoço, impossibilitando a conjuração de magias
 
 Talento Físico, Recuperação.
 
-Você consegue encontrar brechas na batalha para se recuperar. No começo de seus **Turnos** você recupera 1 ponto de **Vida** se estiver com metade dos pontos de **Vida** ou inferior, arredondado para baixo. Com um **Escudo** equipado a regeneração desse **Talento** é aumentado para 2.
+Você consegue encontrar brechas na batalha para se recuperar. Aumenta o **Vigor** em 2. No começo de seus **Turnos** você recupera 1 ponto de **Vida** se estiver com metade dos pontos de **Vida** ou inferior, arredondado para baixo. Com um **Escudo** equipado a regeneração desse **Talento** é aumentado para 2.
 
 # Nível 1 (Regular)
 
@@ -65,7 +65,7 @@ Você consegue encontrar brechas na batalha para se recuperar. No começo de seu
 
 Talento Físico, Defensivo e Ofensivo.
 
-Seus reflexos são afiados ao ponto de te dar oportunidades para se defender completamente dos ataques. Ao sofrer um **Ataque** com alcance de **Toque** você tem uma chance de o anular, com um arremesso de um **1d20**. É necessária uma **Precisão Difícil**, e se não tiver um **Escudo** equipado apenas metade do **Dano** e **Efeitos** serão anulados.
+Seus reflexos são afiados ao ponto de te dar oportunidades para se defender completamente dos ataques. Aumenta a **Defesa** em 3. Ao sofrer um **Ataque** com alcance de **Toque** você tem uma chance de o anular, com um arremesso de um **1d20**. É necessária uma **Precisão Difícil**, e se não tiver um **Escudo** equipado apenas metade do **Dano** e **Efeitos** serão anulados.
 
 ### Contra-Ataque
 
@@ -81,13 +81,13 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 Talento Físico, Ofensivo e Utilidade.
 
-Sua liderança em combate inspira seus aliados a realizarem suas melhores ofensivas. Marca permanentemente o último **Oponente** que você acertou um **Ataque** ou **Habilidade**, se essa **Ação** acertou mais de um **Oponente** ao mesmo tempo ambos terão a marca de **Comando**. Você e **Aliados** tem o aumento de 1 de **Ataque** contra esses **Oponentes**.
+Sua liderança em combate inspira seus aliados a realizarem suas melhores ofensivas. Aumenta a **Letalidade** em 1. Marca permanentemente o último **Oponente** que você acertou um **Ataque** ou **Habilidade**, se essa **Ação** acertou mais de um **Oponente** ao mesmo tempo ambos terão a marca de **Comando**. Você e **Aliados** tem o aumento de 1 de **Ataque** contra esses **Oponentes**.
 
 ### Desvantagem Tática
 
 Talento Físico, Defensivo e Ofensivo.
 
-Apenas lutas desfavoráveis podem revelar o seu valor. Aumenta o seu **Ataque** em 1 para cada **Oponente** mais próximo que algum **Aliado**, esses valores adicionais não podem ser superiores a 5.
+Apenas lutas desfavoráveis podem revelar o seu valor. Aumenta o **Ataque** em 3. Aumenta o seu **Ataque** em 1 para cada **Oponente** mais próximo que algum **Aliado**, esses valores adicionais não podem ser superiores a 3.
 
 ### Golpe de Escudo
 
@@ -123,7 +123,7 @@ Realiza dois golpes velozes, ambos fatais. Realiza dois **Ataques** contra o **O
 
 Talento Físico, Ofensivo.
 
-Você se torna mais forte a medida da sua precisão. Toda vez que você acertar um **Ataque** ou **Habilidade**, o seu **Ataque** é aumentado em 1 até o fim do **Plano**. Esses valores adicionais não pode ser superiores a 7.
+Você se torna mais forte a medida da sua precisão. Aumenta o **Crítico** em 1. Toda vez que você acertar um **Ataque** ou **Habilidade**, o seu **Ataque** é aumentado em 1 até o fim do **Plano**. Esses valores adicionais não pode ser superiores a 7.
 
 ### Cutilada
 
@@ -145,13 +145,13 @@ Em um ímpeto de guerra você corre contra um adversário o incapacitando. Avan�
 
 Talento Físico, Mobilidade.
 
-Você se torna mais veloz a medida dos seus movimentos. Aumenta o **Ataque** em 1. Toda vez que você usar uma **Ação de Movimentação** aumenta a seu **Ataque** e **Defesa** em 1 até o fim do **Plano**. Esses valores adicionais não pode ser superior a 2.
+Você se torna mais veloz a medida dos seus movimentos. Aumenta o **Ataque** e **Defesa** em 2. Toda vez que você usar uma **Ação de Movimentação** aumenta o seu **Ataque** e **Defesa** em 1 até o fim do **Plano**. Esses valores adicionais não pode ser superior a 2.
 
 ### Resiliência
 
 Talento Físico, Defensivo.
 
-Você se torna mais resistente a medida dos ferimentos. Aumenta a **Defesa** em 1. Toda vez que você sofrer um **Ataque** ou **Habilidade** aumenta a sua **Defesa** em 1 até o fim do **Plano**. Esses valores adicionais não podem ser superiores a 5.
+Você se torna mais resistente a medida dos ferimentos. Aumenta a **Defesa** e **Vigor** em 2. Toda vez que você sofrer um **Ataque** ou **Habilidade** aumenta a sua **Defesa** em 1 até o fim do **Plano**. Esses valores adicionais não podem ser superiores a 2.
 
 # Nível 3 (Especialista)
 
@@ -159,13 +159,13 @@ Você se torna mais resistente a medida dos ferimentos. Aumenta a **Defesa** em 
 
 Talento Físico, Ofensivo.
 
-O poder de seus golpes desestabilizam os oponentes, os deixando vulneráveis. Aumenta o seu **Crítico** em 1. Ao realizar um acerto **Crítico** em um **Oponente**, ele recebe uma **Marcador** até o fim do **Combate** com um máximo de 2. Você e **Aliados** tem **Crítico** aumentado contra aquele **Alvo** igual a esse **Marcador**.
+O poder de seus golpes desestabilizam os oponentes, os deixando vulneráveis. Aumenta o seu **Crítico** em 2. Ao realizar um acerto **Crítico** em um **Oponente**, ele recebe uma **Marcador** até o fim do **Combate** com um máximo de 2. Você e **Aliados** tem **Crítico** aumentado contra aquele **Alvo** igual a esse **Marcador**.
 
 ### Ameaça Viva
 
 Talento Físico, Ofensivo.
 
-Sua maestria em combate faz você revidar qualquer golpe. Aumenta a **Defesa** em 3. Devolve metade do **Dano** mitigado, arredondado para cima, para seu dono, mas apenas se a fonte for com **Alcance** de **Toque**.
+Sua maestria em combate faz você revidar qualquer golpe. Aumenta a **Defesa** e **Vigor** em 3. Devolve metade do **Dano** mitigado, arredondado para cima, para seu dono, mas apenas se a fonte for com **Alcance** de **Toque**.
 
 ### Exercer
 
@@ -187,7 +187,7 @@ Você consegue expressar todas as atrocidades que quer cometer com alguém apena
 
 Talento Físico, Utilidade.
 
-Erros não são tolerados no fronte. Aumenta a sua **Precisão** em 1. Ao errar um **Ataque** ou **Habilidade** você ganha um **Marcador** até o fim do **Combate** com um máximo de 3. Sua **Precisão** é aumentada com base nesse **Marcador**, porém ele é removido ao efetivamente acertar um **Ataque** ou **Habilidade**.
+Erros não são tolerados no fronte. Aumenta a sua **Precisão** em 2. Ao errar um **Ataque** ou **Habilidade** você ganha um **Marcador** até o fim do **Combate** com um máximo de 3. Sua **Precisão** é aumentada com base nesse **Marcador**, porém ele é removido ao efetivamente acertar um **Ataque** ou **Habilidade**.
 
 ### Reconhecer Equipamento
 
@@ -211,19 +211,19 @@ Dilacera todos os adversários em sua vista com um golpe circular. Realiza metad
 
 Talento Físico, Defensivo e Ofensivo.
 
-Para você defesa e ataque são duas faces da mesma moeda. Aumenta o **Ataque** e **Defesa** em 2. No início de um **Combate** você pode escolher entre **Ataque** ou **Defesa**, aumentando em 3 esse **Atributo** permanentemente até o fim daquele **Plano**.
+Para você defesa e ataque são duas faces da mesma moeda. Aumenta o **Ataque** e **Defesa** em 3. No início de um **Combate** você pode escolher entre **Ataque** ou **Defesa**, aumentando em 3 esse **Atributo** permanentemente até o fim daquele **Plano**.
 
 ### Guarda Conjunta
 
 Talento Físico, Defensivo.
 
-Sua liderança é passada através de uma formação imbatível. Aumenta o seu **Vigor** em 2. Enquanto equipado com um **Escudo**, **Aliados** dentro de um **Alcance** igual a metade de seu **Vigor**, arredondado para cima, recebem 2 **Aumento** de **Defesa** para cada **Aliado** sobre esse **Efeito**. Você também recebe esse **Aumento**, mas não faz parte da contagem.
+Sua liderança é passada através de uma formação imbatível. Aumenta o seu **Vigor** em 6. Enquanto equipado com um **Escudo**, **Aliados** dentro de um **Alcance** igual a metade de seu **Vigor**, arredondado para cima, recebem 2 **Aumento** de **Defesa** para cada **Aliado** sobre esse **Efeito**. Você também recebe esse **Aumento**, mas não faz parte da contagem.
 
 ### Indomável
 
 Talento Físico, Defensivo.
 
-Sua resistência a condições extremas é elevada a além do limite. Aumenta o **Vigor** em 3. Sua **Tolerância** a **Efeitos** é duplicada, fazendo que você tenha uma **Precisão Difícil** para não ter nenhum **Efeito** Negativo, e seus **Atributos** não podem ser inferiores a 6 (a menos que os **Atributos** base sejam inferiores).
+Sua resistência a condições extremas é elevada a além do limite. Aumenta o **Vigor** em 5. Sua **Tolerância** a **Efeitos** é duplicada, fazendo que você tenha uma **Precisão Difícil** para não ter nenhum **Efeito** Negativo, e seus **Atributos** não podem ser inferiores a 5 (a menos que os **Atributos** base sejam inferiores).
 
 ### Salto Triunfal
 
@@ -291,7 +291,7 @@ Um golpe bem acertado é como uma aula para seus aliados. Aumenta o **Crítico**
 
 Talento Físico, Mobilidade e Utilidade.
 
-Cada passo seu é tático, inspirando seus aliados a fazerem o mesmo. Aumenta o **Espírito** e a **Velocidade** em 2. Ao usar sua **Ação de Movimento**, um **Aliado** fora do **Turno** dele também pode realizar uma **Ação de Movimento**, porém se locomovendo apenas uma distância metade do valor original.
+Cada passo seu é tático, inspirando seus aliados a fazerem o mesmo. Aumenta o **Ataque** e **Vigor** em 3. Ao usar sua **Ação de Movimento**, um **Aliado** fora do **Turno** dele também pode realizar uma **Ação de Movimento**, porém se locomovendo apenas uma distância metade do valor original.
 
 # Nível 6 (Gênio)
 
@@ -299,7 +299,7 @@ Cada passo seu é tático, inspirando seus aliados a fazerem o mesmo. Aumenta o 
 
 Talento Físico, Controle e Mobilidade.
 
-Ninguém pode passar por você. Aumenta a **Defesa** e **Vigor** em 3. Se algum **Oponente** usar alguma **Ação** que envolva **Movimentação** e passe em um **Alcance** dentro de um raio igual a sua **Velocidade**, você pode se movimentar em direção a ele, mesmo que fora de seu **Turno**, anulando essa **Ação** e realizando um **Ataque**. Só pode ocorrer 3 vezes por **Oponente** em cada **Combate**.
+Ninguém pode passar por você. Aumenta a **Defesa** e **Vigor** em 4. Se algum **Oponente** usar alguma **Ação** que envolva **Movimentação** e passe em um **Alcance** dentro de um raio igual a sua **Velocidade**, você pode se movimentar em direção a ele, mesmo que fora de seu **Turno**, anulando essa **Ação** e realizando um **Ataque**. Só pode ocorrer 3 vezes por **Oponente** em cada **Combate**.
 
 ### Contenção
 
@@ -349,7 +349,7 @@ Assim como as vilas do extremo norte o conjunto é o coração da pilhagem. Aume
 
 Talento Físico, Defensivo, Aura.
 
-A unidade do fronte sempre compartilha sua resistência. Aumenta a sua **Defesa** em 6. **Aliados**, independente da distância, ganham um terço da sua **Defesa**, arredondado para cima. Em múltiplas fontes dessa mesma **Aura** prevalece apenas a com maior valor.
+A unidade do fronte sempre compartilha sua resistência. Aumenta a sua **Defesa** em 9. **Aliados**, independente da distância, ganham um terço da sua **Defesa**, arredondado para cima. Em múltiplas fontes dessa mesma **Aura** prevalece apenas a com maior valor.
 
 ### Aura do Império
 

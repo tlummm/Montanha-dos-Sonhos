@@ -12,15 +12,15 @@ Por ser do **Aspecto** da **Agilidade** essa **Classe** começa com 1 **Modifica
 
 Talento Principal.
 
-Seus passos cofundem os oponentes, como se estivesse em vários lugares ao mesmo tempo. Sua **Ação de Movimento** é modificada, você pode se movimentar livremente entre, antes e depois de suas outras **Ações** (**Ataque** e **Principal**), porém o limite da distância total é igual ou inferior a seu **Alcance** somado a **Velocidade**.
+Seus passos cofundem os oponentes, como se estivesse em vários lugares ao mesmo tempo. Sua **Ação de Movimento** é modificada, você pode se movimentar livremente entre, antes e depois de suas outras **Ações** (**Ataque** e **Principal**), porém o limite da distância total é igual ou inferior a sua **Velocidade**.
 
-Você ganha 1 ponto de **Agilidade** por **Nível**, além de **Ações de Movimento** adicionais só aumentam o limite dessa movimentação. **Efeitos** de **Redução** de **Velocidade** ou os de **Enraizamento** são removidos duas vezes mais rápido de você.
+Você ganha 1 ponto de **Agilidade** por **Nível**, além de **Ações de Movimento** adicionais só aumentam o limite de distancia da sua movimentação. **Efeitos** de **Redução** de **Velocidade** ou os de **Enraizamento** são removidos duas vezes mais rápido de você.
 
 ### Ângulo Isolado
 
 Talento Físico, Utilidade.
 
-Quanto mais silencioso o local, melhor é a mira. Aumenta a seu **Ataque** em 1 caso não haja **Oponentes** dentro de 5 metros, ou em 2 caso não haja nenhuma outra **Unidade** em 5 metros além de você.
+Quanto mais silencioso o local, melhor é a mira. Aumenta a seu **Alcance** em 2, ou em 3 caso não haja **Oponentes** dentro de 5 metros, ou em 4 caso não haja nenhuma outra **Unidade** em 5 metros além de você.
 
 ### Apunhalar
 
@@ -28,7 +28,7 @@ Habilidade Física, Ofensivo, Toque.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 4 pontos de **Mana**.
 
-Em lutas reais a honra é apenas uma limitação. Realiza um **Ataque** contra o **Oponente**. Se a última **Ação Principal** ou **Ataque** do **Alvo** foi de uma direção **Oposta** de onde você realizou **Apunhalar** o **Dano** é aumentado pela **Metade** e o **Custo de Mana** é restituído.
+Em lutas reais a honra é apenas uma limitação. Realiza um **Ataque** contra o **Oponente**. Se a última **Ação Principal** ou **Ataque** do **Alvo** foi de uma direção **Oposta** de onde você realizou **Apunhalar** o **Dano** é aumentado pela **Metade** e o **Custo de Mana** é restituído. O Aumento de **Dano** pode ser **Mágico** ao invés de **Físico**.
 
 ### Degolar
 
@@ -76,13 +76,13 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 Talento Físico, Utilidade.
 
-Suas falhas se acumulam como grandes acertos no futuro. Aumenta o **Crítico** em 1. O seu primeiro erro de **d20** nesse **Combate** aumenta o seu **Crítico** em 1. Esse valor também é aumentado em 1 no primeiro erro **Crítico**.
+Suas falhas se acumulam como grandes acertos no futuro. Aumenta o **Crítico** em 2. O seu primeiro erro de **d20** nesse **Combate** aumenta o seu **Crítico** em 1. Esse valor também é aumentado em 1 no primeiro erro **Crítico**.
 
 ### Desigualdade
 
 Talento Físico, Utilidade.
 
-É apenas uma cobrança do que é justo. Aumenta a **Sorte** em 5. Ao causar **Dano**, que não seja de **Efeitos**, você rouba 1 **Atributo** aleatório desse **Oponente** que seja superior ao seu. Só é possível roubar 1 ponto de cada **Atributo** e a aleatoriedade é sobre os restantes.
+É apenas uma cobrança do que é justo. Reduz o **Alcance** contra você em 3. Ao causar **Dano**, que não seja de **Efeitos**, você rouba 1 **Atributo** aleatório desse **Oponente** que seja superior ao seu. Só é possível roubar 1 ponto de cada **Atributo** e a aleatoriedade é sobre os restantes.
 
 ### Disparo de Contusão
 
@@ -142,7 +142,7 @@ Sem erros. Realiza um **Ataque**, porém pode ser usado como uma **Ação de Com
 
 Talento Físico, Ofensivo.
 
-Apenas assegurando o trabalho. Aumenta a **Esquiva** em 2. Ao causar **Dano**, que não seja de **Efeitos**, em um **Oponente** que tenha sofrido **Dano** de outro **Aliado** seu, faz com que você use metade desse **Dano** como um adicional.
+Apenas assegurando o trabalho. Aumenta a **Esquiva** em 2. Ao causar **Dano**, que não seja de **Efeitos**, em um **Oponente** que tenha sofrido **Dano** de outro **Aliado** seu, faz com que você use metade desse **Dano** como um adicional, e pode ser aplicado como **Mágico**.
 
 ### Passo Oculto
 

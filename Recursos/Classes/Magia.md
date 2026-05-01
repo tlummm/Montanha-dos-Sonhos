@@ -47,7 +47,7 @@ A primeira **Poeira** conjurada por você em cada **Combate** aplica 1 **Efeito*
 
 Talento Mágico, Ofensivo e Recuperação.
 
-Um feitiço bem executado sempre refresca a mente. Aumenta a **Maestria** em 2. O primeiro Acerto de **Habilidade** em cada **Turno** restaura **1d6** pontos de **Mana**.
+Um feitiço bem executado sempre refresca a mente. Aumenta a **Maestria** em 2. O primeiro Acerto de **Habilidade** em cada **Turno** restaura **1d4** pontos de **Mana**.
 
 ### Seta de Fogo
 
@@ -99,7 +99,7 @@ Essa **Unidade** dura até o fim o **Plano** e aumenta o **Crítico** e **Precis
 
 Talento Mágico de Fogo, Ofensivo.
 
-Sua falta de paciência intensifica o uso do **Fogo**. Aumenta a **Maestria** em 2. Para **Magias de Fogo** o **Crítico**, **Letalidade**, **Precisão** e **Maestria** também são aumentadas em 1, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 2.
+Sua falta de paciência intensifica o uso do **Fogo**. Aumenta a **Maestria** em 3. Para **Magias de Fogo** o **Crítico**, **Letalidade**, **Precisão** e **Maestria** também são aumentadas em 1, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 2.
 
 ### Terraformar
 
@@ -129,7 +129,7 @@ Pode ser usado em **Planos de Interpretação** fazendo com que o **Alvo** seja 
 
 Talento Mágico de Água, Utilidade.
 
-Seu excesso de paciência intensifica o uso da **Água**. Aumenta o **Espírito** em 2. **Magias de Água** conjuradas sempre restauram 1 ponto de **Vida** de você e todos os **Aliados**, independente do seu **Alcance**, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 2.
+Seu excesso de paciência intensifica o uso da **Água**. Aumenta o **Espírito** em 3. **Magias de Água** conjuradas sempre restauram 1 ponto de **Vida** de você e todos os **Aliados**, independente do seu **Alcance**, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 2.
 
 # Nível 2 (Entusiasta)
 
@@ -137,7 +137,7 @@ Seu excesso de paciência intensifica o uso da **Água**. Aumenta o **Espírito*
 
 Talento Mágico de Terra, Controle.
 
-Na sua presença o chão que sustenta seus oponentes torna-se traiçoeiro. Aumenta o **Espírito** em 3. Reduz o **Custo** de **Magias de Terra** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode o mover **1d4** metros após a sua **Ação** para qualquer direção em linha reta.
+Na sua presença o chão que sustenta seus oponentes torna-se traiçoeiro. Aumenta o **Espírito** em 4. Reduz o **Custo** de **Magias de Terra** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode o mover **1d4** metros após a sua **Ação** para qualquer direção em linha reta.
 
 ### Pilastra
 
@@ -183,7 +183,7 @@ O primeiro **Sopro Incendiário** conjurado por você em cada **Combate** tem **
 
 Talento Mágico de Vento, Mobilidade.
 
-Há um vento misteriosos que te afasta de todas as ameaças. Aumenta a **Maestria** em 3. Reduz o **Custo** de **Magias de Vento** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode se mover **1d4** metros após a **Ação** dele, sem consumir nenhuma de suas **Ações** mas em linha reta.
+Há um vento misteriosos que te afasta de todas as ameaças. Aumenta a **Maestria** em 4. Reduz o **Custo** de **Magias de Vento** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode se mover **1d4** metros após a **Ação** dele, sem consumir nenhuma de suas **Ações** mas em linha reta.
 
 # Nível 3 (Especialista)
 
@@ -215,13 +215,13 @@ Um fragmento de gelo cristalizado surge da água, recuperando as energias de tod
 
 Talento Mágico de Fogo, Ofensivo.
 
-Seu poder de fogo é tão instável que as vezes escapam algumas faíscas mesmo que esteja conjurando um outro elemento. Aumenta a **Maestria** em 4. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Fogo** sempre será disparado de você contra um **Oponente** aleatório, o causando **1d4** ponto de **Dano**. Esse **Projétil** ignora completamente a **Defesa** e **Espírito**, não escala com **Maestria** e não se importa com a distância.
+Seu poder de fogo é tão instável que as vezes escapam algumas faíscas mesmo que esteja conjurando um outro elemento. Aumenta a **Maestria** em 5. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Fogo** sempre será disparado de você contra um **Oponente** aleatório, o causando **1d4** ponto de **Dano**. Esse **Projétil** ignora completamente a **Defesa** e **Espírito**, não escala com **Maestria** e não se importa com a distância.
 
 ### Gotas
 
 Talento Mágico de Água, Recuperação.
 
-A calma de seu poder de água é tão serena que as vezes escapam algumas gotas curativas mesmo que esteja conjurando um outro elemento. Aumenta o **Domínio** em 4. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Água** sempre será disparado de você para um **Aliado** aleatório, o recuperando 1 ponto de **Vida** e lhe concedendo **1d4** **Efeitos** de **Regeneração**. Esse **Projétil** não escala com **Maestria** e não se importa com a distância.
+A calma de seu poder de água é tão serena que as vezes escapam algumas gotas curativas mesmo que esteja conjurando um outro elemento. Aumenta o **Domínio** em 5. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Água** sempre será disparado de você para um **Aliado** aleatório, o recuperando 1 ponto de **Vida** e lhe concedendo **1d4** **Efeitos** de **Regeneração**. Esse **Projétil** não escala com **Maestria** e não se importa com a distância.
 
 ### Posto de Vento
 
@@ -265,7 +265,7 @@ Você só pode ter três **Muralhas** por vez.
 
 Talento Mágico de Vento, Movimentação.
 
-A astúcia do seu poder de vento é tão sagaz que as vezes escapam algumas correntes de ar mesmo que esteja conjurando um outro elemento. Aumenta o **Espírito** em 5. Sempre que você usar uma **Magia**, não importando qual **Elemento**, você e seus **Aliados** recebem 2 **Efeitos** de **Aumento** de **Velocidade**.
+A astúcia do seu poder de vento é tão sagaz que as vezes escapam algumas correntes de ar mesmo que esteja conjurando um outro elemento. Aumenta o **Espírito** em 6. Sempre que você usar uma **Magia**, não importando qual **Elemento**, você e seus **Aliados** recebem 2 **Efeitos** de **Aumento** de **Velocidade**.
 
 ### Tornado
 
@@ -279,7 +279,7 @@ Você gira junto de um tornado, arremessando todos os oponentes ao ar. Aplica **
 
 Talento Mágico de Terra, Controle.
 
-A disciplina do seu poder de Terra é tão rígida que as vezes escapam alguns pequenos terremotos mesmo que você esteja conjurando um outro elemento. Aumenta o **Domínio** em 5. Sempre que você usar uma **Magia**, não importando qual **Elemento**, os **Oponentes** recebem 2 **Efeitos** de **Redução** de **Velocidade**.
+A disciplina do seu poder de Terra é tão rígida que as vezes escapam alguns pequenos terremotos mesmo que você esteja conjurando um outro elemento. Aumenta o **Domínio** em 6. Sempre que você usar uma **Magia**, não importando qual **Elemento**, os **Oponentes** recebem 2 **Efeitos** de **Redução** de **Velocidade**.
 
 # Nível 5 (Mestre)
 
@@ -369,13 +369,13 @@ Você só pode ter uma **Cratera** por vez.
 
 Talento Mágico de Terra, Aura, Defensivo.
 
-Os inimigos em sua presença não ousam te contestar. Aumenta o **Espírito** em 6. Desde o início do seu **Turno** os **Oponentes** não podem te interromper, isso só ocorre em seus **Turnos** ímpares e não importando a distância.
+Os inimigos em sua presença não ousam te contestar. Aumenta o **Espírito** em 8. Desde o início do seu **Turno** os **Oponentes** não podem te interromper, isso só ocorre em seus **Turnos** ímpares e não importando a distância.
 
 ### Presença Volátil
 
 Talento Mágico de Vento, Aura, Controle.
 
-Os inimigos em sua presença não conseguem te acertar. Aumenta o **Domínio** em 3 e a **Esquiva** em 1. Desde o início do **Turno** dos **Oponentes** eles tem a metade da **Precisão** contra você, isso só ocorre em seus **Turnos** ímpares não importando a distância.
+Os inimigos em sua presença não conseguem te acertar. Aumenta o **Domínio** em 4 e a **Esquiva** em 1. Desde o início do **Turno** dos **Oponentes** eles tem a metade da **Precisão** contra você, isso só ocorre em seus **Turnos** ímpares não importando a distância.
 
 ### Vórtice
 
@@ -481,13 +481,13 @@ Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familia
 
 Talento Mágico de Vento, Aura, Controle.
 
-O ar que você respira se torna diabólico, diminuindo o foco de seus adversários. Aumenta o **Domínio** em 7. **Oponentes** dentro de um raio igual ao o dobro de seu **Alcance** tem os **Custos** de **Mana** dobrados. Não se aplica a **Chefes**.
+O ar que você respira se torna diabólico, diminuindo o foco de seus adversários. Aumenta o **Domínio** em 10. **Oponentes** dentro de um raio igual ao o dobro de seu **Alcance** tem os **Custos** de **Mana** dobrados. Não se aplica a **Chefes**.
 
 ### Poeira Clara
 
 Talento Mágico de Terra, Aura, Recuperação.
 
-A terra que você pisa se torna perto do divino, aumentando a concentração de seus aliados. Aumenta a **Maestria** em 7. Você e **Aliados** dentro de um raio igual ao o dobro de seu **Alcance** tem os **Custos** de **Mana** reduzidos pela metade.
+A terra que você pisa se torna perto do divino, aumentando a concentração de seus aliados. Aumenta a **Maestria** em 10. Você e **Aliados** dentro de um raio igual ao o dobro de seu **Alcance** tem os **Custos** de **Mana** reduzidos pela metade.
 
 # Nível 9 (Lenda)
 
@@ -535,7 +535,7 @@ A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no 
 
 Talento Mágico, Ofensivo.
 
-A sua instabilidade de tantos elementos da natureza diferentes finalmente foi contida. Aumenta a **Inteligência** em 10. Seu **Talento Principal** de **Instabilidade** perde o **Custo** de **Mana** adicional e não é mais limpo ao repetir o mesmo **Elemento**.
+A sua instabilidade de tantos elementos da natureza diferentes finalmente foi contida. Aumenta a **Inteligência** em 11. Seu **Talento Principal** de **Instabilidade** perde o **Custo** de **Mana** adicional e não é mais limpo ao repetir o mesmo **Elemento**.
 
 ### Maestria Familiar
 
