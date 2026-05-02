@@ -148,7 +148,7 @@ Apenas assegurando o trabalho. Aumenta a **Esquiva** em 2. Ao causar **Dano**, q
 
 Habilidade Mágica, Mobilidade.
 
-**Precisão Normal** e **Custa** 9 pontos de **Mana**.
+**Precisão Normal** e **Custa** 8 pontos de **Mana**.
 
 Sumiço como um truque de mágica. Você sai do **Plano de Combate** para o **Plano de Interpretação** sem ser visto por inimigos. A primeira **Ação** cancela o **Passo Oculto** no final do turno. Esse **Efeito Único** pode ser anulado com uma **Dissipação Fraca** ou sofrer **Dano**. Nesse estado você não pode ser **Alvo** de **Ataques** e **Habilidades**.
 
@@ -208,41 +208,47 @@ Comprou é para gastar. Realiza um **Ataque** em todos os **Oponentes** dentro d
 
 # Nível 4 (Veterano)
 
+### Disparo Perfurante
+
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 12 pontos de **Mana**.
+
+A melhor forma de economizar munição é com apenas um disparo. Marca um **Alvo** e atira uma munição perfurante, causando um **Ataque** mais **1d12** em todos os alvos intermediários. Essa **Habilidade** tem **1d6** de **Letalidade** apenas no **Alvo que está no fim do trajeto**.
+
 ### Infortúnio
 
-Texto.
+Talento Físico, Ofensivo e Mobilidade.
 
-Texto.
+O pedágio é caro. Aumenta a **Sorte** em 6. Toda vez que um **Oponente** se mover a partir do seu **Alcance** de **Toque** você pode realizar um **Ataque** nele fora do seu **Turno** sem consumir **Ações**. O mesmo ocorre se um **Oponente** passar por seu **Alcance** de **Toque** em um **Movimento**.
 
 ### Ir e Vir
 
-Texto.
+Habilidade Física, Controle, Toque.
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 9 pontos de **Mana**.
+
+Uma interpretação diferente de um direito básico. Realiza um **Ataque** em um **Alvo** o marcando. No próximo uso dessa **Habilidade**, caso haja um alvo marcado por ela, ela não terá **Custo**, se torna do **Tipo** de **Mobilidade** e **Individual**, e faz com que você se mova até o **Alvo**, independente do **Alcance**, e também realize um **Ataque**, mas causando **Dano Mágico** e removendo a marca.
 
 ### Ponto Cego
 
-Texto.
+Talento Físico, Mobilidade.
 
-Texto.
+O manto e adaga aprimorado. Diminui o **Alcance** contra você em 6. Suas **Invisibilidades** não podem ser canceladas por suas **Ações**, mas ainda são canceladas por sofrer **Ataques** e **Habilidades**.
 
 ### Reflexo Momentâneo
 
-Texto.
+Habilidade Física, Defensivo, Individual.
 
-Texto.
+**Precisão Normal** e **Custa** 10 pontos de **Mana**.
 
-### Habilidade
+Um pequeno instante onde tudo passa devagar diante de seus olhos. Até o começo do seu próximo **Turno** você se esquiva de todos os **Ataques**, incluindo por **Habilidades**, mas não de **Acertos Críticos**.
 
-Texto.
+### Roubar Passagem
 
-Texto.
+Habilidade Física, Defensivo e Mobilidade, Individual.
 
-### Habilidade
+**Precisão Normal**, requer alguma **Arma** e **Custa** 10 pontos de **Mana**.
 
-Texto.
-
-Texto.
+A expropriação literal de passos. Essa **Habilidade** pode ser usada fora de seu **Turno**. Anula a **Ação de Movimentação** ou **Habilidade** de **Mobilidade** de um **Oponente** dentro do seu **Alcance** somado a sua **Velocidade**. Você pode se mover no **Turno** dele igual a distância original que ele iria se mover.
 
 # Nível 5 (Mestre)
 
@@ -284,7 +290,13 @@ Texto.
 
 # Nível 6 (Gênio)
 
-### Ataque Vital
+### Ataque de Dois Mundos
+
+Texto.
+
+Texto.
+
+### Golpe Vital
 
 Texto.
 
@@ -297,12 +309,6 @@ Texto.
 Texto.
 
 ### Sadismo
-
-Texto.
-
-Texto.
-
-### Habilidade
 
 Texto.
 
