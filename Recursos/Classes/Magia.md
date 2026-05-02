@@ -241,6 +241,8 @@ Magia de Fogo, Ofensivo, Linha.
 
 Com um gesto simples de mão todos os inimigos em uma direção são incinerados. Escolha uma direção e, em uma linha reta com distância igual ao seu **Alcance** e largura de 3 metros, causa **2d12** de **Dano** em todos os **Unidades** dentro da área. O dano é causado com **Letalidade** adicional igual o número de **Oponentes** afetados.
 
+O primeiro **Conflagrar** conjurado por você em cada **Combate** tem **1d12** adicional.
+
 ### Congelar Chão
 
 Magia de Gelo, Local, Controle.
@@ -249,7 +251,7 @@ Magia de Gelo, Local, Controle.
 
 Uma nevasca repentina congela o local, congelando os pés dos oponentes e dificultando sua movimentação. Escolhe um **Local** em qualquer lugar do campo de batalha mas com raio igual ao seu **Alcance**, onde os **Oponentes** recebem 1 **Efeito** de **Enraizamento**. **Oponentes** em cima do local tem distância das **Ações** que envolvem **Movimento** reduzidas pela metade, arredondado para cima. Ao finalmente saírem da área recebem 1 **Efeito** de atordoamento.
 
-Só pode haver um chão congelado por vez.
+Só pode haver um chão congelado por vez. O primeiro **Congelar Chão** conjurado por você ignora essa regra.
 
 ### Muralha
 
@@ -260,6 +262,8 @@ Magia de Terra, Defensivo, Linha.
 Pisa no chão criando uma grande fortaleza, separando completamente o confronto. Cria uma estrutura em **Linha**, o seu início pode ser qualquer qualquer lugar do campo, pode ir para qualquer direção, mas a sempre a sua distância é igual o seu **Atributo** de **Alcance**, e a sua altura a metade, arredondado para cima. **Unidades** não podem atravessar essa **Estrutura**, assim como não **Atacar** ou usar **Habilidade** contra outros do outro lado. Essas regras não se aplicam a **Ações** com **Área** ou **Local**. A **Muralha** pode ser **Alvo** e possui pontos de **Vida** máxima igual a **Mana** máxima do dono.
 
 Você só pode ter três **Muralhas** por vez.
+
+A primeira **Muralha** conjurada por você tem o dobro das suas propriedades.
 
 ### Suspiros
 
@@ -274,6 +278,8 @@ Magia de Vento, Controle, Área.
 **Precisão Normal** e **Custa** 32 pontos de **Mana**.
 
 Você gira junto de um tornado, arremessando todos os oponentes ao ar. Aplica **1d4** **Efeitos** de **Banimento** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. No final do **Banimento**, você pode escolher as novas posições do campo onde os **Oponentes** vão pousar, mas dentro do seu **Alcance**.
+
+O primeiro **Tornado** conjurado por você aplica 1 **Efeito** de **Atordoamento** depois de finalizar seu **Efeitos** de **Banimento**.
 
 ### Tropeços
 
