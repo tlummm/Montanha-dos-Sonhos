@@ -6,25 +6,25 @@
 
 Equipamento, Pulsos.
 
-Talvez seja caro, talvez seja falsificado, e ninguém consegue dar um valor exato. Aumenta o **Domínio** e **Maestria** em 1.
+Talvez seja caro, talvez seja falsificado, e ninguém consegue dar um valor exato. Aumenta o **Domínio** e **Maestria** em 2. **Habilidades** causa um **1d4** de **Dano** adicional do seu **Tipo**.
 
 ### Chapéu de Palha
 
 Equipamento, Elmo.
 
-O maior símbolo de um fazendeiro. Aumenta a **Velocidade** em 1. Você tem uma chance adicional de receber um **Material Orgânico** ao **Saquear**, sendo **Precisão Improvável**.
+O maior símbolo de um fazendeiro. Aumenta a **Velocidade** em 5. Você tem uma chance adicional de receber **Itens** ao **Saquear**, sendo **Precisão Improvável**.
 
 ### Luvas do Lenhador
 
 Equipamento, Mãos.
 
-Essas luvas costumam proteger a palma das mãos ao cortar madeira. Aumenta a **Defesa** em 1, ou em **2** caso esteja equipado com uma **Arma** de **Duas Mãos** ou **Duas Armas**.
+Essas luvas costumam proteger a palma das mãos ao cortar madeira. Aumenta o **Ataque** e **Defesa** em 2, ou em 4 caso esteja equipado com uma **Arma** de **Duas Mãos** ou **Duas Armas**.
 
 ### Manto Sujo
 
 Equipamento, Costas.
 
-Fede, mas infelizmente protege. Aumenta a **Velocidade** e **Esquiva** em 1.
+Fede, mas infelizmente protege. Aumenta a **Velocidade** em 3 e a **Esquiva** em 1. O primeiro **Dano**, exceto por **Efeitos**, que você sofrer em um **Combate** aumenta sua **Esquiva** em 1.
 
 ### Sacola Rasgada
 
@@ -36,7 +36,7 @@ Equipamento, Mochila.
 
 Equipamento, Torso.
 
-Foi descartado tão rápido quanto comprado. Aumenta a **Maestria** em 2.
+Foi descartado tão rápido quanto comprado. Aumenta a **Maestria** em 5. Diminui os **Custos** de **Habilidades** em 1.
 
 # Nível 1 (Comum)
 
@@ -44,25 +44,25 @@ Foi descartado tão rápido quanto comprado. Aumenta a **Maestria** em 2.
 
 Equipamento, Pescoço.
 
-As conchas costumam carregar os mistérios dos mares. Aumenta o **Domínio** e **Maestria** em 2, além de reduzir custos de **Mana** em 1.
+As conchas costumam carregar os mistérios dos mares. Aumenta o **Domínio** e **Maestria** em 3, além de reduzir custos de **Mana** em 1.
 
 ### Colete de Couro
 
 Equipamento, Torso.
 
-A pele é de um monstro que fica mais invulnerável quanto mais resiste. Aumenta a **Defesa** em 1. Toda vez que você sofrer **Dano** por **Habilidades** recebe 2 **Efeitos** de **Aumento** de **Defesa**.
+A pele é de um monstro que fica mais invulnerável quanto mais resiste. Aumenta a **Defesa** em 3. Toda vez que você sofrer **Dano** por **Habilidades** recebe 3 **Efeitos** de **Aumento** de **Defesa**.
 
 ### Elmo Desgastado
 
 Equipamento, Elmo.
 
-Não há nenhum encantamento, porém todos sentem resquícios de seu espírito de luta. Aumenta a **Defesa** em 2, em 5 quando os pontos de **Vida** estiverem a baixo da metade, ou a 10 quando abaixo de um quarto.
+Não há nenhum encantamento, porém todos sentem resquícios de seu espírito de luta. Aumenta a **Defesa** em 3, em 6 quando os pontos de **Vida** estiverem a baixo da metade, ou a 9 quando abaixo de um quarto.
 
 ### Manto de Folhas
 
 Equipamento, Costas.
 
-Não é um amontado de folhas comum, quem o veste costuma dizer que se move como o vento. Aumenta a **Velocidade** em 1. **Acertar** um **Ataque** ou **Habilidade** concede 2 **Efeitos** de **Aumento** de **Velocidade**.
+Não é um amontado de folhas comum, quem o veste costuma dizer que se move como o vento. Aumenta a **Velocidade** em 5. **Acertar** um **Ataque** ou **Habilidade** concede 2 **Efeitos** de **Aumento** de **Velocidade**.
 
 ### Mochila Simples
 
@@ -74,7 +74,7 @@ Um forma robusta de guardar suas coisas, mas ainda é pesada. Oferece 5 espaços
 
 Equipamento, Pernas.
 
-Uma peça de armadura preferida tanto por duelistas quanto os astutos. Aumenta o **Ataque** em 1 e **Defesa** em 2. Enquanto estiver com os pontos de **Vida** igual ou superior a metade também recebe 1 de **Alcance** e 4 de **Velocidade**.
+Uma peça de armadura preferida tanto por duelistas quanto os astutos. Aumenta o **Ataque** em 2 e **Defesa** em 3. Enquanto estiver com os pontos de **Vida** igual ou superior a metade também recebe 2 de **Alcance** e 3 de **Velocidade**.
 
 # Nível 2 (Incomum)
 
@@ -104,7 +104,7 @@ Conjunto Completo: O primeiro acerto **Crítico** em um **Combate** concede um *
 
 Equipamentos, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-O arsenal completo de um estudante da magia. Cada parte aumenta o **Domínio** em 1 e o **Maestria** em 1.
+O arsenal completo de um estudante da magia. Cada parte aumenta o **Domínio** em 1 e a **Maestria** em 1.
 
 Conjunto Completo: acertos **Críticos** de **Habilidades** tem o seu **Custo** restituídos, curando um **Aliado** pela mesma quantia de **Mana** gasta.
 
@@ -118,7 +118,7 @@ As técnicas e tecnologias por trás dessa obra prima fazem ela parecer mais lev
 
 Equipamento, Pescoço.
 
-Tudo o que é necessário, esculpido em prata. Aumenta a **Crítico**, **Defesa** e **Liderança** em 1.
+Tudo o que é necessário, esculpido em prata. Aumenta a **Crítico**, **Defesa** e **Liderança** em 1. As propriedades desse **Item** são dobradas se outro **Jogador** também o tiver equipado. Múltiplos **Itens** não acumulam.
 
 # Nível 3 (Raro)
 
@@ -126,13 +126,13 @@ Tudo o que é necessário, esculpido em prata. Aumenta a **Crítico**, **Defesa*
 
 Equipamento, Mochila.
 
-Sempre há espaço para mais alguma coisa. Oferece 10 espaços de **Item** no **Inventário**.
+Sempre há espaço para mais alguma coisa. Oferece 11 espaços de **Item** no **Inventário**.
 
 ### Conjunto: Vestes do Liberto
 
 Equipamentos, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-Trajes completos dos primeiros democratas do continente **Liberto**. Cada parte aumenta o **Defesa** e **Velocidade** em 1.
+Trajes completos dos primeiros democratas do continente **Liberto**. Cada parte aumenta o **Defesa** e **Velocidade** em 2.
 
 Conjunto Completo: Você pode escolher entre **Ataque**, **Maestria** ou **Velocidade**, e partir de então esse **Conjunto** irá conceder 10 daquele **Atributo**. Só pode ser alterado uma vez por **Sessão**.
 
@@ -140,7 +140,7 @@ Conjunto Completo: Você pode escolher entre **Ataque**, **Maestria** ou **Veloc
 
 Equipamento, Mãos.
 
-É como se o próprio animal mexesse suas presas. Aumenta o **Ataque** em 2 e **Velocidade** em 5. **Alcance** de **Toque** para **Ações** é aumentado em 1.
+É como se o próprio animal mexesse suas presas. Aumenta o **Ataque** em 3 e **Velocidade** em 5. **Alcance** de **Toque** para **Ações** é aumentado em 1.
 
 ### Manto do Liberto
 
@@ -152,13 +152,13 @@ Assim como os ideais de seu povo, escolha é liberdade. Aumenta todos os **Atrib
 
 Equipamento, Cintura.
 
-Vários selos religiosos amarrados ao cinto. Aumenta o Domínio em 5. No início do seu turno se você estiver com menos da metade dos pontos de **Mana** restaure **1d4** de pontos de **Mana**.
+Vários selos religiosos amarrados ao cinto. Aumenta o Domínio em 7. No início do seu turno se você estiver com menos da metade dos pontos de **Mana** restaure **1d4** de pontos de **Mana**.
 
 ### Pingente Dourado
 
 Equipamento, Pescoço.
 
-Tudo em um, esculpido a ouro. Aumenta todos os **Atributos Secundários** em 1 (exceto de **Expansões**).
+Tudo em um, esculpido a ouro. Aumenta todos os **Atributos Secundários** em 1 (exceto de **Expansões**). Pode aumentar algum **Atributo Secundário** de um **Aliado** a sua escolha no começo de cada **Combate**.
 
 # Nível 4 (Encantado)
 

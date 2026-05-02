@@ -1,4 +1,4 @@
-**Magos** são os seres que despertaram a **Mana** para poderes que moldam a realidade. Eles usam dos 4 **Elementos Primordiais** para poder entender as leis da natureza que regem o mundo junto de seus habitantes.
+	**Magos** são os seres que despertaram a **Mana** para poderes que moldam a realidade. Eles usam dos 4 **Elementos Primordiais** para poder entender as leis da natureza que regem o mundo junto de seus habitantes.
 
 Eles podem usar **Habilidades** para destruir vários alvos simultâneos, controlar situações e ajudar aliados, além de serem muito úteis para situações diversas. Suas funções podem ser:
 
