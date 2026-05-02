@@ -120,7 +120,7 @@ Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Pla
 
 Talento Físico, Utilidade.
 
-Pode ser um grogue ou veneno. Aumenta o **Alcance** em 3. Quando você for usar um **Consumível**, você pode ao invés disso o arremessar em um **Alvo** aplicando seus **Efeitos** nele. A distância do arremesso é igual a seu **Alcance** mais a **Velocidade**.
+Pode ser um grogue ou veneno. Aumenta o **Alcance** em 4. Quando você for usar um **Consumível**, você pode ao invés disso o arremessar em um **Alvo** aplicando seus **Efeitos** nele. A distância do arremesso é igual a seu **Alcance**.
 
 ### Cortar Tendão
 
@@ -132,9 +132,9 @@ A fraqueza de um corredor é o seu calcanhar. Realiza um **Ataque** contra o **O
 
 ### Disparo de Precisão
 
-Habilidade Física, Mobilidade e Utilidade, Projétil.
+Habilidade Física, Ofensivo, Projétil.
 
-**Precisão Garantida**, requer alguma **Arma de Longo Alcance** e **Custa** 6 pontos de **Mana**.
+**Precisão Garantida**, requer alguma **Arma de Longo Alcance** e **Custa** 5 pontos de **Mana**.
 
 Sem erros. Realiza um **Ataque**, porém pode ser usado como uma **Ação de Combate** (além de também poder ser **Principal**).
 
@@ -154,7 +154,7 @@ Sumiço como um truque de mágica. Você sai do **Plano de Combate** para o **Pl
 
 ### Sequência de Disparos
 
-Habilidade Física, Mobilidade e Utilidade, Projétil.
+Habilidade Física, Ofensivo, Projétil.
 
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 5 + 3 pontos de **Mana** para cada **Munição**.
 
@@ -162,63 +162,71 @@ Se tem é para usar. Realiza um **Ataque**, porém também causando **Dano** adi
 
 # Nível 3 (Especialista)
 
-### Habilidade
+### Alvo na Mira
 
-Texto.
+Habilidade Física, Ofensivo, Projétil.
 
-Texto.
+**Precisão Garantida**, requer alguma **Arma de Longo Alcance** e **Custa** 7 pontos de **Mana**.
 
-### Habilidade
+O esforço máximo da visão para atingir um alvo. Realiza um **Ataque** com **Alcance** dobrado, e 2 de **Crítico** adicional se alvo acertado estiver fora do seu **Alcance** normal.
 
-Texto.
+Pode ser usado apenas uma vez por **Plano** com **Crítico Garantido** em **Planos de Interpretação** fazendo com que você comece imediatamente o **Plano de Combate** como se tivesse a maior **Velocidade** entre os **Jogadores**.
 
-Texto.
+### Burnout
 
-### Habilidade
+Talento Físico, Ofensivo.
 
-Texto.
+O ferimento de sua arma se estende ao estresse mental. Aumenta a **Sorte** em 5. O seu primeiro **Ataque** em um **Turno** também reduz a mana dos alvos em **1d8** mais sua **Maestria**.
 
-Texto.
+### Corte Fantasma
 
-### Habilidade
+Habilidade Física, Ofensivo, Toque.
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 7 pontos de **Mana**.
 
-Texto.
+Costumam dizer que é um golpe sobrenatural. Realiza um **Ataque** contra o **Oponente**, porém o **Dano** inteiro é causado como **Mágico**, além da **Maestria** ser aplicada duas vezes ao invés de uma.
 
-### Habilidade
+### Dano Misto
 
-Texto.
+Talento Físico, Ofensivo.
 
-Texto.
+Seus golpes alteram entre planos para poder finalizar seus alvos. Aumenta a **Velocidade** em 4. Seus **Ataques** causam **1d4** de **Dano Físico** e **1d4** de **Dano Mágico** adicional.
 
-### Habilidade
+### Desarmar
 
-Texto.
+Habilidade Física, Controle, Toque.
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 9 pontos de **Mana**.
+
+É mais fácil sem reagir. Realiza um **Ataque** contra o **Oponente** aplicando **1d4** **Efeitos** de **Desarme**. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
+
+### Distribuir Munição
+
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 9 pontos de **Mana**.
+
+Comprou é para gastar. Realiza um **Ataque** em todos os **Oponentes** dentro do seu **Alcance**, porém gastando **Munição** para cada um.
 
 # Nível 4 (Veterano)
 
-### Habilidade
+### Infortúnio
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Ir e Vir
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Ponto Cego
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Reflexo Momentâneo
 
 Texto.
 
@@ -238,25 +246,25 @@ Texto.
 
 # Nível 5 (Mestre)
 
-### Habilidade
+### Adrenalina
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Envenenar Arma
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Quebrar Carapaça
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Ruptura
 
 Texto.
 
@@ -276,19 +284,19 @@ Texto.
 
 # Nível 6 (Gênio)
 
-### Habilidade
+### Ataque Vital
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Passo Morto
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Sadismo
 
 Texto.
 
