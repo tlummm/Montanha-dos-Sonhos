@@ -254,39 +254,39 @@ A expropriação literal de passos. Essa **Habilidade** pode ser usada fora de s
 
 ### Adrenalina
 
-Texto.
+Talento Físico, Ofensivo e Mobilidade.
 
-Texto.
+A ameaça de morte é apenas combustível. Aumenta a **Velocidade** em 4. Sempre que você sofrer **Dano** que te deixe abaixo de metade da **Vida**, sua **Velocidade** e **Crítico** são aumentados em 3 até o fim do **Combate**. Esse bônus só pode ser ativado uma vez por **Combate**.
 
 ### Envenenar Arma
 
-Texto.
+**Precisão Garantida**, requer alguma **Arma** e **Custa** 11 pontos de **Mana**.
 
-Texto.
+Aplica veneno na sua arma antes de um golpe decisivo. O próximo **Ataque** que acertar aplica **1d4** **Efeitos** de **Envenenamento** e **1d4** **Efeitos** de **Redução de Ataque**. Se o **Ataque** for **Crítico**, os **Efeitos** também são dobrados. A Arma Imbuída dura até o fim do **Combate** ou até acertar.
+
+### Mascote
+
+Talento Físico, Invocação.
+
+Um vira-lata ajuda outro vira-lata. Você pode escolher na sessão qualquer animal de médio ou pequeno porte para ser seu mascote, contando que ele não tenha dono ou seja neutro em relação a você. Ele possui personalidade igual ao do dono, podendo fazer jogadas de **Interpretação** com seus **Modificadores**, no entanto em cada **Combate** a ficha dele é reiniciada e recebe **2d20** de **Atributos** para ser distribuídos no começo de cada **Combate**. Se o **Mascote** morrer outro só pode ser domesticado na próxima **Sessão**.
 
 ### Quebrar Carapaça
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 12 pontos de **Mana**.
 
-Texto.
+Você identifica e explora a fraqueza estrutural da defesa do oponente. Realiza um **Ataque**, porém também reduz permanentemente a **Defesa** e o **Espírito** do **Alvo** em **1d8** até o fim do **Combate**. Só pode adicionar esse **Efeito** único uma vez por **Oponente**.
 
 ### Ruptura
 
-Texto.
+**Precisão Improvável**, requer alguma **Arma** e **Custa** 13 pontos de **Mana**.
 
-Texto.
+Um golpe que rompe qualquer concentração. Realiza um **Ataque**, se o **Alvo** tiver alguma **Habilidade** ativa ou **Efeito Único** sobre si, o **Dano** é aumentado em **1d8** e um desses **Efeitos** é completamente removido com uma **Dissipação Média** a sua escolha. O **Custo de Mana** é restituído caso o **Ataque** seja **Crítico**.
 
-### Habilidade
+### Tiro Oportunista
 
-Texto.
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 10 pontos de **Mana**.
 
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
+Você sempre encontra uma brecha. Pode ser usada fora do seu **Turno** como reação a um **Oponente** dentro do seu **Alcance** que use uma **Habilidade** ou **Ação Principal**. Realiza um **Ataque** nele, interrompendo a **Habilidade** do **Alvo** caso seja um acerto **Crítico**. Só pode ser usada uma vez fora do **Turno** por **Combate**.
 
 # Nível 6 (Gênio)
 
@@ -302,11 +302,17 @@ Texto.
 
 Texto.
 
-### Passo Morto
+### Passos Mortos
 
 Texto.
 
 Texto.
+
+### Ponto de Pressão
+
+**Precisão Improvável**, requer alguma **Arma** e **Custa** 15 pontos de **Mana**.
+
+Você conhece exatamente onde apertar. Realiza um **Ataque** aplicando 2 **Efeito** de **Atordoamento**. Enquanto o **Atordoamento** estiver ativo, o **Alvo** não pode receber e nem resolver **Efeitos Positivos** . Só pode ser usado uma vez por **Oponente** por **Combate**.
 
 ### Sadismo
 
@@ -314,13 +320,7 @@ Texto.
 
 Texto.
 
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
+### Suborno
 
 Texto.
 

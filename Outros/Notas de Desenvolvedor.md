@@ -2,6 +2,7 @@
 
 Terminar [[Astúcia]];
 Terminar primeira conjuração de [[Magia]];
+Terminar [[Guerra]]
 Ajustar **Itens**;
 
 # Git
