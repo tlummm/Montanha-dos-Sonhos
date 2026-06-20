@@ -256,7 +256,7 @@ A expropriação literal de passos. Essa **Habilidade** pode ser usada fora de s
 
 Talento Físico, Ofensivo e Mobilidade.
 
-A ameaça de morte é apenas combustível. Aumenta a **Velocidade** em 4. Sempre que você sofrer **Dano** que te deixe abaixo de metade da **Vida**, sua **Velocidade** e **Crítico** são aumentados em 3 até o fim do **Combate**. Esse bônus só pode ser ativado uma vez por **Combate**.
+A ameaça de morte é apenas combustível. Aumenta a **Velocidade** em 4. Sempre que você sofrer **Dano** que te deixe abaixo de metade da **Vida**, seu **Crítico** e **Esquiva** são aumentados em 2 até o fim do **Combate**. Esse bônus só pode ser ativado uma vez por **Combate**.
 
 ### Envenenar Arma
 
@@ -268,7 +268,7 @@ Aplica veneno na sua arma antes de um golpe decisivo. O próximo **Ataque** que 
 
 Talento Físico, Invocação.
 
-Um vira-lata ajuda outro vira-lata. Você pode escolher na sessão qualquer animal de médio ou pequeno porte para ser seu mascote, contando que ele não tenha dono ou seja neutro em relação a você. Ele possui personalidade igual ao do dono, podendo fazer jogadas de **Interpretação** com seus **Modificadores**, no entanto em cada **Combate** a ficha dele é reiniciada e recebe **2d20** de **Atributos** para ser distribuídos no começo de cada **Combate**. Se o **Mascote** morrer outro só pode ser domesticado na próxima **Sessão**.
+Um vira-lata ajuda outro vira-lata. Você pode escolher na sessão qualquer animal de médio ou pequeno porte para ser seu mascote, contando que ele não tenha dono ou seja neutro em relação a você. Ele possui personalidade igual ao do dono, podendo fazer jogadas de **Interpretação** com seus **Modificadores**, mas há uma ficha própria de **Combate** com **2d20** pontos para distribuir no momento que é domesticado. Se o **Mascote** morrer outro só pode ser domesticado na próxima **Sessão**. Ao vencer **Combates** com o **Mascote** ele ganha 1 ou 2 **Atributos** para ser distribuídos baseado em um cara ou coroa.
 
 ### Quebrar Carapaça
 
@@ -292,33 +292,27 @@ Você sempre encontra uma brecha. Pode ser usada fora do seu **Turno** como rea�
 
 ### Ataque de Dois Mundos
 
-Texto.
+**Precisão Difícil**, requer alguma **Arma** e **Custa** 15 pontos de **Mana**.
 
-Texto.
-
-### Golpe Vital
-
-Texto.
-
-Texto.
+Um golpe real e outro surreal. Realiza dois **Ataques**, um causando **Dano Mágico** e outro **Dano Físico**, ambos escalando com **Maestria** e ignorando metade da **Defesa** e **Espírito**.
 
 ### Passos Mortos
 
-Texto.
+Talento Físico, Ofensivo.
 
-Texto.
+Punindo cada movimento desnecessário. Aumenta o **Alcance** em 6. Você pode anotar a última **Movimentação** de um **Oponente**. Seu próximo **Ataque** contra ele causara **Dano Mágico** adicional igual a distância anotada, porém também limpando essa anotação. 
 
 ### Ponto de Pressão
 
 **Precisão Improvável**, requer alguma **Arma** e **Custa** 15 pontos de **Mana**.
 
-Você conhece exatamente onde apertar. Realiza um **Ataque** aplicando 2 **Efeito** de **Atordoamento**. Enquanto o **Atordoamento** estiver ativo, o **Alvo** não pode receber e nem resolver **Efeitos Positivos** . Só pode ser usado uma vez por **Oponente** por **Combate**.
+Você conhece exatamente onde acertar. Realiza um **Ataque** aplicando 2 **Efeitos** de **Atordoamento**. Enquanto o **Atordoamento** estiver ativo, o **Alvo** não pode receber e nem resolver **Efeitos Positivos** . Só pode ser usado uma vez por **Oponente** por **Combate**.
 
 ### Sadismo
 
 Texto.
 
-Texto.
+Texto. Aumenta a Velocidade em
 
 ### Suborno
 
@@ -326,19 +320,25 @@ Texto.
 
 Texto.
 
+### Habilidade
+
+Texto.
+
+Texto.
+
 # Nível 7 (Lorde)
 
-### Habilidade
+### Golpe Ecoante
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Golpe Vital
 
-Texto.
+**Precisão Improvável**, requer alguma **Arma** e **Custa** 17 pontos de **Mana**.
 
-Texto.
+Uma perfuração direta no coração. Realiza um **Ataque**, porém causando 1 de **Dano Puro** adicional para cada ponto de **Vigor** do **Alvo**.
 
 ### Habilidade
 
