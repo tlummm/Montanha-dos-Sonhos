@@ -406,7 +406,7 @@ Uma sequência de outro mundo. Se teletransporta para qualquer **Oponente**, ind
 
 Talento Físico, Defensivo.
 
-Ninguém gosta de ferir o que é belo. Aumenta a **Sorte** em 10. Ao sofrer **Dano** a metade da sua **Sorte** é considerada como um adicional para **Defesa** e **Espírito**.
+Ninguém gosta de ferir o que é belo. Aumenta a **Sorte** em 10. Ao sofrer **Dano** a metade da sua **Sorte** é considerada como um adicional para **Defesa** e **Espírito**, arredondada para cima.
 
 ### Desarme Geral
 
@@ -440,44 +440,52 @@ Torna-se um com a noite. Reduz o **Alcance** contra você em 8. Suas **Invisibil
 
 # Nível 9 (Lenda)
 
-### Principal: 
+### Principal: Maestria Estratégica
 
-Texto.
+Talento Mágico, Mobilidade.
 
-Texto.
+O reposicionamento mais próximo da onipresença. Aumenta a **Agilidade** em 11. Seu **Talento Principal** de **Reposicionamento** agora também permite realizar **Movimentação** fora do **Turno**, podendo se locomover o resto do que não feito em seu **Turno**, além de ter o **Alcance** e **Sorte** somado a **Velocidade** na **Movimentação**.
 
 ### Despir
 
-Texto.
+Habilidade Física, Controle, Toque.
 
-Texto.
+**Precisão improvável** e **Custa** 25 pontos de **Mana**.
+
+Do jeito que veio ao mundo. Desequipa todos os **Itens** do **Alvo**. Até o seu próximo **Turno** ele não pode equipar nenhum **Item**. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
 
 ### Disparo Global
 
-Texto.
+Habilidade Física, Utilidade, Projétil.
 
-Texto.
+**Precisão Garantida**, requer alguma **Arma de Longo Alcance** e **Custa** 33 pontos de **Mana**.
+
+De um lado do mundo ao outro. Realiza dois **Ataques Críticos** como **Dano Puro**, independente da distância. Essa **Habilidade** pode ser usada fora do **Turno**, além de poder ser usado de um **Plano** para outro independente da distância, local ou contexto.
 
 ### Fantasma
 
-Talento Físico, Utilidade.
+Talento Físico, Defensivo.
 
-Intocável. Aumenta o **Crítico**, **Esquiva** e **Precisão** em 1.
+Intocável. Aumenta o **Crítico**, **Esquiva** e **Precisão** em 1. Seu **Crítico** e **Precisão** é considerado como um adicional em **Esquiva** em testes de **Precisão** contra você.
 
 ### Franco Atirador
 
-Texto.
+Talento Físico, Utilidade.
 
-Texto.
+Acertar não se torna mais uma questão. Aumenta o **Alcance** em 20. Seu **Alcance** é considerado infinito para distâncias de **Ataques** e **Habilidades**. Seus **Ataques** a longa distância agora também usam metade do **Alcance** como **Dano**, e modificações no **Alcance** são feitas nesse **Dano**, arredondado para cima.
+
+### Homicídio
+
+Habilidade Física, Ofensivo, Toque.
+
+**Precisão Normal**, requer alguma **Arma** e **Custa** 21 pontos de **Mana**.
+
+Um habito que evita trabalho. Executa a **Unidade** alvo, independente dos seus pontos de **Vida**. Só pode ser feito uma vez em **Combate** contra **Oponentes** de **Elite**, e nunca contra **Jogadores** ou **Chefes**.
 
 ### Mimetizar
 
-Texto.
+Habilidade Mágica, Utilidade, Individual.
 
-Texto.
+**Precisão Improvável** e **Custa** 20 pontos de **Mana**.
 
-### Habilidade
-
-Texto.
-
-Texto.
+A cópia da cópia. Até o fim do **Combate** você pode utilizar todas as **Habilidades** do **Alvo** como se fossem suas próprias. Só um **Alvo** por vez pode estar mimetizado por você.
