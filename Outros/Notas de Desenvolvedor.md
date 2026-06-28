@@ -4,7 +4,6 @@ Terminar [[Astúcia]];
 Terminar primeira conjuração de [[Magia]];
 Terminar [[Guerra]];
 Ajustar **Itens**;
-Lógica do 6;
 
 # Git
 

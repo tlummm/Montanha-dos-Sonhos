@@ -1,7 +1,7 @@
 
 # Sistema de talentos menores e maiores
 
-Ortodoxo, coração de leão, bárbaro, fênix, diácono.
+Ortodoxo, coração de leão, bárbaro, fênix, diácono, indecisão, duas caras, gemeos.
 pseudo;
 
 # Sistema de arma por tiers

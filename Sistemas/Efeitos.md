@@ -35,7 +35,7 @@
 
 **Efeitos Debilitantes** (**Dissipação Normal**): 
 
-* **Desarme**: não pode realizar **Ataques Básicos**.
+* **Desarme**: não pode realizar **Ataques**.
 * **Enraizamento**: não pode ser movido.
 * **Silêncio**: não pode usar **Habilidades**.
 

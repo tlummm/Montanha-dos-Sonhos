@@ -1,4 +1,4 @@
-	**Magos** são os seres que despertaram a **Mana** para poderes que moldam a realidade. Eles usam dos 4 **Elementos Primordiais** para poder entender as leis da natureza que regem o mundo junto de seus habitantes.
+**Magos** são os seres que despertaram a **Mana** para poderes que moldam a realidade. Eles usam dos 4 **Elementos Primordiais** para poder entender as leis da natureza que regem o mundo junto de seus habitantes.
 
 Eles podem usar **Habilidades** para destruir vários alvos simultâneos, controlar situações e ajudar aliados, além de serem muito úteis para situações diversas. Suas funções podem ser:
 
@@ -497,6 +497,12 @@ A terra que você pisa se torna perto do divino, aumentando a concentração de 
 
 # Nível 9 (Lenda)
 
+### Principal: Maestria Elemental
+
+Talento Mágico, Ofensivo.
+
+A sua instabilidade de tantos elementos da natureza diferentes finalmente foi contida. Aumenta a **Inteligência** em 11. Seu **Talento Principal** de **Instabilidade** perde o **Custo** de **Mana** adicional e não é mais limpo ao repetir o mesmo **Elemento**.
+
 ### Criar Céu
 
 Magia de Vento, Invocação, Local.
@@ -537,14 +543,14 @@ O poder quase divino de criar um reino. Essa **Habilidade** só pode ser usada e
 
 A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no mesmo **Local**. Só pode ser usada uma vez por **Sessão**. Usar essa **Habilidade** numa **Zona** criada e reconquistada por você faz com que a próxima **Zona** criada nesse local tudo esteja revelado e sobre o seu controle (apenas se **Zona** atual e a nova forem ambas feitas por **Criar Terra**).
 
-### Principal: Maestria Elemental
-
-Talento Mágico, Ofensivo.
-
-A sua instabilidade de tantos elementos da natureza diferentes finalmente foi contida. Aumenta a **Inteligência** em 11. Seu **Talento Principal** de **Instabilidade** perde o **Custo** de **Mana** adicional e não é mais limpo ao repetir o mesmo **Elemento**.
-
 ### Maestria Familiar
 
 Talento Mágico, Invocação.
 
 Como uma verdadeira lenda da magia você é capaz de controlar cada senhor dos elementos. Seus **Familiares** não tem mais duração, e são reinvocados automaticamente no próximo **Plano**, sem gastar **Mana**, caso sejam eliminados. Os **Familiares** também tem seus **Talentos**, mas respectivos a seus **Elementos**.
+
+### Habilidade
+
+Texto.
+
+Texto.

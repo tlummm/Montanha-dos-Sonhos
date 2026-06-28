@@ -394,69 +394,83 @@ Uma recalibração básica da artilharia. Aumenta o **Alcance** em 9. Suas [[Aç
 
 # Nível 8 (Rei)
 
-### Fantasma
+### Ataques Espectrais
 
-Texto.
+Habilidade Física, Mobilidade, Individual.
 
-Texto.
+**Precisão Normal**, requer alguma **Arma** e **Custa** 25 pontos de **Mana**.
+
+Uma sequência de outro mundo. Se teletransporta para qualquer **Oponente**, independente do **Alcance**, causando **1d4** **Ataques**, como o **Dano** inteiramente **Mágico**.
+
+### Charme
+
+Talento Físico, Defensivo.
+
+Ninguém gosta de ferir o que é belo. Aumenta a **Sorte** em 10. Ao sofrer **Dano** a metade da sua **Sorte** é considerada como um adicional para **Defesa** e **Espírito**.
+
+### Desarme Geral
+
+Habilidade Mágica, Controle, Individual.
+
+**Precisão Difícil** e **Custa** 39 pontos de **Mana**.
+
+Texto. Adiciona **1d4** **Efeitos** de **Desarme** em todos os **Oponentes**, independente do **Alcance**. Uma **Ferramenta** equipada aleatória desses **Oponentes** é transferida para o seu **Inventário**. Só pode ser usado uma vez por **Combate**.
 
 ### Golpe Surpresa
 
-Texto.
+Habilidade Física, Ofensivo, Toque.
 
-Texto.
+**Precisão Garantida**, requer alguma **Arma**, estar **Invisível** e **Custa** 25 pontos de **Mana**.
+
+A defesa não existe contra o inesperado. Realiza um **Ataque Crítico** com **Dano Puro**. Finalizar **Oponentes** com essa **Habilidade** concede um **Turno** extra (o próximo) e o torna **Invisível**.
+
+### Puxar Fichas
+
+Habilidade Mágica, Utilidade, Individual.
+
+**Precisão Difícil** e **Custa** 33 pontos de **Mana**.
+
+Texto. Você e sua equipe recebe todas as informações de todos presentes no **Plano**, tanto de **Interpretação** quanto de **Combate** (também revelando **Unidades** invisíveis e removendo esse **Efeito** delas).
 
 ### Sombra
 
-Texto.
+Talento Físico, Utilidade.
 
-Texto. Texto. Suas **Invisibilidades** não são mais finalizadas por sofrer **Ataques** ou **Habilidades**, mas apenas por sofrer **Críticos**.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
+Torna-se um com a noite. Reduz o **Alcance** contra você em 8. Suas **Invisibilidades** não são mais finalizadas por sofrer **Ataques** ou **Habilidades**, mas apenas por sofrer **Críticos**.
 
 # Nível 9 (Lenda)
 
-### Habilidade
+### Principal: 
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Despir
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Disparo Global
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Fantasma
+
+Talento Físico, Utilidade.
+
+Intocável. Aumenta o **Crítico**, **Esquiva** e **Precisão** em 1.
+
+### Franco Atirador
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Mimetizar
 
 Texto.
 
