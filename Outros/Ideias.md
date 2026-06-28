@@ -11,3 +11,13 @@ pseudo;
 # Lógica do 6
 
 # Novas Classes
+
+# Regra de Armas
+
+# Mudança de combate
+
+# Tipos de dano físico
+
+# Regra de tolerância a Efeitos
+
+# Montanha dos Sonhos 2.0

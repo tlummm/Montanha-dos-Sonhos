@@ -348,45 +348,49 @@ A maior pericia de um atirador é a distância. Realiza um **Ataque** a um **Opo
 
 # Nível 7 (Lorde)
 
+### Disparo Necrótico
+
+Habilidade Física, Utilidade, Projétil.
+
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 21 pontos de **Mana**.
+
+Texto. Realiza um **Ataque** aplicando 2 **Efeitos Únicos** que reduz o **Aumento** e **Recuperação** de **Vida** e **Mana** pela **Metade**, de todas as fontes, tanto de **Causas** quanto de **Efeitos** e até de **Regeneração** base.
+
 ### Estalo
 
 Habilidade Mágica, Movimento, Individual.
 
-**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 17 pontos de **Mana**.
+**Precisão Normal** e **Custa** 25 pontos de **Mana**.
 
-Texto.
+O truque de mágica. Se teletransporta para qualquer ponto do **Mapa**, mas ainda dentro do **Plano**. Pode ser usado mesmo com a **Movimentação** debilitada, mas não quando totalmente debilitado.
 
-Texto.
+### Acerto Ecoante
 
-### Disparo Necrótico
+Habilidade Mágica, Utilidade, Individual.
 
-Texto.
+**Precisão Normal** e **Custa** 29 pontos de **Mana**.
 
-Texto.
-
-### Golpe Ecoante
-
-Texto.
-
-Texto.
+Texto. Realiza um **Ataque** no **Alvo** e também em cada um dos **Oponentes** independente de onde estejam. Para cada **Oponente** a **Precisão** é realizada novamente para a efetividade contra eles.
 
 ### Golpe Vital
 
-**Precisão Improvável**, requer alguma **Arma** e **Custa** 17 pontos de **Mana**.
+Habilidade Física, Utilidade, Toque.
+
+**Precisão Improvável**, requer alguma **Arma** e **Custa** 19 pontos de **Mana**.
 
 Uma perfuração direta no coração. Realiza um **Ataque**, porém causando 1 de **Dano Puro** adicional para cada ponto de **Vigor** do **Alvo**.
 
 ### Manto
 
-Texto.
+Talento Físico, Utilidade.
 
-Texto.
+O desaparecimento ocorre com o movimento do capuz. Aumenta a **Velocidade** em 5 e reduz o **Alcance** contra você em 5. Se na volta do seu **Turno** você nenhum **Ataque** ou **Habilidade** você se torna **Invisível** (Não pode ser **Alvo**, **NPCs** e **Monstros** não sabem sua localização, além de poder executar [[Ações]] tanto de [[Combate]] quanto de [[Interpretação]]).
 
 ### Melhorar Mira
 
-Texto.
+Talento Físico, Utilidade.
 
-Texto.
+Uma recalibração básica da artilharia. Aumenta o **Alcance** em 9. Suas [[Ações]] que exigem seu **Alcance** o consideram agora uma vez e meia ao invés de integral.
 
 # Nível 8 (Rei)
 
@@ -406,7 +410,7 @@ Texto.
 
 Texto.
 
-Texto.
+Texto. Texto. Suas **Invisibilidades** não são mais finalizadas por sofrer **Ataques** ou **Habilidades**, mas apenas por sofrer **Críticos**.
 
 ### Habilidade
 
