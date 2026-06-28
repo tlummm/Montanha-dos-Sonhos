@@ -1,9 +1,10 @@
 # A fazer
 
 Terminar [[Astúcia]];
-Ajustar **Itens**;
 Terminar primeira conjuração de [[Magia]];
-Terminar [[Guerra]]
+Terminar [[Guerra]];
+Ajustar **Itens**;
+Lógica do 6;
 
 # Git
 
@@ -19,3 +20,5 @@ git add .
 git commit -m "mensagem"
 git push
 ```
+
+https://github.com/tlummm/Montanha-dos-Sonhos/tree/13aafdda129733a32f061cbdbe5190b02c22cb01

@@ -178,7 +178,7 @@ Talento Físico, Ofensivo.
 
 O ferimento de sua arma se estende ao estresse mental. Aumenta a **Sorte** em 5. O seu primeiro **Ataque** em um **Turno** também reduz a mana dos alvos em **1d8** mais sua **Maestria**.
 
-### Corte Fantasma
+### Corte Sombrio
 
 Habilidade Física, Ofensivo, Toque.
 
@@ -202,6 +202,8 @@ Habilidade Física, Controle, Toque.
 
 ### Distribuir Munição
 
+Habilidade Física, Ofensivo, Projétil.
+
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 9 pontos de **Mana**.
 
 Comprou é para gastar. Realiza um **Ataque** em todos os **Oponentes** dentro do seu **Alcance**, porém gastando **Munição** para cada um.
@@ -209,6 +211,8 @@ Comprou é para gastar. Realiza um **Ataque** em todos os **Oponentes** dentro d
 # Nível 4 (Veterano)
 
 ### Disparo Perfurante
+
+Habilidade Física, Utilidade, Projétil.
 
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 12 pontos de **Mana**.
 
@@ -260,6 +264,8 @@ A ameaça de morte é apenas combustível. Aumenta a **Velocidade** em 4. Sempre
 
 ### Envenenar Arma
 
+Habilidade Física, Controle, Toque.
+
 **Precisão Garantida**, requer alguma **Arma** e **Custa** 11 pontos de **Mana**.
 
 Aplica veneno na sua arma antes de um golpe decisivo. O próximo **Ataque** que acertar aplica **1d4** **Efeitos** de **Envenenamento** e **1d4** **Efeitos** de **Redução de Ataque**. Se o **Ataque** for **Crítico**, os **Efeitos** também são dobrados. A Arma Imbuída dura até o fim do **Combate** ou até acertar.
@@ -272,17 +278,23 @@ Um vira-lata ajuda outro vira-lata. Você pode escolher na sessão qualquer anim
 
 ### Quebrar Carapaça
 
+Habilidade Física, Controle, Toque.
+
 **Precisão Normal**, requer alguma **Arma** e **Custa** 12 pontos de **Mana**.
 
 Você identifica e explora a fraqueza estrutural da defesa do oponente. Realiza um **Ataque**, porém também reduz permanentemente a **Defesa** e o **Espírito** do **Alvo** em **1d8** até o fim do **Combate**. Só pode adicionar esse **Efeito** único uma vez por **Oponente**.
 
 ### Ruptura
 
+Habilidade Física, Ofensivo, Toque.
+
 **Precisão Improvável**, requer alguma **Arma** e **Custa** 13 pontos de **Mana**.
 
 Um golpe que rompe qualquer concentração. Realiza um **Ataque**, se o **Alvo** tiver alguma **Habilidade** ativa ou **Efeito Único** sobre si, o **Dano** é aumentado em **1d8** e um desses **Efeitos** é completamente removido com uma **Dissipação Média** a sua escolha. O **Custo de Mana** é restituído caso o **Ataque** seja **Crítico**.
 
 ### Tiro Oportunista
+
+Habilidade Física, Controle, Projétil.
 
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 10 pontos de **Mana**.
 
@@ -291,6 +303,8 @@ Você sempre encontra uma brecha. Pode ser usada fora do seu **Turno** como rea�
 # Nível 6 (Gênio)
 
 ### Ataque de Dois Mundos
+
+Habilidade Física, Ofensivo, Toque.
 
 **Precisão Difícil**, requer alguma **Arma** e **Custa** 15 pontos de **Mana**.
 
@@ -304,29 +318,51 @@ Punindo cada movimento desnecessário. Aumenta o **Alcance** em 6. Você pode an
 
 ### Ponto de Pressão
 
+Habilidade Física, Controle, Toque.
+
 **Precisão Improvável**, requer alguma **Arma** e **Custa** 15 pontos de **Mana**.
 
 Você conhece exatamente onde acertar. Realiza um **Ataque** aplicando 2 **Efeitos** de **Atordoamento**. Enquanto o **Atordoamento** estiver ativo, o **Alvo** não pode receber e nem resolver **Efeitos Positivos** . Só pode ser usado uma vez por **Oponente** por **Combate**.
 
 ### Sadismo
 
-Texto.
+Talento Físico, Ofensivo.
 
-Texto. Aumenta a Velocidade em
+O entusiasmo de acertar alvos feridos. Aumenta a Sorte em 10. Sempre que acertar um **Ataque** você joga um **1d2** e anota o valor no **Oponente** acertado. Seus **Ataques** causam **Dano Puro** adicional igual a soma de valores anotados no mesmo **Oponente**.
 
 ### Suborno
 
-Texto.
+Habilidade Mágica, Controle, Individual.
 
-Texto.
+**Precisão Improvável** e **Custa** 20 pontos de **Mana**.
 
-### Habilidade
+Sem sujar as mãos. **Oponentes** custam o triplo da **Sorte** deles. Você compra o **NPC** alvo, se tiver **Moedas de Ouro** o suficiente, colocando-o **1d4** **Efeitos** de **Controle**. A compra tem um desconto baseado na sua **Sorte**, e só um **Oponente** pode ser comprado por vez, além de só poder ter uma unidade comprada ao mesmo tempo.
 
-Texto.
+### Disparo Longo
 
-Texto.
+Habilidade Física, Utilidade, Projétil.
+
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 17 pontos de **Mana**.
+
+A maior pericia de um atirador é a distância. Realiza um **Ataque** a um **Oponente**, independente da distância e com um **1d4** de **Crítico** adicional. O **Atributo** de **Alcance** é somado como **Ataque** nesta **Habilidade**.
 
 # Nível 7 (Lorde)
+
+### Estalo
+
+Habilidade Mágica, Movimento, Individual.
+
+**Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 17 pontos de **Mana**.
+
+Texto.
+
+Texto.
+
+### Disparo Necrótico
+
+Texto.
+
+Texto.
 
 ### Golpe Ecoante
 
@@ -340,25 +376,13 @@ Texto.
 
 Uma perfuração direta no coração. Realiza um **Ataque**, porém causando 1 de **Dano Puro** adicional para cada ponto de **Vigor** do **Alvo**.
 
-### Habilidade
+### Manto
 
 Texto.
 
 Texto.
 
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
+### Melhorar Mira
 
 Texto.
 
@@ -366,19 +390,19 @@ Texto.
 
 # Nível 8 (Rei)
 
-### Habilidade
+### Fantasma
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Golpe Surpresa
 
 Texto.
 
 Texto.
 
-### Habilidade
+### Sombra
 
 Texto.
 
