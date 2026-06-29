@@ -1,7 +1,7 @@
 # A fazer
 
-Terminar primeira conjuração de [[Magia]];
 Terminar [[Guerra]];
+Terminar primeira conjuração de [[Magia]];
 Ajustar **Itens**;
 
 # Git

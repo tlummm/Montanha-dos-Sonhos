@@ -397,23 +397,29 @@ Talento Físico, Defensivo.
 
 A mudança de postura correta contra o inimigo específico. Aumenta a **Defesa** e o **Vigor** em 4. No começo do **Combate** você pode escolher entre o modo escudo ou manto. Escudo reduz o **Dano Físico** pela metade enquanto que manto reduz o **Dano Mágico**, até o fim do **Combate**.
 
-### Estandarte da Agilidade
+### Estandarte da Agência
 
-Texto.
+Habilidade Mágica, Individual, Invocação.
 
-Texto.
+**Precisão Normal** e **Custa** 33 pontos de **Mana**.
 
-### Estandarte da Força
+A bandeira vermelha simboliza o sangue. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Força**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Força** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**. Só é possível ter um **Estandarte** por vez em **Combate**. Uma ação de **Toque** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
 
-Texto.
+### Estandarte da Ciência
 
-Texto.
+Habilidade Mágica, Individual, Invocação.
 
-### Estandarte da Inteligência
+**Precisão Normal** e **Custa** 33 pontos de **Mana**.
 
-Texto.
+A bandeira azul simboliza a mente. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Inteligência**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Inteligência** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**. Só é possível ter um **Estandarte** por vez em **Combate**. Uma ação de **Toque** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
 
-Texto.
+### Estandarte da Presença
+
+Habilidade Mágica, Individual, Invocação.
+
+**Precisão Normal** e **Custa** 33 pontos de **Mana**.
+
+A bandeira verde simboliza o movimento. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Agilidade**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Agilidade** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**. Só é possível ter um **Estandarte** por vez em **Combate**. Uma ação de **Toque** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
 
 ### Musculatura
 
