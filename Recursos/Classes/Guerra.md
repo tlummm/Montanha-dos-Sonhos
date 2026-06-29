@@ -385,15 +385,17 @@ Um golpe sangrento, ferindo tanto você quanto o adversário, o assuntando com a
 
 ### Absorção
 
-Texto.
+Habilidade Mágica, Defensivo, Individual.
 
-Texto.
+**Precisão Difícil**, requer **Escudo** e **Custa** 29 pontos de **Mana**.
+
+O triunfo do verdadeiro guardião. Até o seu próximo **Turno** todo **Dano** ou **Efeitos** que seus aliados sofrerem, independente da distância, será totalmente redirecionado para você, e durante esse processo você sofre esse **Dano** mitigado pela metade.
 
 ### Escudo ou Manto
 
-Texto.
+Talento Físico, Defensivo.
 
-Texto.
+A mudança de postura correta contra o inimigo específico. Aumenta a **Defesa** e o **Vigor** em 4. No começo do **Combate** você pode escolher entre o modo escudo ou manto. Escudo reduz o **Dano Físico** pela metade enquanto que manto reduz o **Dano Mágico**, até o fim do **Combate**.
 
 ### Estandarte da Agilidade
 
@@ -415,9 +417,9 @@ Texto.
 
 ### Musculatura
 
-Texto.
+Talento Físico, Utilidade.
 
-Texto.
+Uma montanha de músculos. Aumenta a **Força** em 3. Seus valores de **Atributos** baseados no **Aspecto** de **Força** valem um terço a mais, arredondado para cima.
 
 # Nível 9 (Lenda)
 

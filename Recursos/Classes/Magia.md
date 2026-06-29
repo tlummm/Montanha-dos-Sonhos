@@ -549,8 +549,10 @@ Talento Mágico, Invocação.
 
 Como uma verdadeira lenda da magia você é capaz de controlar cada senhor dos elementos. Seus **Familiares** não tem mais duração, e são reinvocados automaticamente no próximo **Plano**, sem gastar **Mana**, caso sejam eliminados. Os **Familiares** também tem seus **Talentos**, mas respectivos a seus **Elementos**.
 
-### Habilidade
+### Roubo de Mana
 
-Texto.
+Magia Arcana, Recuperação, Individual.
 
-Texto.
+**Precisão Improvável** e **Custa** 99 pontos de **Mana**.
+
+Só um verdadeiro mago sabe realmente como utilizar de mana. Zera os pontos de **Mana** do **Alvo** e os transfere para você. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
