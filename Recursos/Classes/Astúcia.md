@@ -348,13 +348,13 @@ A maior pericia de um atirador é a distância. Realiza um **Ataque** a um **Opo
 
 # Nível 7 (Lorde)
 
-### Disparo Necrótico __
+### Disparo Necrótico
 
 Habilidade Física, Utilidade, Projétil.
 
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 21 pontos de **Mana**.
 
-Texto. Realiza um **Ataque** aplicando 2 **Efeitos Únicos** que reduz o **Aumento** e **Recuperação** de **Vida** e **Mana** pela Metade, de todas as fontes, tanto de **Causas** quanto de **Efeitos** e até de **Regeneração** base.
+Um tiro com um veneno que necrosa a carne de quem for atingido. Realiza um **Ataque** aplicando 2 **Efeitos Únicos** que reduz o **Aumento** e **Recuperação** de **Vida** e **Mana** pela Metade, de todas as fontes, tanto de **Causas** quanto de **Efeitos** e até de **Regeneração** base.
 
 ### Estalo
 
@@ -364,13 +364,13 @@ Habilidade Mágica, Movimento, Individual.
 
 O truque de mágica. Se teletransporta para qualquer ponto do **Mapa**, mas ainda dentro do **Plano**. Pode ser usado mesmo com a **Movimentação** debilitada, mas não quando totalmente debilitado.
 
-### Acerto Ecoante __
+### Acerto Ecoante
 
 Habilidade Mágica, Utilidade, Individual.
 
 **Precisão Normal** e **Custa** 29 pontos de **Mana**.
 
-Texto. Realiza um **Ataque** no **Alvo** e também em cada um dos **Oponentes** independente de onde estejam. Para cada **Oponente** a **Precisão** é realizada novamente para a efetividade contra eles.
+Ataques anormalmente simultâneos. Realiza um **Ataque** no **Alvo** e também em cada um dos **Oponentes** independente de onde estejam. Para cada **Oponente** a **Precisão** é realizada novamente para a efetividade contra eles.
 
 ### Golpe Vital
 
@@ -386,11 +386,11 @@ Talento Físico, Utilidade.
 
 O desaparecimento ocorre com o movimento do capuz. Aumenta a **Velocidade** em 5 e reduz o **Alcance** contra você em 5. Se na volta do seu **Turno** você não sofreu nenhum **Ataque** ou **Habilidade** você se torna **Invisível** (Não pode ser **Alvo**, **NPCs** e **Monstros** não sabem sua localização, além de poder executar [[Ações]] tanto de [[Combate]] quanto de [[Interpretação]]).
 
-### Melhorar Mira __
+### Melhorar Mira
 
 Talento Físico, Utilidade.
 
-Uma recalibração básica da artilharia. Aumenta o **Alcance** em 9. Suas [[Ações]] que exigem seu **Alcance** o consideram agora uma vez e meia ao invés de integral.
+Uma recalibração básica da artilharia. Aumenta o **Alcance** em 9. Suas [[Ações]] que exigem seu **Alcance** o consideram 150% ao invés de 100%, arredondado para cima.
 
 # Nível 8 (Rei)
 
@@ -408,13 +408,13 @@ Talento Físico, Defensivo.
 
 Ninguém gosta de ferir o que é belo. Aumenta a **Sorte** em 10. Ao sofrer **Dano** a metade da sua **Sorte** é considerada como um adicional para **Defesa** e **Espírito**, arredondada para cima.
 
-### Desarme Geral __
+### Desarme Geral
 
 Habilidade Mágica, Controle, Individual.
 
 **Precisão Difícil** e **Custa** 39 pontos de **Mana**.
 
-Texto. Adiciona **1d4** **Efeitos** de **Desarme** em todos os **Oponentes**, independente do **Alcance**. Uma **Ferramenta** equipada aleatória desses **Oponentes** é transferida para o seu **Inventário**. Só pode ser usado uma vez por **Combate**.
+Um toque de recolher. Adiciona **1d4** **Efeitos** de **Desarme** em todos os **Oponentes**, independente do **Alcance**. Uma **Ferramenta** equipada aleatória desses **Oponentes** é transferida para o seu **Inventário**. Só pode ser usado uma vez por **Combate**.
 
 ### Golpe Surpresa
 
@@ -422,7 +422,7 @@ Habilidade Física, Ofensivo, Toque.
 
 **Precisão Garantida**, requer alguma **Arma**, estar **Invisível** e **Custa** 25 pontos de **Mana**.
 
-A defesa não existe contra o inesperado. Realiza um **Ataque Crítico** com **Dano Puro**. Finalizar **Oponentes** com essa **Habilidade** concede um **Turno** extra (o próximo) e o torna **Invisível**.
+A defesa não existe contra o inesperado. Realiza um **Ataque** com **Dano Puro**. Finalizar **Oponentes** com essa **Habilidade** concede um **Turno** extra (o próximo) e o torna **Invisível**.
 
 ### Puxar Fichas
 
@@ -430,7 +430,7 @@ Habilidade Mágica, Utilidade, Individual.
 
 **Precisão Difícil** e **Custa** 33 pontos de **Mana**.
 
-Texto. Você e sua equipe recebe todas as informações de todos presentes no **Plano**, tanto de **Interpretação** quanto de **Combate** (também revelando **Unidades** invisíveis e removendo esse **Efeito** delas).
+Apenas o que você já deveria saber. Você e sua equipe recebe todas as informações de todos presentes no **Plano**, tanto de **Interpretação** quanto de **Combate** (também revelando **Unidades** invisíveis e removendo esse **Efeito** delas).
 
 ### Sombra
 
@@ -454,19 +454,19 @@ Habilidade Física, Controle, Toque.
 
 Do jeito que veio ao mundo. Desequipa todos os **Itens** do **Alvo**. Até o seu próximo **Turno** ele não pode equipar nenhum **Item**. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
 
-### Disparo Global
+# Reposição em Massa
 
-Habilidade Física, Utilidade, Projétil.
+Habilidade Mágica, Controle, Individual.
 
-**Precisão Garantida**, requer alguma **Arma de Longo Alcance** e **Custa** 33 pontos de **Mana**.
+**Precisão Normal** e **Custa** 33 pontos de **Mana**.
 
-De um lado do mundo ao outro. Realiza dois **Ataques Críticos** como **Dano Puro**, independente da distância. Essa **Habilidade** pode ser usada fora do **Turno**, além de poder ser usado de um **Plano** para outro independente da distância, local ou contexto.
+De ponta cabeça. Você pode trocar a posição de cada **Unidade** dentro do **Plano**. Pode ser usado fora do seu **Turno** apenas uma vez por **Combate**, também se tornando uma **Habilidade** do tipo **Controle**, além dos seus usos normais.
 
 ### Fantasma
 
 Talento Físico, Defensivo.
 
-Intocável. Aumenta o **Crítico**, **Esquiva** e **Precisão** em 1. Seu **Crítico** e **Precisão** é considerado como um adicional em **Esquiva** em testes de **Precisão** contra você.
+Intocável. Aumenta o **Crítico** e **Esquiva** em 1. Seu **Crítico*** é considerado como um adicional em **Esquiva** em testes de **Precisão** contra você.
 
 ### Franco Atirador
 
@@ -478,9 +478,9 @@ Acertar não se torna mais uma questão. Aumenta o **Alcance** em 20. Seu **Alca
 
 Habilidade Física, Ofensivo, Toque.
 
-**Precisão Normal**, requer alguma **Arma** e **Custa** 21 pontos de **Mana**.
+**Precisão Normal**, requer alguma **Arma**, estar **Invisível** e **Custa** 21 pontos de **Mana**.
 
-Um habito que evita trabalho. Executa a **Unidade** alvo, independente dos seus pontos de **Vida**. Só pode ser feito uma vez em **Combate** contra **Oponentes** de **Elite**, e nunca contra **Jogadores** ou **Chefes**.
+Um habito que evita trabalho. Executa a **Unidade** alvo, independente dos seus pontos de **Vida**. Em caso de **Oponentes** de **Elite** pode ser feito uma vez em **Combate** contra eles, assim como nunca contra **Jogadores** ou **Chefes**.
 
 ### Mimetizar
 

@@ -391,13 +391,13 @@ Habilidade Mágica, Defensivo, Individual.
 
 O triunfo do verdadeiro guardião. Até o seu próximo **Turno** todo **Dano** ou **Efeitos** que seus aliados sofrerem, independente da distância, será totalmente redirecionado para você, e durante esse processo você sofre esse **Dano** mitigado pela metade.
 
-### Escudo ou Manto
+### Escudo ou Manto __
 
 Talento Físico, Defensivo.
 
 A mudança de postura correta contra o inimigo específico. Aumenta a **Defesa** e o **Vigor** em 4. No começo do **Combate** você pode escolher entre o modo escudo ou manto. Escudo reduz o **Dano Físico** pela metade enquanto que manto reduz o **Dano Mágico**, até o fim do **Combate**.
 
-### Estandarte da Agência
+### Estandarte da Agência __
 
 Habilidade Mágica, Individual, Invocação.
 
@@ -405,7 +405,7 @@ Habilidade Mágica, Individual, Invocação.
 
 A bandeira vermelha simboliza o sangue. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Força**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Força** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**. Só é possível ter um **Estandarte** por vez em **Combate**. Uma ação de **Toque** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
 
-### Estandarte da Ciência
+### Estandarte da Ciência __
 
 Habilidade Mágica, Individual, Invocação.
 
@@ -413,15 +413,15 @@ Habilidade Mágica, Individual, Invocação.
 
 A bandeira azul simboliza a mente. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Inteligência**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Inteligência** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**. Só é possível ter um **Estandarte** por vez em **Combate**. Uma ação de **Toque** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
 
-### Estandarte da Presença
+### Estandarte da Presença __
 
 Habilidade Mágica, Individual, Invocação.
 
 **Precisão Normal** e **Custa** 33 pontos de **Mana**.
 
-A bandeira verde simboliza o movimento. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Agilidade**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Agilidade** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**. Só é possível ter um **Estandarte** por vez em **Combate**. Uma ação de **Toque** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
+A bandeira verde simboliza a liberdade. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Agilidade**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Agilidade** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**. Só é possível ter um **Estandarte** por vez em **Combate**. Uma ação de **Toque** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
 
-### Musculatura
+### Musculatura __
 
 Talento Físico, Utilidade.
 
@@ -443,7 +443,7 @@ Habilidade Física, Utilidade, Toque.
 
 A melhor arma é a que respira. Você desequipa toda as suas [[Ferramentas]] equipadas e pega o **Alvo** e o equipa como se fosse uma **Ferramenta**, podendo ver a sua **Ficha** e escolhendo qualquer **Atributo** dele para ser o **Ataque** da nova **Ferramenta**. Todos os **Talentos** do **Alvo** são compartilhados para você. A **Ferramenta** pode se libertar com **Ações Críticas**, além de não poder usar **Ações** de **Movimento**.
 
-### Cara a Cara
+### Cara a Cara __
 
 Habilidade Mágica, Controle, Toque.
 
@@ -469,7 +469,7 @@ Os oponentes não conseguem mais te ver como um ser vivo, mas sim como uma forç
 
 Talento Físico, Defensivo e Ofensivo.
 
-Cada um em seu devido lugar. Aumenta a **Defesa** e o **Vigor** em 5. Você é imune a **Críticos**, os tornando acertos comuns, assim como todos os seus acertos se tornam **Críticos**. Seu **Crítico** adicional é convertido para **Precisão**.
+Cada um em seu devido lugar. Aumenta a **Defesa** e o **Vigor** em 5. Você é imune a **Críticos**, os tornando acertos comuns, assim como todos os seus acertos se tornam **Críticos**.
 
 ### Quebrar
 
@@ -477,4 +477,4 @@ Habilidade Física, Controle, Toque.
 
 **Precisão improvável** e **Custa** 33 pontos de **Mana**.
 
-O poder de torcer metal com as mãos. Realiza um **Ataque** com a metade do **Dano**, porém destruindo permanentemente **1d6** **Itens** equipados aleatórios do **Alvo**. Em **Acertos Críticos**, se torna **1d8** e priorizam **Ferramentas** primeiro. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
+O poder de torcer metal com as mãos. Realiza um **Ataque** com a metade do **Dano**, porém destruindo permanentemente **1d6** **Itens** equipados aleatórios do **Alvo**, exceto **Itens** de **Nível** 9 ou superior. Em **Acertos Críticos**, se torna **1d8** e pode priorizar **Ferramentas** primeiro. Só pode ser usado uma vez por **Oponente** em cada **Combate**.

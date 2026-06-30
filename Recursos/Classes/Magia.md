@@ -553,6 +553,6 @@ Como uma verdadeira lenda da magia você é capaz de controlar cada senhor dos e
 
 Magia Arcana, Controle, Individual.
 
-**Precisão Improvável** e **Custa** 111 pontos de **Mana**.
+**Precisão Normal** e **Custa** todos pontos de **Mana**.
 
 Só um verdadeiro mago sabe realmente como utilizar a mana. Zera os pontos de **Mana** do **Alvo** e os transfere para você. Só pode ser usado uma vez por **Oponente** em cada **Combate**.

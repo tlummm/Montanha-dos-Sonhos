@@ -1,7 +1,6 @@
-
 # Sistema de talentos menores e maiores
 
-Ortodoxo, coração de leão, bárbaro, fênix, diácono, indecisão, duas caras, gemeos.
+Ortodoxo, coração de leão, bárbaro, espirito de fênix, diácono, indecisão, duas caras, gêmeos.
 pseudo;
 
 # Sistema de arma por tiers
@@ -19,5 +18,7 @@ pseudo;
 # Tipos de dano físico
 
 # Regra de tolerância a Efeitos
+
+# Dádivas
 
 # Montanha dos Sonhos 2.0
