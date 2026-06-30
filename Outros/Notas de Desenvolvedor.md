@@ -1,6 +1,5 @@
 # A fazer
 
-Terminar [[Guerra]];
 Terminar primeira conjuração de [[Magia]];
 Ajustar **Itens**;
 

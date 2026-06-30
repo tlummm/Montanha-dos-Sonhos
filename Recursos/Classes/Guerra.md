@@ -391,41 +391,41 @@ Habilidade Mágica, Defensivo, Individual.
 
 O triunfo do verdadeiro guardião. Até o seu próximo **Turno** todo **Dano** ou **Efeitos** que seus aliados sofrerem, independente da distância, será totalmente redirecionado para você, e durante esse processo você sofre esse **Dano** mitigado pela metade.
 
-### Escudo ou Manto __
+### Escudo ou Manto
 
 Talento Físico, Defensivo.
 
-A mudança de postura correta contra o inimigo específico. Aumenta a **Defesa** e o **Vigor** em 4. No começo do **Combate** você pode escolher entre o modo escudo ou manto. Escudo reduz o **Dano Físico** pela metade enquanto que manto reduz o **Dano Mágico**, até o fim do **Combate**.
+A mudança de postura correta contra o inimigo específico. Aumenta a **Defesa** e o **Vigor** em 4. No começo do **Combate** você pode escolher entre o modo escudo ou manto. o modo de **Escudo** reduz o **Dano Físico** pela metade enquanto que o modo de **Manto** reduz o **Dano Mágico** pela metade, ambos até o fim do **Combate**.
 
-### Estandarte da Agência __
-
-Habilidade Mágica, Individual, Invocação.
-
-**Precisão Normal** e **Custa** 33 pontos de **Mana**.
-
-A bandeira vermelha simboliza o sangue. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Força**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Força** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**. Só é possível ter um **Estandarte** por vez em **Combate**. Uma ação de **Toque** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
-
-### Estandarte da Ciência __
+### Estandarte da Agência
 
 Habilidade Mágica, Individual, Invocação.
 
-**Precisão Normal** e **Custa** 33 pontos de **Mana**.
+**Precisão Normal** e **Custa** 35 pontos de **Mana**.
 
-A bandeira azul simboliza a mente. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Inteligência**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Inteligência** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**. Só é possível ter um **Estandarte** por vez em **Combate**. Uma ação de **Toque** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
+A bandeira vermelha simboliza o sangue. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Força**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Força** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**, além de caso seu **Aspecto** primário for o mesmo do **Estandarte** ele tem seus acertos garantidos. Só é possível ter um **Estandarte** por vez em **Combate**. **Dano** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
 
-### Estandarte da Presença __
+### Estandarte da Ciência
 
 Habilidade Mágica, Individual, Invocação.
 
-**Precisão Normal** e **Custa** 33 pontos de **Mana**.
+**Precisão Normal** e **Custa** 35 pontos de **Mana**.
 
-A bandeira verde simboliza a liberdade. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Agilidade**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Agilidade** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**. Só é possível ter um **Estandarte** por vez em **Combate**. Uma ação de **Toque** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
+A bandeira azul simboliza a mente. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Inteligência**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Inteligência** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**, além de caso seu **Aspecto** primário for o mesmo do **Estandarte** ele tem seus acertos garantidos. **Dano** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
 
-### Musculatura __
+### Estandarte da Presença
+
+Habilidade Mágica, Individual, Invocação.
+
+**Precisão Normal** e **Custa** 35 pontos de **Mana**.
+
+A bandeira verde simboliza a liberdade. Cria uma **Estrutura**, a partir do seu **Alcance**, que possui uma **Aura** igual a metade do seu **Alcance**. Sempre no fim do seu **Turno** essa **Estrutura** recebe um aumento permanente de 1 de **Agilidade**. Aliados dentro da **Aura** dessa **Estrutura** tem essa **Agilidade** somada aos seus **Atributos** enquanto permanecerem dentro do **Alcance** do **Estandarte**, além de caso seu **Aspecto** primário for o mesmo do **Estandarte** ele tem seus acertos garantidos. **Dano** de um **Oponente** contra o **Estandarte** o destrói, também removendo todo os seus acúmulos de aumento.
+
+### Musculatura
 
 Talento Físico, Utilidade.
 
-Uma montanha de músculos. Aumenta a **Força** em 3. Seus valores de **Atributos** baseados no **Aspecto** de **Força** valem um terço a mais, arredondado para cima.
+Uma montanha de músculos. Aumenta a **Força** em 2. Seus valores de **Atributos** baseados no **Aspecto** de **Força** valem 150% ao invés de 100%.
 
 # Nível 9 (Lenda)
 
@@ -443,21 +443,23 @@ Habilidade Física, Utilidade, Toque.
 
 A melhor arma é a que respira. Você desequipa toda as suas [[Ferramentas]] equipadas e pega o **Alvo** e o equipa como se fosse uma **Ferramenta**, podendo ver a sua **Ficha** e escolhendo qualquer **Atributo** dele para ser o **Ataque** da nova **Ferramenta**. Todos os **Talentos** do **Alvo** são compartilhados para você. A **Ferramenta** pode se libertar com **Ações Críticas**, além de não poder usar **Ações** de **Movimento**.
 
-### Cara a Cara __
+### Cara a Cara
 
 Habilidade Mágica, Controle, Toque.
 
 **Precisão Normal** e **Custa** 50 pontos de **Mana**.
 
-Texto. Inicia um **Combate** com o **Alvo**. Ninguém pode interferir esse **Combate** assim como os combatentes não podem interferir com o exterior, como se as **Unidades** existissem em outro **Plano**. Só é finalizado quando alguém for derrotado e **Invocações** são proibidas.
+Todas as lutas deveriam ser assim. Inicia um **Combate** com o **Alvo**. Ninguém pode interferir esse **Combate** assim como os combatentes não podem interferir com o exterior, como se as **Unidades** existissem em outro **Plano**. Só é finalizado quando alguém for derrotado e **Invocações** são proibidas.
 
-O **Custo** dessa **Habilidade** é restituído ao vencer um **Combate** além de você ganhar um **Turno** extra.
+Vencer um **Combate** faz você ganhar um **Turno** extra.
 
 ### Esmagamento
 
-Texto.
+Habilidade Física, Ofensivo, Toque.
 
-Texto.
+**Precisão Improvável**, requer alguma **Arma** e **Custa** 39 pontos de **Mana**.
+
+A arte de achatar crânios. Realiza um **Ataque** com a metade do **Dano**, porém reduzindo permanentemente a **Vida** máxima do **Alvo** pela metade até o fim do **Combate**. Só pode ser usado uma vez por **Oponente** em cada **Combate**, além de só poder ser removido por **Dissipação Verdadeira** positiva.
 
 ### Montanha
 
@@ -469,7 +471,7 @@ Os oponentes não conseguem mais te ver como um ser vivo, mas sim como uma forç
 
 Talento Físico, Defensivo e Ofensivo.
 
-Cada um em seu devido lugar. Aumenta a **Defesa** e o **Vigor** em 5. Você é imune a **Críticos**, os tornando acertos comuns, assim como todos os seus acertos se tornam **Críticos**.
+Cada um em seu devido lugar. Você é imune a **Críticos**, os tornando acertos comuns, assim como todos os seus acertos se tornam **Críticos**.
 
 ### Quebrar
 
