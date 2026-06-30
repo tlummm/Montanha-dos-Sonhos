@@ -348,13 +348,13 @@ A maior pericia de um atirador é a distância. Realiza um **Ataque** a um **Opo
 
 # Nível 7 (Lorde)
 
-### Disparo Necrótico
+### Disparo Necrótico __
 
 Habilidade Física, Utilidade, Projétil.
 
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 21 pontos de **Mana**.
 
-Texto. Realiza um **Ataque** aplicando 2 **Efeitos Únicos** que reduz o **Aumento** e **Recuperação** de **Vida** e **Mana** pela **Metade**, de todas as fontes, tanto de **Causas** quanto de **Efeitos** e até de **Regeneração** base.
+Texto. Realiza um **Ataque** aplicando 2 **Efeitos Únicos** que reduz o **Aumento** e **Recuperação** de **Vida** e **Mana** pela Metade, de todas as fontes, tanto de **Causas** quanto de **Efeitos** e até de **Regeneração** base.
 
 ### Estalo
 
@@ -364,7 +364,7 @@ Habilidade Mágica, Movimento, Individual.
 
 O truque de mágica. Se teletransporta para qualquer ponto do **Mapa**, mas ainda dentro do **Plano**. Pode ser usado mesmo com a **Movimentação** debilitada, mas não quando totalmente debilitado.
 
-### Acerto Ecoante
+### Acerto Ecoante __
 
 Habilidade Mágica, Utilidade, Individual.
 
@@ -384,9 +384,9 @@ Uma perfuração direta no coração. Realiza um **Ataque**, porém causando 1 d
 
 Talento Físico, Utilidade.
 
-O desaparecimento ocorre com o movimento do capuz. Aumenta a **Velocidade** em 5 e reduz o **Alcance** contra você em 5. Se na volta do seu **Turno** você nenhum **Ataque** ou **Habilidade** você se torna **Invisível** (Não pode ser **Alvo**, **NPCs** e **Monstros** não sabem sua localização, além de poder executar [[Ações]] tanto de [[Combate]] quanto de [[Interpretação]]).
+O desaparecimento ocorre com o movimento do capuz. Aumenta a **Velocidade** em 5 e reduz o **Alcance** contra você em 5. Se na volta do seu **Turno** você não sofreu nenhum **Ataque** ou **Habilidade** você se torna **Invisível** (Não pode ser **Alvo**, **NPCs** e **Monstros** não sabem sua localização, além de poder executar [[Ações]] tanto de [[Combate]] quanto de [[Interpretação]]).
 
-### Melhorar Mira
+### Melhorar Mira __
 
 Talento Físico, Utilidade.
 
@@ -408,7 +408,7 @@ Talento Físico, Defensivo.
 
 Ninguém gosta de ferir o que é belo. Aumenta a **Sorte** em 10. Ao sofrer **Dano** a metade da sua **Sorte** é considerada como um adicional para **Defesa** e **Espírito**, arredondada para cima.
 
-### Desarme Geral
+### Desarme Geral __
 
 Habilidade Mágica, Controle, Individual.
 
@@ -442,9 +442,9 @@ Torna-se um com a noite. Reduz o **Alcance** contra você em 8. Suas **Invisibil
 
 ### Principal: Maestria Estratégica
 
-Talento Mágico, Mobilidade.
+Talento Principal.
 
-O reposicionamento mais próximo da onipresença. Aumenta a **Agilidade** em 11. Seu **Talento Principal** de **Reposicionamento** agora também permite realizar **Movimentação** fora do **Turno**, podendo se locomover o resto do que não feito em seu **Turno**, além de ter o **Alcance** e **Sorte** somado a **Velocidade** na **Movimentação**.
+O reposicionamento mais próximo da onipresença. Aumenta a **Agilidade** em 11. Seu **Talento Principal** de **Reposicionamento** agora também permite realizar **Movimentação** fora do **Turno**, podendo se locomover o resto do que não feito em seu **Turno**, além de ter o **Alcance** e **Sorte** somado a **Velocidade** na **Movimentação** total.
 
 ### Despir
 

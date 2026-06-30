@@ -429,44 +429,52 @@ Uma montanha de músculos. Aumenta a **Força** em 3. Seus valores de **Atributo
 
 # Nível 9 (Lenda)
 
-### Principal: Cicatrização Completa
+### Principal: Maestria Duelista
 
-Texto.
+Talento Principal.
 
-Texto.
+Cicatrização completa. Aumenta a **Força** em 11. Seu **Talento Principal** de **Cicatrizes** agora acumula pontos de **Força** ao invés da escolha entre **Ataque** e **Vigor**, assim como os pontos acumulados anteriormente por esse **Talento** também evoluem para **Força** cada um. O mesmo ocorre para **Chefes**, onde ao invés de ser uma escolha entre **Defesa** e **Letalidade**, se torna os dois e mais um ponto de **Força**.
 
 ### Arma Viva
 
-Texto.
+Habilidade Física, Utilidade, Toque.
+
+**Precisão Normal** contra **Aliados** ou **Precisão Difícil** contra **Oponentes**, e **Custa** 33 pontos de **Mana**.
+
+A melhor arma é a que respira. Você desequipa toda as suas [[Ferramentas]] equipadas e pega o **Alvo** e o equipa como se fosse uma **Ferramenta**, podendo ver a sua **Ficha** e escolhendo qualquer **Atributo** dele para ser o **Ataque** da nova **Ferramenta**. Todos os **Talentos** do **Alvo** são compartilhados para você. A **Ferramenta** pode se libertar com **Ações Críticas**, além de não poder usar **Ações** de **Movimento**.
+
+### Cara a Cara
+
+Habilidade Mágica, Controle, Toque.
+
+**Precisão Normal** e **Custa** 50 pontos de **Mana**.
+
+Texto. Inicia um **Combate** com o **Alvo**. Ninguém pode interferir esse **Combate** assim como os combatentes não podem interferir com o exterior, como se as **Unidades** existissem em outro **Plano**. Só é finalizado quando alguém for derrotado e **Invocações** são proibidas.
+
+O **Custo** dessa **Habilidade** é restituído ao vencer um **Combate** além de você ganhar um **Turno** extra.
+
+### Esmagamento
 
 Texto.
 
-### Duelo
-
 Texto.
 
-Texto.
+### Montanha
+
+Talento Físico, Utilidade.
+
+Os oponentes não conseguem mais te ver como um ser vivo, mas sim como uma força da natureza. Aumenta a **Força** em 3. Seus aumentos de **Atributos** por **Talentos** são dobrados (incluindo desse).
 
 ### Superioridade
 
-Texto.
+Talento Físico, Defensivo e Ofensivo.
 
-Texto.
+Cada um em seu devido lugar. Aumenta a **Defesa** e o **Vigor** em 5. Você é imune a **Críticos**, os tornando acertos comuns, assim como todos os seus acertos se tornam **Críticos**. Seu **Crítico** adicional é convertido para **Precisão**.
 
 ### Quebrar
 
-Texto.
+Habilidade Física, Controle, Toque.
 
-Texto.
+**Precisão improvável** e **Custa** 33 pontos de **Mana**.
 
-### Habilidade
-
-Texto.
-
-Texto.
-
-### Habilidade
-
-Texto.
-
-Texto.
+O poder de torcer metal com as mãos. Realiza um **Ataque** com a metade do **Dano**, porém destruindo permanentemente **1d6** **Itens** equipados aleatórios do **Alvo**. Em **Acertos Críticos**, se torna **1d8** e priorizam **Ferramentas** primeiro. Só pode ser usado uma vez por **Oponente** em cada **Combate**.

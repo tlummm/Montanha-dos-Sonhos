@@ -499,7 +499,7 @@ A terra que você pisa se torna perto do divino, aumentando a concentração de 
 
 ### Principal: Maestria Elemental
 
-Talento Mágico, Ofensivo.
+Talento Principal.
 
 A sua instabilidade de tantos elementos da natureza diferentes finalmente foi contida. Aumenta a **Inteligência** em 11. Seu **Talento Principal** de **Instabilidade** perde o **Custo** de **Mana** adicional e não é mais limpo ao repetir o mesmo **Elemento**.
 
@@ -551,8 +551,8 @@ Como uma verdadeira lenda da magia você é capaz de controlar cada senhor dos e
 
 ### Roubo de Mana
 
-Magia Arcana, Recuperação, Individual.
+Magia Arcana, Controle, Individual.
 
-**Precisão Improvável** e **Custa** 99 pontos de **Mana**.
+**Precisão Improvável** e **Custa** 111 pontos de **Mana**.
 
-Só um verdadeiro mago sabe realmente como utilizar de mana. Zera os pontos de **Mana** do **Alvo** e os transfere para você. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
+Só um verdadeiro mago sabe realmente como utilizar a mana. Zera os pontos de **Mana** do **Alvo** e os transfere para você. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
