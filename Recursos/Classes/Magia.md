@@ -251,7 +251,7 @@ Magia de Gelo, Local, Controle.
 
 Uma nevasca repentina congela o local, congelando os pés dos oponentes e dificultando sua movimentação. Escolhe um **Local** em qualquer lugar do campo de batalha mas com raio igual ao seu **Alcance**, onde os **Oponentes** recebem 1 **Efeito** de **Enraizamento**. **Oponentes** em cima do local tem distância das **Ações** que envolvem **Movimento** reduzidas pela metade, arredondado para cima. Ao finalmente saírem da área recebem 1 **Efeito** de atordoamento.
 
-Só pode haver um chão congelado por vez. O primeiro **Congelar Chão** conjurado por você ignora essa regra.
+Só pode haver um chão congelado por vez. O primeiro **Congelar Chão** conjurado por você em cada **Combate** ignora essa regra.
 
 ### Muralha
 
@@ -263,7 +263,7 @@ Pisa no chão criando uma grande fortaleza, separando completamente o confronto.
 
 Você só pode ter três **Muralhas** por vez.
 
-A primeira **Muralha** conjurada por você tem o dobro das suas propriedades.
+A primeira **Muralha** conjurada por você em cada **Combate** tem o dobro das suas propriedades.
 
 ### Suspiros
 
@@ -279,7 +279,7 @@ Magia de Vento, Controle, Área.
 
 Você gira junto de um tornado, arremessando todos os oponentes ao ar. Aplica **1d4** **Efeitos** de **Banimento** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. No final do **Banimento**, você pode escolher as novas posições do campo onde os **Oponentes** vão pousar, mas dentro do seu **Alcance**.
 
-O primeiro **Tornado** conjurado por você aplica 1 **Efeito** de **Atordoamento** depois de finalizar seu **Efeitos** de **Banimento**.
+O primeiro **Tornado** conjurado por você em cada **Combate** aplica 1 **Efeito** de **Atordoamento** depois de finalizar seu **Efeitos** de **Banimento**.
 
 ### Tropeços
 
@@ -299,6 +299,8 @@ Uma corrente de água que cura os aliados, sendo também um meio de locomoção 
 
 Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em **Planos de Interpretação** e em um ambiente aquático para fazer você e todos os seus **Aliados** usarem uma viagem rápida para qualquer lugar daquele ambiente (inclusive outras **Zonas** e **Regiões** conhecidas se estiverem conectadas como por exemplo em rios e mares).
 
+A primeira **Corrente Marítima** conjurada por você em cada **Combate** não tem **Custo** e não gera **Desgaste**.
+
 ### Flutuar
 
 Magia de Vento, Mobilidade, Individual.
@@ -308,6 +310,8 @@ Magia de Vento, Mobilidade, Individual.
 Abençoa um aliado com o poder do vento, dando a capacidade de planar levemente pelo ar sem uma queda brusca. Aplica em um **Aliado** 6 **Efeitos** de **Aumento** de **Esquiva** e 0 de **Aumento** de **Velocidade**. Você recebe 2 **Efeitos** de **Desgaste**.
 
 Pode ser usado com **Precisão Garantida** e **Custo** 8 pontos de **Mana** em **Planos de Interpretação**  para fazer o **Aliado** planar, assim dando acertos **Garantidos** em **Ações Interpretativas** de **Movimentação**, ainda há arremesso de **Dado** para possibilidade de **Crítico**.
+
+O primeiro **Flutuar** conjurado por você em cada **Combate** é aplicado também em todos os **Aliados**.
 
 ### Presença Infernal
 
@@ -331,6 +335,8 @@ Em um piscar de olhos você se teletransporta para um novo local, deixando um ra
 
 Pode ser usado com **Precisão Garantida** e **Custo** 10 pontos de **Mana** em **Planos de Interpretação** como uma **Montaria**, sendo sua **Velocidade** igual ao **Alcance** somado a **Domínio** e **Maestria**, durando até o fim do **Plano** e não causando **Dano**, mas deixando um rastro evidente de onde você passou.
 
+O primeiro **Rastro de Chamas** conjurado por você em cada **Combate** concede um **Ação** de **Movimento** extra neste **Turno**.
+
 ### Túmulo de Pedra
 
 Magia de Pedra, Controle, Individual.
@@ -340,6 +346,8 @@ Magia de Pedra, Controle, Individual.
 Convoca duas conchas de pedra prendendo uma alvo entre elas. Essa **Habilidade** considera o dobro do **Atributo** de **Alcance**. Aplica em um **Oponente** 3 **Efeitos** de **Atordoamento**. Durante o **Atordoamento** dele você pode realizar **Ações Básicas** de movimento com o **Alvo**, no entanto a **Velocidade** dele agora é seu **Atributo** de **Alcance**.
 
 Pode ser usado com **Precisão Normal** e **Custo** 10 pontos de **Mana** em **Planos de Interpretação**  para atordoar o **Alvo** permanentemente, podendo o levar junto de você. No entanto você só pode ter um **Alvo** dessa forma por vez. Se errar **Criticamente** nas suas jogadas de **Dados** o **Alvo** é solto.
+
+O primeiro **Túmulo de Pedra** conjurado por você em cada **Combate** também aplica 2 **Efeitos** de **Enraizamento** nos **Oponentes** ao redor do **Alvo**, com o raio baseado em metade do seu **Alcance**.
 
 # Nível 6 (Gênio)
 
@@ -353,13 +361,17 @@ Você tenta usar o ambiente para afogar o oponente, mas caso não haja o ambient
 
 Caso essa **Habilidade** seja usada fora de sua **Condição** principal, o ambiente, ela apenas causa 1 ponto de **Dano** e 3 **Efeitos** de **Redução** de **Velocidade**. Caso haja certo **Crítico** dessa forma, ou no terceiro uso dessa **Habilidade**, um pequeno lago é criado em baixo do **Alvo**, um **Local** quadrado com medidas igual o seu **Alcance**, sendo considerado um ambiente aquático e reduzindo a **Velocidade** em 5 de quem estiver nele.
 
+O primeiro **Afogamento** conjurado por você em cada **Combate** também causa **2d12** de **Dano Mágico**.
+
 ### Bombardeio
 
 Magia de Fogo, Mobilidade e Ofensivo, Projétil.
 
-**Precisão Improvável** e **Custa** 44 pontos de **Mana**.
+**Precisão Improvável** e **Custa** 42 pontos de **Mana**.
 
 Em um frenesi violento você dispara um sequência incansável de disparos incendiários. Você conjura **1d6** **Setas de Fogo** em um **Oponente** sem gastar seus **Custos**. **Crítico** multiplica o número de **Magias**, mas não o **Dano** e os **Efeitos**. Se o alvo for eliminado, o resto das **Magias** são direcionados a um novo **Alvo**, independente da distância.
+
+O primeiro **Bombardeio** conjurado por você em cada **Combate** tem **Precisão Garantida**.
 
 ### Cratera
 
@@ -370,6 +382,8 @@ Magia de Terra, Controle, Local.
 Com um grande tremor uma imensa cratera surge do chão engolindo seus adversários. Escolhe um **Local** quadrado, em qualquer lugar do campo de batalha mas com medidas igual o seu **Alcance**, onde os **Oponentes** recebem **1d8** **Efeitos** de **Sangramento**. **Unidades** não podem sair desse **Local** ou **Atacar** e usar **Habilidades** em **Alvos** fora da **Cratera**, mas essa regra não se aplica a **Ações** com **Área** ou **Local**.
 
 Você só pode ter uma **Cratera** por vez.
+
+A primeira **Cratera** conjurada por você em cada **Combate** também arrasta **Oponentes** ao redor da **Cratera**, que não foram atingidos, para sua extremidade externa (raio baseado na metade do **Alcance**).
 
 ### Presença Imutável
 
@@ -393,6 +407,8 @@ Um furacão que surge e se mantém destruindo tudo que toca. Escolhe um **Local*
 
 Você pode ter até 3 **Vórtices**.
 
+O primeiro **Vórtice** conjurado por você em cada **Combate** não custa **Mana** na conjuração e nem em sua manutenção.
+
 # Nível 7 (Lorde)
 
 ### Além do Céu
@@ -401,7 +417,9 @@ Magia de Vento, Individual, Controle.
 
 **Precisão Garantida** e **Custa** 33 pontos de **Mana**.
 
-Arremessa ao ar seu adversário o mais alto que puder. Se o **Oponente** não for o único ou não for um **Chefe** ele recebe um **Efeito** permanente de **Banimento**. A duração é até os **Oponentes** **Banidos** serem os únicos do campo de batalha. Só pode haver 3 **Oponente** por vez com **Efeito** dessa **Habilidade**.
+Arremessa ao ar seu adversário o mais alto que puder. Se o **Oponente** não for o único ou não for um **Chefe** ele recebe um **Efeito** permanente de **Banimento**. A duração é até os **Oponentes** **Banidos** serem os únicos do campo de batalha, ou quando você quiser os remover do **Banimento**. Só pode haver 3 **Oponente** por vez com **Efeito** dessa **Habilidade**.
+
+O primeiro **Além do Céu** conjurado por você em cada **Combate** faz com que o **Alvo** após retornar do **Banimento** recebe 1 **Efeito** de **Atordoamento**.
 
 ### Fogo Azul
 
@@ -416,6 +434,8 @@ Magia de Fogo, Individual, Ofensivo.
 **Precisão Garantida** e **Custa** 49 pontos de **Mana**.
 
 Para lendas do fogo um estalar de dedos basta. Essa **Magia** só pode ser usada contra **Oponentes** com pontos de **Vida** inferior ao dobro do seu **Atributos** de **Maestria** e **Domínio** somados. O **Oponente** é executado.
+
+A primeira **Ignição Espontânea** conjurada por você em cada **Combate** não custa **Mana** e pode ser conjurada fora do seu **Turno**.
 
 ### Inundar
 
@@ -453,6 +473,8 @@ A representação mais próxima de **Aqua**. Invoca uma **Unidade** de água em 
 
 Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
 
+O primeiro **Familiar de Água** conjurado por você em cada **Combate** recebe um **Turno** extra.
+
 ### Familiar de Fogo
 
 Magia de Fogo, Individual, Invocação.
@@ -462,6 +484,8 @@ Magia de Fogo, Individual, Invocação.
 A representação mais próxima de **Ignis**. Invoca uma **Unidade** de fogo em forma de um grande dragão. Ela possui uma ficha própria como um **Jogador**, com **3d20** pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Fogo** que você tem, também tendo os **Talentos Mágicos de Fogo** que você tem.
 
 Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
+
+O primeiro **Familiar de Fogo** conjurado por você em cada **Combate** recebe um **Turno** extra.
 
 ### Familiar de Terra
 
@@ -473,6 +497,8 @@ A representação mais próxima de **Gaia**. Invoca uma **Unidade** de terra em 
 
 Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
 
+O primeiro **Familiar de Terra** conjurado por você em cada **Combate** recebe um **Turno** extra.
+
 ### Familiar de Vento
 
 Magia de Vento, Individual, Invocação.
@@ -482,6 +508,8 @@ Magia de Vento, Individual, Invocação.
 A representação mais próxima de **Ventus**. Invoca uma **Unidade** de vento em forma de um grande humanoide. Ela possui uma ficha própria como um **Jogador**, com **3d20** pontos de **Atributo Primário** para distribuir, além de estar sobre seu controle e poder usar todas **Magias de Vento** que você tem, também tendo os **Talentos Mágicos de Vento** que você tem.
 
 Dura até o fim da **Sessão** ou quando você conseguir invocar outro **Familiar** de **Mago**.
+
+O primeiro **Familiar de Vento** conjurado por você em cada **Combate** recebe um **Turno** extra.
 
 ### Fumaça Negra
 
@@ -556,3 +584,5 @@ Magia Arcana, Controle, Individual.
 **Precisão Normal** e **Custa** todos pontos de **Mana**.
 
 Só um verdadeiro mago sabe realmente como utilizar a mana. Zera os pontos de **Mana** do **Alvo** e os transfere para você. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
+
+O primeiro **Roubo de Mana** conjurado por você em cada **Combate** recupera seus pontos de **Vida** na mesma quantia da recuperação de **Mana**.

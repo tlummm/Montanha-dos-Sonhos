@@ -1,6 +1,5 @@
 # A fazer
 
-Terminar primeira conjuração de [[Magia]];
 Ajustar **Itens**;
 
 # Git

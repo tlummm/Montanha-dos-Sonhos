@@ -37,7 +37,7 @@
 **Secundários**:
 * **Outros**: 0;
 
-# Efeitos
+# [[Efeitos]]
 
 **X Efeitos** de **Texto**;
 
