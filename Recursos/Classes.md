@@ -8,6 +8,8 @@ As [[Classes]] são divididas nos três grandes **Aspectos** sendo a **Agilidade
 
 Uma [[Classes]] de qualquer **Aspecto** pode também desempenhar qualquer papel, porém na maioria dos casos o **Aspecto** de **Força** cumpre a **Função** de **Tanque**, **Agilidade** de **Dano** e **Inteligência** de **Suporte**. Porém há exceções, como **Aspectos** cobrindo funções diferentes do projetado, além de que todos podem sempre cumprir a **Função** de **Dano** para permitir a independência de um **Jogador**.
 
+---
+
 # Classes Disponíveis
 
 Atualmente há 3 **Classes** básicas:

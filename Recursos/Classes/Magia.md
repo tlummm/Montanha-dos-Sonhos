@@ -7,6 +7,8 @@ Eles podem usar **Habilidades** para destruir vários alvos simultâneos, contro
 
 Por ser do **Aspecto** da **Inteligência** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional em cada [[Aspectos e Atributos]] de **Domínio**, **Espírito** e **Maestria**, mas também recebe em um **Atributo Secundário** de **Precisão**.
 
+---
+
 # Nível Inicial (Novato)
 
 ### **Principal: Instabilidade**
@@ -68,6 +70,8 @@ Magia de Vento, Defensivo, Área.
 Um movimento de mão que impulsiona o ar e afasta todas as ameaças. Aplica **1d6** **Efeitos** de **Redução** de **Velocidade** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. Você pode os empurrar para direção oposta em até, a sua escolha, seu **Atributo** de **Alcance**.
 
 O primeiro **Vendaval** conjurado por você em cada **Combate** aplica 1 **Efeito** de **Enraizamento**.
+
+---
 
 # Nível 1 (Regular)
 
@@ -131,6 +135,8 @@ Talento Mágico de Água, Utilidade.
 
 Seu excesso de paciência intensifica o uso da **Água**. Aumenta o **Espírito** em 3. **Magias de Água** conjuradas sempre restauram 1 ponto de **Vida** de você e todos os **Aliados**, independente do seu **Alcance**, além dos **Custos** de **Mana** desse **Tipo** também serem reduzidos em 2.
 
+---
+
 # Nível 2 (Entusiasta)
 
 ### Deslize Secundário
@@ -185,6 +191,8 @@ Talento Mágico de Vento, Mobilidade.
 
 Há um vento misteriosos que te afasta de todas as ameaças. Aumenta a **Maestria** em 4. Reduz o **Custo** de **Magias de Vento** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode se mover **1d4** metros após a **Ação** dele, sem consumir nenhuma de suas **Ações** mas em linha reta.
 
+---
+
 # Nível 3 (Especialista)
 
 ### Baú de Ferro
@@ -230,6 +238,8 @@ Magia Interpretativa de Vento, Utilidade.
 **Precisão Garantida** e **Custa** 9 pontos de **Mana**.
 
 Um dos métodos de transporte mágico mais requisitados. Cria uma pequena torrente de vento em uma **Zona** onde todos os **Inimigos** principais já foram derrotados. **Aliados** que tocarem em um **Posto de Vento** podem receber uma viagem rápida para outro **Posto de Vento**. Essa **Mobilidade** só pode ocorrer com ausência de **Oponentes**.
+
+---
 
 # Nível 4 (Veterano)
 
@@ -286,6 +296,8 @@ O primeiro **Tornado** conjurado por você em cada **Combate** aplica 1 **Efeito
 Talento Mágico de Terra, Controle.
 
 A disciplina do seu poder de Terra é tão rígida que as vezes escapam alguns pequenos terremotos mesmo que você esteja conjurando um outro elemento. Aumenta o **Domínio** em 6. Sempre que você usar uma **Magia**, não importando qual **Elemento**, os **Oponentes** recebem 2 **Efeitos** de **Redução** de **Velocidade**.
+
+---
 
 # Nível 5 (Mestre)
 
@@ -349,6 +361,8 @@ Pode ser usado com **Precisão Normal** e **Custo** 10 pontos de **Mana** em **P
 
 O primeiro **Túmulo de Pedra** conjurado por você em cada **Combate** também aplica 2 **Efeitos** de **Enraizamento** nos **Oponentes** ao redor do **Alvo**, com o raio baseado em metade do seu **Alcance**.
 
+---
+
 # Nível 6 (Gênio)
 
 ### Afogamento
@@ -409,6 +423,8 @@ Você pode ter até 3 **Vórtices**.
 
 O primeiro **Vórtice** conjurado por você em cada **Combate** não custa **Mana** na conjuração e nem em sua manutenção.
 
+---
+
 # Nível 7 (Lorde)
 
 ### Além do Céu
@@ -460,6 +476,8 @@ Magia de Terra, Local, Ofensivo.
 **Precisão Garantida** e **Custa** 66 pontos de **Mana**.
 
 O rugido do mundo em um tremor. Causa **2d20** em todos os **Oponentes** do campo de batalha, independente de onde eles estejam.
+
+---
 
 # Nível 8 (Rei)
 
@@ -522,6 +540,8 @@ O ar que você respira se torna diabólico, diminuindo o foco de seus adversári
 Talento Mágico de Terra, Aura, Recuperação.
 
 A terra que você pisa se torna perto do divino, aumentando a concentração de seus aliados. Aumenta a **Maestria** em 10. Você e **Aliados** dentro de um raio igual ao o dobro de seu **Alcance** tem os **Custos** de **Mana** reduzidos pela metade.
+
+---
 
 # Nível 9 (Lenda)
 

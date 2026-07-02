@@ -13,6 +13,8 @@ As **Ações Interpretativas** podem ser qualquer uma baseadas na **Imaginação
 
 Qualquer **Ação** realizada que seja do **Plano de Combate** ou caso algum evento indesejado ocorra, esse plano pode ser quebrado e todo o grupo inteiro é movido para o **Plano de Combate**.
 
+---
+
 # Ações Interpretativas
 
 Qualquer ação que não seja de **Combate** pode ser enquadrada como **Interpretação**, sendo qualquer ato a partir da **Imaginação** do **Jogador**. Essa ações são sempre englobadas em algum tipo e em muitos casos há um teste no **d20**, onde a dificuldade é baseada em vários fatores, como **Nível** de dificuldade, dos **NPCs** e **Monstros** presentes, porém o veredito final de dificuldade do teste é sempre do **Mestre**.
@@ -36,6 +38,8 @@ Personagens baseados em **Inteligência** possuem vantagem nas seguintes categor
 1. **Domínio**: sabedoria, idiomas, leitura e entre outros;
 2. **Espírito**: carisma, percepção, resiliência e entre outros;
 3. **Maestria**: criação, técnica, aprendizado e entre outros;
+
+---
 
 # Modificadores
 

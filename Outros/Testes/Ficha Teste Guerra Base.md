@@ -11,6 +11,8 @@
 
 **História**: Texto;
 
+---
+
 # [[Aspectos e Atributos]]
 
 **Nível**: 1;
@@ -37,13 +39,19 @@
 **Secundários**:
 * **Crítico**: 1;
 
-# Efeitos
+---
+
+# [[Efeitos]]
 
 **X Efeitos** de **Texto**;
 
-# Itens
+---
+
+# [[Itens]]
 
 **Texto**: Texto;
+
+---
 
 # [[Habilidades e Talentos]]: [[Guerra]]
 

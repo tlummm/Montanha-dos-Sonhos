@@ -8,6 +8,10 @@ Os **Jogadores** vão sempre evoluir 1 **Nível** ao derrotar um **Chefe**�
 
 **Apenas NPCs concedem Ouro**: o ganho de **Ouro** em **Monstros** é situacional, mas pode depender do veredito do **Mestre**. Ele pode pedir **Testes**, além de determinar a **Categoria** e **Precisão**, ou até reduzir ou aumentar essa quantia, tudo isso baseado na [[Regra de Ouro]].
 
+---
+
+# Recompensas
+
 **Recompensas Maiores**: um **Chefe** derrotado sempre concede 5 **Itens** arremessando **1d20** para cada um deles. A **Falha Crítica** resulta em um **Item** de **1 Nível** abaixo dele. **Acerto Crítico** resulta em um **Item** de **1 Nível** acima dele. Valores normais são sempre um **Item** do mesmo **Nível** do **Chefe**. Essas jogadas de **Dados** e a quantidade podem ser influenciadas pelo **Atributo** e **Modificador** de **Sorte**.
 
 **Recompensas Médias**: **Inimigos** de **Elite** podem assim como um **Chefe** conceder **Itens** de **Nível** superior no **Crítico**, porem só dão 1 **Item** por derrota, além de só tiverem **Saque** com jogadas de 15 no **d20** para cima. Essas jogadas de **Dados** e a quantidade podem ser influenciadas pelo **Atributo** e **Modificador** de **Sorte**.

@@ -1,5 +1,9 @@
+> Texto do arquivo ainda em desenvolvimento;
+> Apenas Ignore tudo que está escrito neste documento.
+
 # A fazer
 
+Fazer economia;
 Ajustar **Itens**;
 
 # Git

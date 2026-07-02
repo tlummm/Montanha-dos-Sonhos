@@ -1,5 +1,7 @@
 **Equipamentos** são **Itens** que podem ser anexados em partes do corpo de **Jogadores** ou **NPCs**, e até alguns casos também por **Monstros**. Não é possível equipar um **Item** em uma parte se outro já estiver equipado naquele mesmo anexo.
 
+---
+
 # Nível Inicial (Inferior)
 
 ### Berloque Perdido
@@ -38,6 +40,8 @@ Equipamento, Torso.
 
 Foi descartado tão rápido quanto comprado. Aumenta a **Maestria** em 5. Diminui os **Custos** de **Habilidades** em 1.
 
+---
+
 # Nível 1 (Comum)
 
 ### Colar de Conchas
@@ -75,6 +79,8 @@ Um forma robusta de guardar suas coisas, mas ainda é pesada. Oferece 5 espaços
 Equipamento, Pernas.
 
 Uma peça de armadura preferida tanto por duelistas quanto os astutos. Aumenta o **Ataque** em 2 e **Defesa** em 3. Enquanto estiver com os pontos de **Vida** igual ou superior a metade também recebe 2 de **Alcance** e 3 de **Velocidade**.
+
+---
 
 # Nível 2 (Incomum)
 
@@ -120,6 +126,8 @@ Equipamento, Pescoço.
 
 Tudo o que é necessário, esculpido em prata. Aumenta a **Crítico**, **Defesa** e **Liderança** em 1. As propriedades desse **Item** são dobradas se outro **Jogador** também o tiver equipado. Múltiplos **Itens** não acumulam.
 
+---
+
 # Nível 3 (Raro)
 
 ### Bolso do Explorador.
@@ -159,6 +167,8 @@ Vários selos religiosos amarrados ao cinto. Aumenta o Domínio em 7. No início
 Equipamento, Pescoço.
 
 Tudo em um, esculpido a ouro. Aumenta todos os **Atributos Secundários** em 1 (exceto de **Expansões**). Pode aumentar algum **Atributo Secundário** de um **Aliado** a sua escolha no começo de cada **Combate**.
+
+---
 
 # Nível 4 (Encantado)
 
@@ -210,6 +220,8 @@ Trapos de tecidos tão escuros quanto a noite tornando-se um com a sombra. Cada 
 
 Conjunto Completo: Ganha **Ataque** igual a um terço do seu **Atributo** de **Velocidade**, arredondado para cima.
 
+---
+
 # Nível 5 (Mágico)
 
 ### Bolso sem Fundo
@@ -254,6 +266,8 @@ Equipamento Mágico, Cinto.
 
 É notável que um sábio aprende com os erros do próximo. Aumenta o **Crítico** e **Esquiva** em 1. Você não pode sofrer **Dano** ou **Efeitos** da mesma **Habilidade** usada no **Turno** anterior daquela **Unidade** (você não precisa ter sido atingido).
 
+---
+
 # Nível 6 (Rúnico)
 
 ### Braceletes do Executor
@@ -291,6 +305,8 @@ Mesmo de pedra se move como tecido, e mesmo sozinho representa toda a sua naçã
 Equipamento Rúnico, Pescoço.
 
 E esse é o segredo por trás dos milagres nas florestas místicas. Suas **Habilidades** sempre custam **1d12** a menos de **Mana**.
+
+---
 
 # Nível 7 (Lendário)
 
@@ -330,6 +346,8 @@ Equipamento Lendário, Diversos.
 
 A preguiça de um ferreiro foi capaz de criar algo maleável para não precisar se esforçar. No início de toda toda sessão esse **Item** pode se transformar em qualquer **Equipamento** de **Nível** 6 ou inferior, também ganhando esse **Talento**.
 
+---
+
 # Nível 8 (Divino)
 
 ### Aliança da Bravura
@@ -367,6 +385,8 @@ Um resquício de um deus que não gosta de ser interrompido. Aumenta o **Ataque*
 Equipamento Divino, Mãos.
 
 Divindades conseguem controlar diversas delas, mas para mortais apenas uma. 1 desse **Item** pode ser equipado sem consumir o espaço de **Mãos**. Você possui uma **Mão** adicional e pode equipar **Armas** nela.
+
+---
 
 # Nível 9 (Eterno)
 

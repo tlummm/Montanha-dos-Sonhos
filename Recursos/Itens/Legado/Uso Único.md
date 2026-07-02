@@ -1,5 +1,7 @@
 **Uso Único** são **Itens**, usados por **Jogadores** ou **NPCs**, que somem ao serem utilizados. Podem conceder vários [[Efeitos]] ou até ter [[Habilidades e Talentos]], além de também poderem ser empilhados no mesmo espaço de inventário se forem idênticos.
 
+---
+
 # Nível Inicial (Inferior)
 
 ### Bandagens
@@ -38,6 +40,8 @@ Consumível, Comida.
 
 Mesmo sendo apenas uma fruta há resquícios inexplicáveis de magia. Recupera **1d4** pontos de **Mana**. Em cada turno, você pode usar esse **Item** uma vez sem consumir uma **Ação Principal**.
 
+---
+
 # Nível 1 (Comum)
 
 ### Flecha Simples
@@ -75,6 +79,8 @@ O seu criador queria apenas dormir. Aplica 5 **Efeitos** de **Sono** ao consumir
 Consumível, Poção.
 
 Quem bebe isso costuma acreditar que faz tudo melhor. Aplica 2 **Efeitos** de **Redução** na **Precisão**, porem 2 de **Aumento** no **Crítico**.
+
+---
 
 # Nível 2 (Incomum)
 
@@ -116,6 +122,8 @@ Consumível, Poção.
 
 Seu criador queria o vinho perfeito, e quase alcançou. Aplica 2 **Efeitos** de **Aumento** em todos os **Atributos Secundários** ao consumir.
 
+---
+
 # Nível 3 (Raro)
 
 ### Explosivo Rudimentar
@@ -154,6 +162,8 @@ Consumível, Diversos.
 Armadilha, Arremessável.
 
 Uma estratégia covarde usada contra grandes guerreiros. Dentro de 10 metros desequipa e inutiliza completamente um **Item Equipado** de um **Oponente**. **Precisão Difícil** para **Equipamentos** e **Crítica** para **Armas**. Dura até o fim do **Plano**.
+
+---
 
 # Nível 4 (Encantado)
 
@@ -195,6 +205,8 @@ Consumível Encantado, Diversos.
 
 Uma das primeiras formas conhecidas de conter a magia. Pode ser usado fora de seu **Turno** para refletir **Habilidade** que você for receber nesse **Combate**, se for alguma **Área** você escolhe o novo posicionamento a partir da sua **Localização**.
 
+---
+
 # Nível 5 (Mágico)
 
 ### Orbe Dinâmico
@@ -232,6 +244,8 @@ Resquícios de artefatos mágicos que surpreendentemente obedece quem os carrega
 Armadilha Mágica, Arremessável.
 
 Uma lembrança das praias mortas de um lugar que ninguém quer mencionar. Ao **Toque** executa um **Monstro** ou **NPC** de **Nível** 3 ou inferior.
+
+---
 
 # Nível 6 (Rúnico)
 
@@ -271,6 +285,8 @@ Runa, 10 Cargas.
 
 Para o mestre de runas sempre caminhar. Consome 1 **Carga** para, fora de **Combate**, se teletransportar para uma **Civilização**, **Comercio** ou **Zona Segura** já visitada.
 
+---
+
 # Nível 7 (Lendário)
 
 ### Elixir da Insanidade
@@ -309,6 +325,8 @@ Consumível Lendário, Diversos.
 
 Progresso personificado em um objeto. Ao consumir sobe 1 ponto de **Nível**.
 
+---
+
 # Nível 8 (Divino)
 
 ### Dobrão da Casa das Riquezas
@@ -346,6 +364,8 @@ Humildade personificada em um objeto. Ao consumir sobe 1 ponto de **Nível** de 
 Consumível Lendário, Diversos.
 
 Orgulho personificado em um objeto. Ao consumir sobe 2 ponto de **Nível**, só pode ser usada por **Jogadores** com o maior **Nível** da **Campanha**.
+
+---
 
 # Nível 9 (Eterno)
 
@@ -392,6 +412,8 @@ Runa Eterna.
 Os seis **Infernos** a palma da mão. Pode ser consumida para conceder a 1 **Equipamento** ou **Arma** permanentemente um aumento de 30 **Atributos** a sua escolha, porém nenhum podendo ser maior que 10. O **Item** afetado, quando seu dono está **Morto** ou **Derrotado**, pode ser extraído novamente o **Selo**, assim removendo seus bônus.
 
 Pode ser combinado com os outros 3 **Selos** únicos para fazer o ?.
+
+---
 
 # Nível ?
 

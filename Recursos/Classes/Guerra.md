@@ -7,6 +7,8 @@ Possuem a mesma quantia de **Talentos** quanto **Habilidades**, feitos para r
 
 Por ser do **Aspecto** da **Força** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional em cada [[Aspectos e Atributos]] de **Ataque**, **Defesa** e **Vigor**, mas também recebe em um **Atributo Secundário** de **Crítico**.
 
+---
+
 # Nível Inicial (Novato)
 
 ### **Principal: Cicatrizes**
@@ -59,6 +61,8 @@ Talento Físico, Recuperação.
 
 Você consegue encontrar brechas na batalha para se recuperar. Aumenta o **Vigor** em 2. No começo de seus **Turnos** você recupera 1 ponto de **Vida** se estiver com metade dos pontos de **Vida** ou inferior, arredondado para baixo. Com um **Escudo** equipado a regeneração desse **Talento** é aumentado para 2.
 
+---
+
 # Nível 1 (Regular)
 
 ### Aparar
@@ -109,6 +113,8 @@ Com pequenos avanços você consegue ter todos os adversários ao seu alcance. R
 
 Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Planos de Interpretação** fazendo com que você comece imediatamente o **Plano de Combate**, porém posicionado a frente de qualquer **Unidade**.
 
+---
+
 # Nível 2 (Entusiasta)
 
 ### Ataques Gêmeos
@@ -152,6 +158,8 @@ Você se torna mais veloz a medida dos seus movimentos. Aumenta o **Ataque** e *
 Talento Físico, Defensivo.
 
 Você se torna mais resistente a medida dos ferimentos. Aumenta a **Defesa** e **Vigor** em 2. Toda vez que você sofrer um **Ataque** ou **Habilidade** aumenta a sua **Defesa** em 1 até o fim do **Plano**. Esses valores adicionais não podem ser superiores a 2.
+
+---
 
 # Nível 3 (Especialista)
 
@@ -197,6 +205,8 @@ Habilidade Física Interpretativa, Utilidade, Toque.
 
 Seus estudos sobre armas e armaduras te concedeu a capacidade de extrair o máximo de cada ferramenta. Aumenta a **Precisão** de sua próxima ação **Percepção** em 2, mas apenas quando relacionado a **Equipamentos**. Essa **Habilidade** também pode ser usada para aumentar cada **Atributo** de um **Equipamento** em 1 permanentemente, mas apenas uma vez para cada **Item** com nome único (todos os **Itens** com um nome reconhecido também vão receber esse aumento). 
 
+---
+
 # Nível 4 (Veterano)
 
 ### Devastação
@@ -240,6 +250,8 @@ Habilidade Física, Controle, Área.
 **Precisão Normal**, requer **Escudo** e **Custa** 11 pontos de **Mana**.
 
 Uma batida de escudo no chão que chama a atenção de todos os adversários. Em um raio igual a seu **Vigor** força todos os **Oponentes** só podem se movimentar em sua direção, atacar ou usar **Habilidades** com você como **Alvo**, até fim do seu próximo **Turno**.
+
+---
 
 # Nível 5 (Mestre)
 
@@ -293,6 +305,8 @@ Talento Físico, Mobilidade e Utilidade.
 
 Cada passo seu é tático, inspirando seus aliados a fazerem o mesmo. Aumenta o **Ataque** e **Vigor** em 3. Ao usar sua **Ação de Movimento**, um **Aliado** fora do **Turno** dele também pode realizar uma **Ação de Movimento**, porém se locomovendo apenas uma distância metade do valor original.
 
+---
+
 # Nível 6 (Gênio)
 
 ### Bloqueio de Corpo
@@ -337,6 +351,8 @@ Talento Físico, Ofensivo.
 
 O impacto de seus golpes ecoa em tremores, ferindo adversários próximos. Aumenta o **Ataque** em 5. Seus **Ataques** causam metade do **Dano** em **Oponentes** até um raio de 5 metros do **Alvo** atingido. Um **Oponente** não pode sofrer dano de múltiplas **Transposições** com a mesma **Ação**. Acerto **Crítico** dobra o raio de efeito e o **Dano** se torna integral.
 
+---
+
 # Nível 7 (Lorde)
 
 ### Aura da Barbárie
@@ -380,6 +396,8 @@ Habilidade Física, Defensivo, Toque.
 **Precisão Normal**, requer **Escudo** e **Custa** 21 pontos de **Mana**.
 
 Um golpe sangrento, ferindo tanto você quanto o adversário, o assuntando com a insanidade. Você pode sacrificar até metade dos seus pontos de **Vida** atual, arredondado para baixo, para causar como **Dano** ao **Oponente**, o fazendo receber 1 **Efeito** de **Medo**. Acerto **Crítico** não dobra o **Dano**, mas aplica 2 **Efeitos** de **Medo** em todos **Oponentes**, independente da distância.
+
+---
 
 # Nível 8 (Rei)
 
@@ -426,6 +444,8 @@ A bandeira verde simboliza a liberdade. Cria uma **Estrutura**, a partir do seu 
 Talento Físico, Utilidade.
 
 Uma montanha de músculos. Aumenta a **Força** em 2. Seus valores de **Atributos** baseados no **Aspecto** de **Força** valem 150% ao invés de 100%.
+
+---
 
 # Nível 9 (Lenda)
 

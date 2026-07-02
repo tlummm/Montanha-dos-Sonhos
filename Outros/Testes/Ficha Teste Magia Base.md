@@ -11,6 +11,8 @@
 
 **História**: Texto;
 
+---
+
 # [[Aspectos e Atributos]]
 
 **Nível**: 1;
@@ -37,11 +39,15 @@
 **Secundários**:
 * **Precisão**: 1;
 
-# Efeitos
+---
+
+# [[Efeitos]]
 
 **X Efeitos** de **Texto**;
 
-# Itens
+---
+
+# [[Itens]]
 
 **Texto**: Texto;
 

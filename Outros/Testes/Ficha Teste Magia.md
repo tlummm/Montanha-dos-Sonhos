@@ -11,6 +11,8 @@
 
 **História**: Texto;
 
+---
+
 # [[Aspectos e Atributos]]
 
 **Nível**: 1;
@@ -37,8 +39,18 @@
 **Secundários**:
 * **Precisão**: 1;
 
-# Itens
+---
+
+# [[Efeitos]]
 
 **X Efeitos** de **Texto**;
+
+---
+
+# [[Itens]]
+
+**X Efeitos** de **Texto**;
+
+---
 
 # [[Habilidades e Talentos]]: [[Magia]]

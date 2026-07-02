@@ -1,4 +1,7 @@
 **Efeitos** são variáveis que manipulam o estado atual de uma **Unidade**, como por exemplo um **Jogador**, **NPC** ou **Monstro**. Eles podem ser tanto **Positivos** quanto **Negativos** e são ordenados por ordem de **Dissipação**, um conceito que pode ser compreendido melhor em [[Habilidades e Talentos]].
+
+---
+
 # Efeitos Positivos 
 
 **Efeitos** de **Interpretação** (**Dissipação Fraca**): 
@@ -24,6 +27,8 @@
 * **Audácia**: é consumido para jogar novamente algum **d20** ao controle da **Unidade** afetada.
 * **Imunidade**: não sofre **Efeitos** e **Dano**.
 * **Proteção**: é **Imune** a algo especifico, sendo consumido todas vez que sofrer um **Ataque** ou **Habilidade** do mesmo.
+
+---
 
 # Efeitos Negativos
 

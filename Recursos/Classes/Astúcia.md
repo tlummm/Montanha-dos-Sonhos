@@ -6,6 +6,8 @@ Possuem **Talentos** e **Habilidades** que modificam **Regras**, feitos para tra
 
 Por ser do **Aspecto** da **Agilidade** essa **Classe** começa com 1 **Modificador** nas suas modalidades de [[Interpretação]], além de 1 ponto adicional em cada [[Aspectos e Atributos]] de **Alcance**, **Sorte** e **Velocidade**, mas também recebe em um **Atributo Secundário** de **Esquiva**.
 
+---
+
 # Nível Inicial (Novato)
 
 ### Principal: Reposicionamento
@@ -59,6 +61,8 @@ Habilidade Física, Ofensivo, Projétil.
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 6 pontos de **Mana**.
 
 Você se concentra em dois inimigos enquanto pensa em uma trajetória para os acertar com apenas uma munição. Realiza um **Ataque** que rebate e acerta um **Alvo** adicional com o dobro do **Alcance**. O primeiro **d20** define a efetividade dos dois **Ataques**.
+
+---
 
 # Nível 1 (Regular)
 
@@ -114,6 +118,8 @@ Um disparo com uma luz tão forte que faz alguns se questionarem se é uma magia
 
 Pode ser usado apenas uma vez por **Plano** com **Precisão Garantida** em **Planos de Interpretação**, porém nesse tipo de **Plano** apenas uma vez por **Sessão** e também revelando **Unidades** invisíveis.
 
+---
+
 # Nível 2 (Entusiasta)
 
 ### Arremesso de Itens
@@ -159,6 +165,8 @@ Habilidade Física, Ofensivo, Projétil.
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 5 + 3 pontos de **Mana** para cada **Munição**.
 
 Se tem é para usar. Realiza um **Ataque**, porém também causando **Dano** adicional igual a **1d4** vezes o **Dano** da **Munição**. Esse **Dano** adicional pode ser aumentado em número de vezes igual ao consumo de **Munição** ao usar essa **Habilidade**.
+
+---
 
 # Nível 3 (Especialista)
 
@@ -208,6 +216,8 @@ Habilidade Física, Ofensivo, Projétil.
 
 Comprou é para gastar. Realiza um **Ataque** em todos os **Oponentes** dentro do seu **Alcance**, porém gastando **Munição** para cada um.
 
+---
+
 # Nível 4 (Veterano)
 
 ### Disparo Perfurante
@@ -253,6 +263,8 @@ Habilidade Física, Defensivo e Mobilidade, Individual.
 **Precisão Normal**, requer alguma **Arma** e **Custa** 10 pontos de **Mana**.
 
 A expropriação literal de passos. Essa **Habilidade** pode ser usada fora de seu **Turno**. Anula a **Ação de Movimentação** ou **Habilidade** de **Mobilidade** de um **Oponente** dentro do seu **Alcance** somado a sua **Velocidade**. Você pode se mover no **Turno** dele igual a distância original que ele iria se mover.
+
+---
 
 # Nível 5 (Mestre)
 
@@ -300,6 +312,8 @@ Habilidade Física, Controle, Projétil.
 
 Você sempre encontra uma brecha. Pode ser usada fora do seu **Turno** como reação a um **Oponente** dentro do seu **Alcance** que use uma **Habilidade** ou **Ação Principal**. Realiza um **Ataque** nele, interrompendo a **Habilidade** do **Alvo** caso seja um acerto **Crítico**. Só pode ser usada uma vez fora do **Turno** por **Combate**.
 
+---
+
 # Nível 6 (Gênio)
 
 ### Ataque de Dois Mundos
@@ -345,6 +359,8 @@ Habilidade Física, Utilidade, Projétil.
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 17 pontos de **Mana**.
 
 A maior pericia de um atirador é a distância. Realiza um **Ataque** a um **Oponente**, independente da distância e com um **1d4** de **Crítico** adicional. O **Atributo** de **Alcance** é somado como **Ataque** nesta **Habilidade**.
+
+---
 
 # Nível 7 (Lorde)
 
@@ -392,6 +408,8 @@ Talento Físico, Utilidade.
 
 Uma recalibração básica da artilharia. Aumenta o **Alcance** em 9. Suas [[Ações]] que exigem seu **Alcance** o consideram 150% ao invés de 100%, arredondado para cima.
 
+---
+
 # Nível 8 (Rei)
 
 ### Ataques Espectrais
@@ -437,6 +455,8 @@ Apenas o que você já deveria saber. Você e sua equipe recebe todas as informa
 Talento Físico, Utilidade.
 
 Torna-se um com a noite. Reduz o **Alcance** contra você em 8. Suas **Invisibilidades** não são mais finalizadas por sofrer **Ataques** ou **Habilidades**, mas apenas por sofrer **Críticos**.
+
+---
 
 # Nível 9 (Lenda)
 

@@ -1,5 +1,7 @@
 Aspectos são conjuntos universais que englobam propriedades como poderes, capacidades e até personalidades de seres que fazem parte deles. Eles são divididos em três grandes categorias: **Agilidade**, **Força** e **Inteligência**. Um aspecto pode melhorar significativamente ações em determinados nichos, porém ao custo de ter fraquezas claras em outros cenários.
 
+---
+
 # Agilidade
 
 Esse **Aspecto** se baseia em elementos chave como o **Alcance**, **Sorte** e **Velocidade**. Os exemplos de suas capacidades são a escolta, artilharia, aposta, comunicação, infiltração, perseguição e entre outros.
@@ -10,6 +12,8 @@ Esse **Aspecto** se baseia em elementos chave como o **Alcance**, **Sorte** e **
 3. **Velocidade**: 1 metro de distância a percorrer por **Turno** no [[Tabuleiro.jpg]];
 
 Um ponto de **Agilidade** sempre concede um ponto de **Alcance**, **Sorte** e **Velocidade** ao mesmo tempo.
+
+---
 
 # Força
 
@@ -22,6 +26,8 @@ Esse **Aspecto** se baseia em elementos chaves como o **Ataque**, **Defesa** e *
 
 Um ponto de **Força** sempre concede um ponto de **Ataque**, **Defesa** e **Vigor** ao mesmo tempo.
 
+---
+
 # Inteligência
 
 Esse **Aspecto** se baseia em elementos chave como o **Domínio**, **Espírito** e **Maestria**. Os exemplos de suas capacidades são o foco, utilidade, mentalidade, noção, técnica, expertise e entre outros.
@@ -33,6 +39,8 @@ Esse **Aspecto** se baseia em elementos chave como o **Domínio**, **Espírito**
 
 Um ponto de **Inteligência** sempre concede um ponto de **Domínio**, **Espírito** e **Maestria** ao mesmo tempo.
 
+---
+
 # Atributos Secundários
 
 Além dos **Atributos** baseados em **Aspectos** existem alguns adicionais que são mais raros e proveniente de fontes externas:
@@ -42,6 +50,8 @@ Além dos **Atributos** baseados em **Aspectos** existem alguns adicionais que s
 3. **Letalidade**: ignora 1 ponto de **Defesa** e **Espírito** de **Oponentes**.
 4. **Liderança**: 1 ponto adicional em todos os **Atributos** de **Unidades** controladas por você.
 5. **Precisão**: 1 de aumento na **Precisão** de **Ações de Combate**.
+
+---
 
 # Adicionais de acumulo
 

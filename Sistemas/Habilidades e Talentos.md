@@ -2,6 +2,8 @@
 
 As **Habilidades** são como o coração de **Personagens**, graças ao fator de serem **Ações Principais** que podem ser feitas tanto por **Jogadores**, **NPCs**, **Monstros** e até por objetos como **Itens** e **Estruturas**. No entanto essa **Ações** possuem certos padrões e regras, além de serem totalmente baseada nas [[Classes]].
 
+---
+
 # Dissipação
 
 É muito comum uma **Habilidade** aplicar [[Efeitos]], tanto **Positivos** quanto **Negativos**. No entanto, esses mesmos [[Efeitos]] também podem ser anulados por outras **Habilidades**. No processo de **Dissipação** a fonte causadora decide o que e quanto vai ser removido, mas com certos limites:
@@ -18,7 +20,9 @@ Caso um **Efeito** seja **Único** e não se enquadre na documentação de [[Efe
 * **Dissipação Forte**: Remove **Efeitos** de **Nível 9** ou inferior.
 * **Dissipação Verdadeira**: Remove qualquer **Efeito** de qualquer **Nível**.
 
-# Traço
+---
+
+# Traços
 
 As **Habilidades** sempre possuem algumas características que influencia em sua execução. Podem ser desde o seu **Tipo**, **Área de Efeito**, **Dano** ou **Precisão**. Esses **Traços** são os que definem a forma que essas habilidades devem ser interpretadas ou usadas.
 
@@ -58,6 +62,8 @@ Significa o que é **Habilidade** ou a que grupo ela pertence. Elas podem ser di
 * **Crítica**: 20 no **d20**.
 
 **O que é um Crítico**: é o acerto de 20 no **d20**, ocasionando em combate o dobro do **Dano** e **Efeitos** de uma **Ação**. O mesmo pode ocorrer com [[Ações]] de [[Interpretação]] para ganhar imediatamente de testes com o melhor resultado possível. Existem propriedades que podem facilitar o **Crítico** aumentando a sua chance, como o reduzindo para 19 através de [[Aspectos e Atributos]] secundários. Além disso existe o **Crítico Verdadeiro** onde é o 20 no **Dado** sem modificações. 
+
+---
 
 # Talentos
 

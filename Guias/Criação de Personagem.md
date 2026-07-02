@@ -1,5 +1,7 @@
 O novo personagem pode ser criado utilizando a [[Ficha]] para colocar as informações sobre ele. Em caso de qualquer problema, como sem querer apagar ou duplicar um campo, há a [[Ficha Base]] para servir como cópia a ser clonada, ou também pode ser baixada novamente pelo [Repositório](https://github.com/tlummm/Montanha-dos-Sonhos). Se as próximas instruções não forem o suficiente para a compreensão há a [[Ficha Exemplo]], que além de ser um guia pode ser usada para jogar imediatamente, da forma mais fácil e otimizada possível.
 
+---
+
 # Sobre os Campos:
 
 **Personagem**: onde há informações básicas como **Nome**, **Apelido** e **História**, é um espaço totalmente livre para criatividade do jogador. Nenhuma dessas informações é muito relevante, sendo apenas formas do jogador, o grupo e o mestre visualizarem melhor seu **Personagem**. Entretanto a **Classe** é a decisão central da [[Ficha]]. Essa escolha pode ser feita em [[Classes]].

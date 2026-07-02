@@ -1,3 +1,5 @@
+> Texto do arquivo ainda em desenvolvimento;
+> Apenas Ignore tudo que está escrito neste documento.
 # Sistema de talentos menores e maiores
 
 Ortodoxo, coração de leão, bárbaro, espirito de fênix, diácono, indecisão, duas caras, gêmeos.

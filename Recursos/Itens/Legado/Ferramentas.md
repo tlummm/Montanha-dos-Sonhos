@@ -1,5 +1,7 @@
 **Ferramentas** são as armas ou utensílios usados e segurados por **Jogadores** ou **NPCs**, e até alguns casos por **Monstros** também. São equipadas nas **Mãos**, mas não ocupando espaço de equipamentos de **Mãos** como **Luvas** e **Manoplas**. Podem variar de **Armas** de **Uma Mão** ou de **Duas Mãos**.
 
+---
+
 # Nível Inicial (Inferior)
 
 ### Cajado de Pastoreio
@@ -37,6 +39,8 @@ As páginas que sobraram ainda são bem úteis. Aumenta o **Domínio** em 2, a p
 Arma de Uma Mão, Machado.
 
 Um pequeno machado para cortar lenha. Aumenta o **Ataque** em 2 e a **Velocidade** em 1. Causar **Dano**, que não seja por **Efeitos**, aplica 1 **Efeito** de **Sangramento** ao **Oponente**.
+
+---
 
 # Nível 1 (Comum)
 
@@ -76,6 +80,8 @@ Arma de Duas Mãos.
 
 As vezes é afiado e as vezes não. Aumenta o **Ataque** em 15, mas perde 2 de **Precisão**.
 
+---
+
 # Nível 2 (Incomum)
 
 ### Arco Longo
@@ -113,6 +119,8 @@ Usado por guardas reais esta arma brilha no combate a média distância. Aumenta
 Arma de Duas Mãos, Diversos.
 
 Quem escuta suas histórias costumam ver palavras se tornando reais. Ao realizar **Ataques** que sejam **Básicos** você pode ao invés disso usar uma **Habilidade** de **Nível** 1 aleatória, ainda respeitando seus **Custos** e **Condições**.
+
+---
 
 # Nível 3 (Raro)
 
@@ -152,6 +160,8 @@ Arma de Uma Mão, Espada.
 
 No pântano serve para tudo, tudo mesmo. Aumenta o **Alcance**, **Ataque**, **Domínio**, **Maestria**, **Velocidade** e **Vigor** em 2.
 
+---
+
 # Nível 4 (Encantado)
 
 ### Aljava do Preguiçoso
@@ -189,6 +199,8 @@ Esse livro simpático costuma te alertar sobre o que você não sabe. Este **Ite
 Arma Encantada de Uma Mão, Escudo.
 
 Quem enfrentou esse escudo amaldiçoado costuma dizer que a cada ataque uma parte de sua alma se vai. Aumenta a **Defesa** em 8 e a **Esquiva** em 2. Reduz em **1d6** o **Dano** recebido, exceto por **Efeitos**, também roubando pontos de **Vida** do **Agressor** nesse mesmo valor (se for **Alcance** de **Toque**).
+
+---
 
 # Nível 5 (Mágico)
 
@@ -228,6 +240,8 @@ Arma Mágica de Uma Mão, Escudo.
 
 A arte de repelir feitiços em um escudo. Aumenta a **Defesa** em 10 e a **Esquiva** em 2. Reduz o **Dano** sofrido por **Habilidades** em um quarto, arredondado para baixo, devolvendo essa quantia contra o **Agressor**.
 
+---
+
 # Nível 6 (Rúnico)
 
 ### Arco Silvestre
@@ -265,6 +279,8 @@ O primeiro uso estratégico das armas rúnicas era manter sobre o controle os ma
 Arma Rúnica de Uma Mão, Espada.
 
 Esse punhal foi feito por um mestre a fim de ensinar seus alunos através da repetição. Aumenta todos os **Atributos Primários** em 2. Esta **Arma** memoriza sempre a última **Habilidade** usada por você, e a usa em acertos **Críticos**, respeitando seus **Custos** e **Condições**.
+
+---
 
 # Nível 7 (Lendário)
 
@@ -304,6 +320,8 @@ Arma Lendária de Uma Mão, Espada.
 
 Um frio que não congela, mas que para tudo a sua volta. Ao invés dessa **Arma** causar **Dano**, você pode fazer o **Oponente** receber **Efeitos** de **Redução** de **Velocidade** na mesma quantia do **Dano** causado.
 
+---
+
 # Nível 8 (Divino)
 
 ### Ego dos Mares Gêmeos
@@ -341,6 +359,8 @@ Esta aberração costuma implorar por dor e sofrimento enquanto se anexa ao hosp
 Arma Divina de Duas Mãos, Lança.
 
 As leis das trevas são muito simples, o demônio é quem segura seu tridente. Aumenta todos os **Atributos** **Primários** e **Secundários** em 3. Seus acertos **Críticos** finalizam o alvo imediatamente se for um **NPC** ou **Monstro**, com exceção de **Chefes**.
+
+---
 
 # Nível 9 (Eterno)
 

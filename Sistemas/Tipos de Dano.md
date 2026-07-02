@@ -2,6 +2,8 @@ Em [[Aspectos e Atributos]] é mencionado como **Defesa** e **Espírito** mit
 
 Sobre os **Danos** normais, **Físico** e **Mágico**, mesmo que a mitigação seja total a quantia de **Dano**, sempre há o mínimo de sofre pelo menos de 1 de **Dano** da fonte. Portanto não existe mitigação perfeita, a não ser que seja explicitamente mencionado, como em alguma **Habilidade**, **Item** ou **Talento** por exemplo.
 
+---
+
 # Dano Físico
 
 É o **Dano** causado por **Ataques** ou **Habilidades** sem recursos anormais, geralmente por **Golpes** ou **Armas**. Possuem três **Tipos**:
@@ -9,6 +11,8 @@ Sobre os **Danos** normais, **Físico** e **Mágico**, mesmo que a mitigação
 1. **Contusão**: pancadas, esmagamento e entre outros;
 2. **Corte**: arranhões, desmembramento e entre outros;
 3. **Perfuração**: estocadas, projéteis e entre outros;
+
+---
 
 # Dano Mágico
 

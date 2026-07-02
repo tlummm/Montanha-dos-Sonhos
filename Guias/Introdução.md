@@ -6,6 +6,8 @@ O jogo é feito para poder incentivar qualquer pessoa a jogar a sua própria man
 
 Um dos focos principais de cada campanha é a história, sendo apenas um recurso narrativo para juntar e direcionar o grupo de jogadores, mas os mesmos podem fazer objetivos secundários ou explorar áreas que nem fazem parte do enredo principal.
 
+---
+
 # Pré-requisitos
 
 Existem alguns requisitos básicos para poder jogar:
@@ -13,6 +15,8 @@ Existem alguns requisitos básicos para poder jogar:
 * **Opcional**: Um bom editor de texto (Visual Studio Code, Sublime Text, ou o próprio Obsidian que é o mais recomendado).
 
 Essas ferramentas servem para facilitar a organização de ficha e anotações da campanha.
+
+---
 
 # Como Jogar?
 

@@ -1,3 +1,6 @@
+> Texto do arquivo ainda em desenvolvimento;
+> Apenas Ignore tudo que está escrito neste documento.
+
 ### Disparo Global 
 
 Habilidade Física, Utilidade, Projétil.
