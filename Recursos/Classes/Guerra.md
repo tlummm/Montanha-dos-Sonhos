@@ -479,7 +479,7 @@ Habilidade Física, Ofensivo, Toque.
 
 **Precisão Improvável**, requer alguma **Arma** e **Custa** 39 pontos de **Mana**.
 
-A arte de achatar crânios. Realiza um **Ataque** com a metade do **Dano**, porém reduzindo permanentemente a **Vida** máxima do **Alvo** pela metade até o fim do **Combate**. Só pode ser usado uma vez por **Oponente** em cada **Combate**, além de só poder ser removido por **Dissipação Verdadeira** positiva.
+A arte de achatar crânios. Realiza um **Ataque** com a metade do **Dano**, porém reduzindo permanentemente a **Vida** máxima do **Alvo** pela metade até o fim do **Combate**. Só pode ser usado uma vez por **Oponente** em cada **Combate**, além de só poder ser removido por **Dissipação Verdadeira** positiva ou fim de **Sessão**.
 
 ### Montanha
 

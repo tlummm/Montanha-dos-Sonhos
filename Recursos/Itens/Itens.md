@@ -10,7 +10,7 @@
 
 Várias **Ferramentas** podem ser **Armas**, fazendo com que além de somarem seus **Atributos** e **Características** como um **Equipamento**, também possuem [[Tipos de Dano]], **Dano da Arma** e o mais importante, o escalonamento com **Nível**.
 
-**Armas** podem ser de **Contusão**, **Corte** ou **Perfuração**, assim como os [[Tipos de Dano]] físico, além de também poderem serem um dos dois ou ambos (exemplo **Alabardas**, que algumas possuem os 3 **Tipos**). Os escalonamentos por **Tipos** de **Dano Físico** são:
+**Armas** podem ser de **Contusão**, **Corte** ou **Perfuração**, assim como os [[Tipos de Dano]] físico, além de também poderem serem um dos dois ou ambos (exemplo [[Alabardas__]], que algumas possuem os 3 **Tipos**). Os escalonamentos por **Tipos** de **Dano Físico** são:
 
 1. **Contusão**: **Armas** desse **Tipo** causam **Efeitos** de **Redução** de **Defesa** igual ao **Nível** da **Arma**;
 2. **Corte**: **Armas** desse **Tipo** causam **Efeitos** de **Sangramento** igual ao **Nível** da **Arma**;
@@ -18,7 +18,7 @@ Várias **Ferramentas** podem ser **Armas**, fazendo com que além de somarem se
 
 A mão humana, ou uma anatomicamente semelhante, é considerada uma **Arma** de **Contusão**, causando esse **Tipo** de **Dano Físico**, no entanto não escala ou possui as peculiaridades de uma **Arma** de verdade. No entanto **Monstros** com garras e cascos podem ter **Ataques** com o corpo considerados como uma **Arma** real, seja de **Contusão**, **Corte** ou **Perfuração**, escalando com o seu **Nível** ao invés da **Ferramenta** (onde no caso o corpo é a própria **Ferramenta**).
 
-Caso uma **Arma** possua dois **Tipos** de **Dano** ou mais, o seu portador escolhera apenas um **Tipo** para se beneficiar de escalonamentos. E existe uma peculiaridade: **Armas** do **Tipo** **Perfuração** sempre podem causar **Cortes**, porém exigindo o dobro da dificuldade na **Precisão** e sendo uma possibilidade opcional por seu risco alto.
+Caso uma **Arma** possua dois **Tipos** de **Dano** ou mais, o seu portador escolhera apenas um **Tipo** para se beneficiar de escalonamentos durante aquele **Ataque**. E existe uma peculiaridade: **Armas** do **Tipo** **Perfuração** sempre podem causar **Cortes**, porém exigindo o dobro da dificuldade na **Precisão** e sendo uma possibilidade opcional por seu risco alto.
 
 ---
 
