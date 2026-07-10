@@ -68,5 +68,4 @@ TERMINOLOGIA CANÔNICA (respeite grafia e sentido)
   Gaia, Ventus.
 - Efeitos com pilhas e duração.
 - Itens: Ferramentas, Equipamentos, Uso Único (inventário de 5 espaços,
-  expansível por Mochilas). Raridade por Nível, de 0 a 9: Inferior, Comum,
-  Incomum, Raro, Encantado, Mágico, Rúnico, Lendário, Divino, Eterno.
+  expansível por Mochilas). Raridade por Nível, de 0 a 9.

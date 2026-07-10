@@ -59,18 +59,7 @@ Organizados em [[Habilidades e Talentos]], progridem por **Nível** de 0 a 9:
 
 No **Nível 9**, cada **Classe** evolui seu **Talento Principal** (ex.: Guerra → Maestria Duelista, Magia → Maestria Elemental, Astúcia → Maestria Estratégica).
 
-**Escala de Raridade dos Itens (separada da escada de classe)**: os **Itens** — [[Ferramentas]], [[Equipamentos]] e [[Uso Único]] — têm raridade própria por **Nível**, de 0 a 9:
-
-0. Inferior (Nível Inicial)
-1. Comum
-2. Incomum
-3. Raro
-4. Encantado
-5. Mágico
-6. Rúnico
-7. Lendário
-8. Divino
-9. Eterno
+**Escala de Raridade dos Itens (separada da escada de classe)**: os **Itens** — [[Ferramentas]], [[Equipamentos]] e [[Uso Único]] — têm raridade própria por **Nível**, de 0 a 9.
 
 ### Precisão
 

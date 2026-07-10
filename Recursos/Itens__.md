@@ -1,8 +1,20 @@
+> Texto do arquivo ainda em desenvolvimento;
+> Apenas Ignore tudo que está escrito neste documento.
+
+---
+
 **Itens** são objetos que o seu poder ou funcionalidade escalam com o seu **Nível** e **Qualidade**. Eles podem ser armazenados no **Inventário**, e dependendo do **Tipo**, **Equipados** ou **Consumidos**. Os tipos são:
 
 1. **Equipamentos**: podem ser equipados para somar seus **Atributos** e **Características** ao portador;
-2. **Ferramentas**: fazem o mesmo que os **Equipamentos**, porém podem adicionar **Dano** a **Ataques** ou ter **Funcionalidades** extras.
+2. **Ferramentas**: fazem o mesmo que os **Equipamentos**, porém podem adicionar **Dano** a **Ataques** ou ter **Funcionalidades** extras;
 3. **Uso único**: são consumidos diretamente do inventário para cumprir o seu proposito;
+4. **Materiais**: ficam apenas armazenados no inventário e servem para criar outros **Itens**;
+
+---
+
+# Tipos de Ferramentas
+
+Texto.
 
 ---
 
@@ -25,3 +37,33 @@ Caso uma **Arma** possua dois **Tipos** de **Dano** ou mais, o seu portador esco
 # Tipos de Armas
 
 Texto.
+
+---
+
+# Tipos de Equipamentos
+
+Texto.
+
+---
+
+# Tipos de Uso Único
+
+Texto.
+
+---
+
+# Tipos de Materiais
+
+**Itens** do tipo **Material** são usados para criação de outros **Itens** como **Equipamentos**, **Armas**, **Uso Único** e **Munições**. Também podem ser usadas em **Rituais**, **Encantamentos** e **Estruturas**, assim como também em [[Habilidades e Talentos]]. Normalmente eles concedem propriedades especiais ao **Item** que é fabricado os utilizando. **Materiais** são acumuláveis, ou seja, dois ou mais **Itens** do mesmo **Material** ocupam apenas um espaço no inventário. Atualmente existem 6 tipos de **Materiais**.
+
+Três são de origem biológica (**Orgânicos**):
+
+1. **Animal**;
+2. **Planta**;
+3. **Fungo**;
+
+Três são de origem não biológica (**Inorgânicos**):
+
+1. **Mineral**;
+2. **Substância**;
+3. **Artificial**;
