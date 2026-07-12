@@ -165,7 +165,7 @@ Uma estratégia covarde usada contra grandes guerreiros. Dentro de 10 metros des
 
 ---
 
-# Nível 4 (Encantado)
+# Nível 4 ()
 
 ### Berrante do Guardião
 
@@ -207,7 +207,7 @@ Uma das primeiras formas conhecidas de conter a magia. Pode ser usado fora de se
 
 ---
 
-# Nível 5 (Mágico)
+# Nível 5 ()
 
 ### Orbe Dinâmico
 
@@ -247,7 +247,7 @@ Uma lembrança das praias mortas de um lugar que ninguém quer mencionar. Ao **T
 
 ---
 
-# Nível 6 (Rúnico)
+# Nível 6 ()
 
 ### Runa da Alma
 
@@ -327,7 +327,7 @@ Progresso personificado em um objeto. Ao consumir sobe 1 ponto de **Nível**.
 
 ---
 
-# Nível 8 (Divino)
+# Nível 8 ()
 
 ### Dobrão da Casa das Riquezas
 
@@ -367,7 +367,7 @@ Orgulho personificado em um objeto. Ao consumir sobe 2 ponto de **Nível**, só 
 
 ---
 
-# Nível 9 (Eterno)
+# Nível 9 (Onírico)
 
 ### Baú do Mundo
 

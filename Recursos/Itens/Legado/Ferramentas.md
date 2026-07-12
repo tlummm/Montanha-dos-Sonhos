@@ -162,7 +162,7 @@ No pântano serve para tudo, tudo mesmo. Aumenta o **Alcance**, **Ataque**, **Do
 
 ---
 
-# Nível 4 (Encantado)
+# Nível 4 ()
 
 ### Aljava do Preguiçoso
 
@@ -202,7 +202,7 @@ Quem enfrentou esse escudo amaldiçoado costuma dizer que a cada ataque uma part
 
 ---
 
-# Nível 5 (Mágico)
+# Nível 5 ()
 
 ### Diário do Alpinista
 
@@ -242,7 +242,7 @@ A arte de repelir feitiços em um escudo. Aumenta a **Defesa** em 10 e a **Esqui
 
 ---
 
-# Nível 6 (Rúnico)
+# Nível 6 ()
 
 ### Arco Silvestre
 
@@ -322,7 +322,7 @@ Um frio que não congela, mas que para tudo a sua volta. Ao invés dessa **Arma*
 
 ---
 
-# Nível 8 (Divino)
+# Nível 8 ()
 
 ### Ego dos Mares Gêmeos
 
@@ -362,7 +362,7 @@ As leis das trevas são muito simples, o demônio é quem segura seu tridente. A
 
 ---
 
-# Nível 9 (Eterno)
+# Nível 9 (Onírico)
 
 ### Arco da Fortuna
 

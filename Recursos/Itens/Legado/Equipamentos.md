@@ -170,7 +170,7 @@ Tudo em um, esculpido a ouro. Aumenta todos os **Atributos Secundários** em 1 (
 
 ---
 
-# Nível 4 (Encantado)
+# Nível 4 ()
 
 ### Conjunto: Armação do Incendiário
 
@@ -222,7 +222,7 @@ Conjunto Completo: Ganha **Ataque** igual a um terço do seu **Atributo** de **V
 
 ---
 
-# Nível 5 (Mágico)
+# Nível 5 ()
 
 ### Bolso sem Fundo
 
@@ -268,7 +268,7 @@ Equipamento Mágico, Cinto.
 
 ---
 
-# Nível 6 (Rúnico)
+# Nível 6 ()
 
 ### Braceletes do Executor
 
@@ -348,7 +348,7 @@ A preguiça de um ferreiro foi capaz de criar algo maleável para não precisar 
 
 ---
 
-# Nível 8 (Divino)
+# Nível 8 ()
 
 ### Aliança da Bravura
 
@@ -388,7 +388,7 @@ Divindades conseguem controlar diversas delas, mas para mortais apenas uma. 1 de
 
 ---
 
-# Nível 9 (Eterno)
+# Nível 9 (Onírico)
 
 ### Ampulheta Real
 
