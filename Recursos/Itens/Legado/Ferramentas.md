@@ -2,7 +2,7 @@
 
 ---
 
-# Nível Inicial (Inferior)
+# Nível Inicial (Tralha)
 
 ### Cajado de Pastoreio
 
@@ -42,7 +42,7 @@ Um pequeno machado para cortar lenha. Aumenta o **Ataque** em 2 e a **Velocidade
 
 ---
 
-# Nível 1 (Comum)
+# Nível 1 (Improvisado)
 
 ### Adaga do Ladrão
 
@@ -82,7 +82,7 @@ As vezes é afiado e as vezes não. Aumenta o **Ataque** em 15, mas perde 2 de *
 
 ---
 
-# Nível 2 (Incomum)
+# Nível 2 (Rudimentar)
 
 ### Arco Longo
 
@@ -122,7 +122,7 @@ Quem escuta suas histórias costumam ver palavras se tornando reais. Ao realizar
 
 ---
 
-# Nível 3 (Raro)
+# Nível 3 (Artesão)
 
 ### Báculo do Afogado
 
@@ -162,7 +162,7 @@ No pântano serve para tudo, tudo mesmo. Aumenta o **Alcance**, **Ataque**, **Do
 
 ---
 
-# Nível 4 ()
+# Nível 4 (Refinado)
 
 ### Aljava do Preguiçoso
 
@@ -202,7 +202,7 @@ Quem enfrentou esse escudo amaldiçoado costuma dizer que a cada ataque uma part
 
 ---
 
-# Nível 5 ()
+# Nível 5 (Nobre)
 
 ### Diário do Alpinista
 
@@ -242,7 +242,7 @@ A arte de repelir feitiços em um escudo. Aumenta a **Defesa** em 10 e a **Esqui
 
 ---
 
-# Nível 6 ()
+# Nível 6 (Obra)
 
 ### Arco Silvestre
 
@@ -282,7 +282,7 @@ Esse punhal foi feito por um mestre a fim de ensinar seus alunos através da rep
 
 ---
 
-# Nível 7 (Lendário)
+# Nível 7 (Magistral)
 
 ### A Primeira Carabina
 
@@ -322,7 +322,7 @@ Um frio que não congela, mas que para tudo a sua volta. Ao invés dessa **Arma*
 
 ---
 
-# Nível 8 ()
+# Nível 8 (Real)
 
 ### Ego dos Mares Gêmeos
 
@@ -362,7 +362,7 @@ As leis das trevas são muito simples, o demônio é quem segura seu tridente. A
 
 ---
 
-# Nível 9 (Onírico)
+# Nível 9 (Heroico)
 
 ### Arco da Fortuna
 

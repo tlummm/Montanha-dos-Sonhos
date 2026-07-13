@@ -2,7 +2,7 @@
 
 ---
 
-# Nível Inicial (Inferior)
+# Nível Inicial (Tralha)
 
 ### Bandagens
 
@@ -42,7 +42,7 @@ Mesmo sendo apenas uma fruta há resquícios inexplicáveis de magia. Recupera *
 
 ---
 
-# Nível 1 (Comum)
+# Nível 1 (Improvisado)
 
 ### Flecha Simples
 
@@ -82,7 +82,7 @@ Quem bebe isso costuma acreditar que faz tudo melhor. Aplica 2 **Efeitos** de **
 
 ---
 
-# Nível 2 (Incomum)
+# Nível 2 (Rudimentar)
 
 ### Bomba de Fumaça
 
@@ -124,7 +124,7 @@ Seu criador queria o vinho perfeito, e quase alcançou. Aplica 2 **Efeitos** de 
 
 ---
 
-# Nível 3 (Raro)
+# Nível 3 (Artesão)
 
 ### Explosivo Rudimentar
 
@@ -165,7 +165,7 @@ Uma estratégia covarde usada contra grandes guerreiros. Dentro de 10 metros des
 
 ---
 
-# Nível 4 ()
+# Nível 4 (Refinado)
 
 ### Berrante do Guardião
 
@@ -207,7 +207,7 @@ Uma das primeiras formas conhecidas de conter a magia. Pode ser usado fora de se
 
 ---
 
-# Nível 5 ()
+# Nível 5 (Nobre)
 
 ### Orbe Dinâmico
 
@@ -247,7 +247,7 @@ Uma lembrança das praias mortas de um lugar que ninguém quer mencionar. Ao **T
 
 ---
 
-# Nível 6 ()
+# Nível 6 (Obra)
 
 ### Runa da Alma
 
@@ -287,7 +287,7 @@ Para o mestre de runas sempre caminhar. Consome 1 **Carga** para, fora de **Comb
 
 ---
 
-# Nível 7 (Lendário)
+# Nível 7 (Magistral)
 
 ### Elixir da Insanidade
 
@@ -327,7 +327,7 @@ Progresso personificado em um objeto. Ao consumir sobe 1 ponto de **Nível**.
 
 ---
 
-# Nível 8 ()
+# Nível 8 (Real)
 
 ### Dobrão da Casa das Riquezas
 
@@ -367,7 +367,7 @@ Orgulho personificado em um objeto. Ao consumir sobe 2 ponto de **Nível**, só 
 
 ---
 
-# Nível 9 (Onírico)
+# Nível 9 (Heroico)
 
 ### Baú do Mundo
 

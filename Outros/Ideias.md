@@ -12,13 +12,9 @@ pseudo;
 
 # Predisposição e efeitos dela
 
-# Os Quatro Celestes
-
 # Lista de Materiais
 
 # Economia
-
-# Sistema de arma por tiers
 
 # Bestiário por tiers
 

@@ -2,7 +2,7 @@
 
 ---
 
-# Nível Inicial (Inferior)
+# Nível Inicial (Tralha)
 
 ### Berloque Perdido
 
@@ -42,7 +42,7 @@ Foi descartado tão rápido quanto comprado. Aumenta a **Maestria** em 5. Diminu
 
 ---
 
-# Nível 1 (Comum)
+# Nível 1 (Improvisado)
 
 ### Colar de Conchas
 
@@ -82,7 +82,7 @@ Uma peça de armadura preferida tanto por duelistas quanto os astutos. Aumenta o
 
 ---
 
-# Nível 2 (Incomum)
+# Nível 2 (Rudimentar)
 
 ### Bolsa do Alquimista
 
@@ -128,7 +128,7 @@ Tudo o que é necessário, esculpido em prata. Aumenta a **Crítico**, **Defesa*
 
 ---
 
-# Nível 3 (Raro)
+# Nível 3 (Artesão)
 
 ### Bolso do Explorador.
 
@@ -170,7 +170,7 @@ Tudo em um, esculpido a ouro. Aumenta todos os **Atributos Secundários** em 1 (
 
 ---
 
-# Nível 4 ()
+# Nível 4 (Refinado)
 
 ### Conjunto: Armação do Incendiário
 
@@ -222,7 +222,7 @@ Conjunto Completo: Ganha **Ataque** igual a um terço do seu **Atributo** de **V
 
 ---
 
-# Nível 5 ()
+# Nível 5 (Nobre)
 
 ### Bolso sem Fundo
 
@@ -268,7 +268,7 @@ Equipamento Mágico, Cinto.
 
 ---
 
-# Nível 6 ()
+# Nível 6 (Obra)
 
 ### Braceletes do Executor
 
@@ -308,7 +308,7 @@ E esse é o segredo por trás dos milagres nas florestas místicas. Suas **Habil
 
 ---
 
-# Nível 7 (Lendário)
+# Nível 7 (Magistral)
 
 ### Bolso do Arquiteto de Reinos
 
@@ -348,7 +348,7 @@ A preguiça de um ferreiro foi capaz de criar algo maleável para não precisar 
 
 ---
 
-# Nível 8 ()
+# Nível 8 (Real)
 
 ### Aliança da Bravura
 
@@ -388,7 +388,7 @@ Divindades conseguem controlar diversas delas, mas para mortais apenas uma. 1 de
 
 ---
 
-# Nível 9 (Onírico)
+# Nível 9 (Heroico)
 
 ### Ampulheta Real
 
