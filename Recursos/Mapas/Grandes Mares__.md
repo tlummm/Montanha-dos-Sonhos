@@ -6,11 +6,21 @@
 Também chamado de grandes **Mares Maiores**, são conjuntos extensos de água, muito mais vastos que os pequenos mares que existem dentro de cada **Reino**. Eles normalmente estão localizados como separação entre **Reinos**, fazendo o grande filtro que impossibilita habitantes de um **Reino** migrar para outro. Os **Grande Mares** são:
 
 Mar Liberto - Força Própria
+
+Mar - Novos Deuses
 Mar Vertical - Novos Deuses
-Mar Nevado - 
+
+Mar Iluminado- Dragão
+Mar Divino - Dragão
+
+Mar Vivo - Deuses Selvagens
 Mar Antigo - Deuses Selvagens
+
 Mar Podre - Deuses de Baixo
 Mar Além - Deuses de Baixo
+
+Mar Nevado Norte - 
+Mar Nevado Sul - 
 Mar Indomado - "Força Própria" - Onde fica a montanha dos sonhos
 
 ---
@@ -44,6 +54,18 @@ Texto.
 Seus pontos de interesse são:
 
 1. **Frota Fantasma**:
+
+### Texto
+
+Texto.
+
+---
+
+# Mar Nevado Sul
+
+Seus pontos de interesse são:
+
+1. **Frota Nevada**:
 
 ### Texto
 

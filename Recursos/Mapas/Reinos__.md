@@ -135,6 +135,10 @@ Texto.
 Seus pontos de interesse são:
 
 1. **Montanha dos Sonhos**:
+2. **Ordem dos Magi**:
+3. **Castelo Nulo**:
+4. **Vale da Quietude**:
+5. **Muro Sonambulo**
 
 ### Texto
 

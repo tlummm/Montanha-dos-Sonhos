@@ -19,4 +19,4 @@
 
 # Raridades: 
 
-normal, incomum, raro, épico, Onírico.
+normal, incomum, raro, épico, lendário, onírico.
