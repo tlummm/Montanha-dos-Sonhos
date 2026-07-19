@@ -26,7 +26,9 @@ São conjuntos de continentes e mares menores, com a proporção de tamanho seme
 
 Seus pontos de interesse são:
 
-1. **Texto**:
+1. **Roqueburgo**: Cidade-Forte
+2. **Muralhas de Basalto**: ao redor de **Roqueburgo**
+3. **Presídio Central**: no coração de **Roqueburgo**
 
 ### Texto
 
@@ -38,7 +40,9 @@ Texto.
 
 Seus pontos de interesse são:
 
-1. **Texto**:
+1. **Lux'Amar**: um grande jardim élfico em planícies luminescentes;
+2. **Santuário de Folhas**: localizado em **Lux'Amar**;
+3. **Poço Lunar**: localizado em **Lux'Amar**, sendo de origem e fazendo conexão a **X**;
 
 ### Texto
 
@@ -134,11 +138,12 @@ Texto.
 
 Seus pontos de interesse são:
 
-1. **Montanha dos Sonhos**:
-2. **Ordem dos Magi**:
-3. **Castelo Nulo**:
-4. **Vale da Quietude**:
-5. **Muro Sonambulo**
+1. **Arquipélago Terror**: um conjunto de ilhas corrompidas, localizada no centro do **Reino**;
+2. **Montanha dos Sonhos**: a montanha que dá nome a história, localizada no centro do **Arquipélago Terror**;
+3. **Muro Sonambulo**: rodeando e protegendo a **Montanha dos Sonhos**, é tão alto quanto as nuvens;
+4. **Vale da Quietude**: um lugar silencioso com **Nulos** sob grandes encantamentos de sono, fica aos arredores do **Muro Sonambulo**;
+5. **Ordem dos Magi**: localizada na base da **Montanha dos Sonhos**;
+6. **Castelo Nulo**: localizada no topo da **Montanha dos Sonhos**;
 
 ### Texto
 

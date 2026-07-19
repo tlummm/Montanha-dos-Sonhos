@@ -53,7 +53,7 @@ Texto.
 
 Seus pontos de interesse são:
 
-1. **Frota Fantasma**:
+1. **Frota Fantasma**: centenas de navios espectrais; 
 
 ### Texto
 
@@ -65,7 +65,7 @@ Texto.
 
 Seus pontos de interesse são:
 
-1. **Frota Nevada**:
+1. **Frota Nevada**: texto;
 
 ### Texto
 
@@ -77,8 +77,8 @@ Texto.
 
 Seus pontos de interesse são:
 
-1. **O Primeiro Exílio**:
-2. **Túmulo dos Leviatãs**:
+1. **O Primeiro Exílio**: uma ilha deserta onde os antigos homens mandavam seus piores prisioneiros;
+2. **Túmulo dos Leviatãs**: onde os maiores nulos da primeira invasão foram selados;
 
 ### Texto
 

@@ -5,6 +5,8 @@
 
 # A fazer
 
+Mapas;
+Materias;
 Fazer economia;
 Ajustar **Itens**;
 

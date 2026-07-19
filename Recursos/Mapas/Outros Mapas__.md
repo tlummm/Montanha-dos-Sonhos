@@ -19,8 +19,8 @@ Seus pontos de interesse são:
 
 Seus pontos de interesse são:
 
-1. **Praias Iridescentes**:
-2. **Gran Igni'Íris**:
+1. **Praias Iridescentes**: texto;
+2. **Gran Igni'Íris**: grande vulcão com lava de diversas cores 
 
 ---
 
@@ -28,5 +28,5 @@ Seus pontos de interesse são:
 
 Seus pontos de interesse são:
 
-1. **Costa Sangrenta**:
+1. **Costa Sangrenta**: praia nevada
 2. **Tundra Boreal**:

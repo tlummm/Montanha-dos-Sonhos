@@ -10,11 +10,15 @@ pseudo;
 
 ---
 
-# Predisposição e efeitos dela
-
 # Lista de Materiais
 
 # Economia
+
+# Predisposição e efeitos dela
+
+# Rituais
+
+# Tabela Periódica
 
 # Bestiário por tiers
 
@@ -29,3 +33,5 @@ pseudo;
 # Lógica do 6
 
 # Montanha dos Sonhos 2.0
+
+---
