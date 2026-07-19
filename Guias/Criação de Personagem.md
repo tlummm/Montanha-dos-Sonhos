@@ -14,3 +14,4 @@ O novo personagem pode ser criado utilizando a [[Ficha]] para colocar as informa
 
 [[Habilidades e Talentos]]: ao escolher uma das [[Classes]] todas as suas **Habilidades** e **Talentos** ficam nessa aba. todas as **Habilidades** e **Talentos** da sua **Classe** ficam nessa sessão. Novos personagens sempre começam com tudo de **Nível** 0 do sua **Classe**, porém podem escolher apenas 1 **Habilidade** ou **Talento** de **Nível** 1 para ter além dessas.
 
+---

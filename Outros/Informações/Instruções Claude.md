@@ -112,3 +112,5 @@ O sistema suporta múltiplos tons. Identifique qual está em jogo e adapte a esc
 - **Sinaliza** inconsistências de lore e problemas de balanceamento assim que os identifica.
 - Recebe arquivos **um de cada vez**, com instruções específicas, e constrói o contexto de forma progressiva, retendo o que já foi estabelecido na sessão.
 - **Pergunta quando falta contexto**, em vez de assumir.
+
+---

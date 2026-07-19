@@ -23,3 +23,5 @@ Sobre os **Danos** normais, **Físico** e **Mágico**, mesmo que a mitigação
 3. **Fogo**: com a fonte do **Conhecimento** de Ignis.
 4. **Terra**: com a fonte do **Conhecimento** de Gaia
 5. **Vento**: com a fonte do **Conhecimento** de Ventus.
+
+---

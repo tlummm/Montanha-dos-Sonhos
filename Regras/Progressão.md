@@ -19,3 +19,5 @@ Os **Jogadores** vão sempre evoluir 1 **Nível** ao derrotar um **Chefe**�
 **Recompensas Menores**: **Inimigos** normais podem conceder **Itens** do mesmo **Nível** deles apenas com um **Crítico**. **Falha Crítica** faz com que todos os **Saques** de **Inimigos** normais não possam ser mais gerados nessa **Vitória**. Essas jogadas de **Dados** e a quantidade podem ser influenciadas pelo **Atributo** e **Modificador** de **Sorte**.
 
 **Aleatoriedade da Recompensa**: é decidido em **1d6** se o **Item** será um entre [[Uso Único]] (1-2), [[Equipamentos]] (3-4) ou [[Ferramentas]] (5-6). No caso de [[Uso Único]] a recompensa é sempre quadruplicada, ou dobrada caso seja um de **Nível** 8 e única se de **Nível** 9.
+
+---

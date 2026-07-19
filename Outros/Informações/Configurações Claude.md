@@ -69,3 +69,5 @@ TERMINOLOGIA CANÔNICA (respeite grafia e sentido)
 - Efeitos com pilhas e duração.
 - Itens: Ferramentas, Equipamentos, Uso Único (inventário de 5 espaços,
   expansível por Mochilas). Raridade por Nível, de 0 a 9.
+
+---

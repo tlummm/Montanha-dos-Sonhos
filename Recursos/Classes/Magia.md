@@ -606,3 +606,5 @@ Magia Arcana, Controle, Individual.
 Só um verdadeiro mago sabe realmente como utilizar a mana. Zera os pontos de **Mana** do **Alvo** e os transfere para você. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
 
 O primeiro **Roubo de Mana** conjurado por você em cada **Combate** recupera seus pontos de **Vida** na mesma quantia da recuperação de **Mana**.
+
+---

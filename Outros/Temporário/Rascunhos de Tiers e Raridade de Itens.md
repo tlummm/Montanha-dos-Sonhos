@@ -25,3 +25,5 @@
 # Raridades: 
 
 normal, incomum, raro, épico, lendário, onírico.
+
+---

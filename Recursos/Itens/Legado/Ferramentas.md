@@ -399,3 +399,5 @@ Alguns dizem que o conhecimento deste livro custam a vida. Enquanto equipado com
 Arma Eterna de Uma Mão, Diversos.
 
 Onipresença em todas as direções. No início do seu **Turno** você pode se locomover entre **Norte**, **Sul**, **Leste** e **Oeste**. Pode ser qualquer valor nessa distância, inclusive saindo do **Plano**, tanto de **Combate** quanto de **Interpretação**. É possível se locomover infinitamente para qualquer direção, incluindo saindo de **Regiões** e **Reinos**.
+
+---

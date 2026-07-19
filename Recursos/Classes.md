@@ -17,3 +17,5 @@ Atualmente há 3 **Classes** básicas:
 1. [[Astúcia]]: **Classe** de **Agilidade**, com apenas a **Função** de **Dano**.
 2. [[Guerra]]: **Classe** de **Força**, cumpre as **Funções** de **Dano** e **Tanque**.
 3. [[Magia]]: **Classe** de **Inteligência**, cumpre as **Funções** de **Dano** e **Suporte**.
+
+---

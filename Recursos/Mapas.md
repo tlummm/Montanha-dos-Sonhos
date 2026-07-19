@@ -8,5 +8,3 @@ Os **Mapas** de **Salon'Gar** são os trechos de terrenos onde as [[Unidades__]]
 > **Observação**: os lugares que não fazem parte desse quatro tipos são englobados em [[Outros Mapas__]].
 
 ---
-
-

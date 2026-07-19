@@ -54,3 +54,7 @@
 ---
 
 # [[Habilidades e Talentos]]: [[Magia]]
+
+**Texto**: Texto;
+
+---

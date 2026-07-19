@@ -425,3 +425,5 @@ Uma invisibilidade tão forte que completamente apaga a existência. Aumenta a *
 Equipamento Eterno, Pescoço.
 
 O motivo é tão cruel quanto seu desejo. Esse **Equipamento** pode ser usado do seu **Inventário** como uma **Habilidade** para equipar em um **Oponente**, independente da distância. A **Unidade** equipada é permanentemente **Atordoada** e sofre uma **Dissipação Verdadeira**, apenas em **Efeitos Positivos**, em todo seu fim de **Turno**.
+
+---

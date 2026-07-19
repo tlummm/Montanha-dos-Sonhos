@@ -509,3 +509,5 @@ Habilidade Mágica, Utilidade, Individual.
 **Precisão Improvável** e **Custa** 20 pontos de **Mana**.
 
 A cópia da cópia. Até o fim do **Combate** você pode utilizar todas as **Habilidades** do **Alvo** como se fossem suas próprias. Só um **Alvo** por vez pode estar mimetizado por você.
+
+---

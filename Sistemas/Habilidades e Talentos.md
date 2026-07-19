@@ -68,3 +68,5 @@ Significa o que é **Habilidade** ou a que grupo ela pertence. Elas podem ser di
 # Talentos
 
 São como **Habilidades**, e tem todas as suas **Propriedades**, no entanto não podem ser usadas em **Ação Principal**, mas em condições que os **Talentos** propõe. Alguns são completamente estáticos, concedendo apenas [[Aspectos e Atributos]] ou peculiaridades adicionais a [[Ficha]], no entanto alguns podem acionados por atender condições, ao realizar outras **Ações**, e mesmo não sendo ativos podem ter **Custos**.
+
+---

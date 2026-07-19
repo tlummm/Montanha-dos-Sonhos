@@ -48,3 +48,5 @@ Modificadores impactam diretamente na **Precisão** das **Ações Interpretativa
 Os **Modificadores** são determinados exatamente igual aos **Adicionais de acumulo** de [[Aspectos e Atributos]], a cada 10 pontos de um **Atributo** é aumentado um **Modificador** naquelas categorias. Por exemplo, um **Personagem** com 10 pontos de **Ataque** teria um 1 valor adicional em seus **Testes Interpretativos** de intimidar, ser confiante, quebrar coisas e entre outros. 99 pontos garantem os **Testes** daquela categoria, mas pode ser vetado pelo **Mestre** ou exigirem **Crítico** em alguns cenários.
 
 É importante que ressaltar que por adversidades o **Personagem** pode ter esse **Efeito Negativado**, atrapalhando suas jogadas. Também existe **Modificadores Críticos**, que facilitam o valor máximo o reduzindo para menos de 20 no **d20**, como 19 em apenas um **Modificador Crítico** por exemplo.
+
+---

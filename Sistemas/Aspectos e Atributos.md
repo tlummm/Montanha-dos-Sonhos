@@ -84,3 +84,5 @@ Ao atingir o valor máximo de um **Atributo** (99 pontos):
 * **Domínio**: suas **Ações Principais** custam metade do seus **Custos** de **Mana** ou **Vida**;
 * **Espírito**: recebe metade do **Dano** e [[Efeitos]] que a fonte seja uma **Ação Principal**;
 * **Maestria**: seus **Acertos** normais em **Ações Principais** podem ser **Críticos**;
+
+---

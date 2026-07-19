@@ -18,3 +18,5 @@ A **Primeira Regra** é que: existem uma ordem de turnos, baseado no **Atributo*
 * **Fim de turno**: onde todos os [[Efeitos]] aplicados a você são reduzidos em **1** cada, o que também reduz a sua duração (até os zerar).
 
 **Última Regra**: no fim do **Combate**, seja por um lado vitorioso (zerando os pontos de **Vida** inimigos) ou uma interrupção, todos voltam para o **Plano de Interpretação**.
+
+---

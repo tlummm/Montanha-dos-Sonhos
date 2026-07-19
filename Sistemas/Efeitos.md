@@ -55,3 +55,5 @@
 * **Controle**: o **Turno** e **Ações** da **Unidade** é decidido por quem aplicou esse **Efeito**.
 * **Medo**: a **Unidade** é **Inutilizada**, como um **Atordoamento**, fazendo-o correr na direção oposta de quem aplicou esse **Efeito** (sempre distância máxima da **Velocidade**).
 * **Polimorfia**: se torna um **Monstro** perdendo todas as suas **Habilidades** pela as da transformação.
+
+---

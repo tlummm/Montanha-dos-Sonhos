@@ -500,3 +500,5 @@ Habilidade Física, Controle, Toque.
 **Precisão improvável** e **Custa** 33 pontos de **Mana**.
 
 O poder de torcer metal com as mãos. Realiza um **Ataque** com a metade do **Dano**, porém destruindo permanentemente **1d6** **Itens** equipados aleatórios do **Alvo**, exceto **Itens** de **Nível** 9 ou superior. Em **Acertos Críticos**, se torna **1d8** e pode priorizar **Ferramentas** primeiro. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
+
+---
