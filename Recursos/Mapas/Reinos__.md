@@ -102,7 +102,11 @@ Texto.
 
 Seus pontos de interesse são:
 
-1. **Texto**:
+1. **Balebus**: um grande deserto dentro de uma cratera continental;
+2. **Torre Mecânica**: um centro tecnológico, humano e antigo, sendo preservado no deserto de **Balebus** por motivos desconhecidos contra hiper fauna agressiva da região;
+3. **Recanto dos Inventores**: localizada na **Torre Mecânica**, onde maior parte das tecnologias são inventadas;
+4. **Oficina do Mundo**: é a base e parte interna da **Torre Mecânica** e se estende até grandes alturas, sendo um lugar proibido com tecnologias e segredos muito antigos;
+5. **Cidades Errantes**: são centopeias gigantes que abrigam seres humanos, uma vez por semana elas fazem contato direto com a **Torre Mecânica**, onde diferentes culturas trocam comércio;
 
 ### Texto
 

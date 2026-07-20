@@ -14,13 +14,11 @@ pseudo;
 
 # Economia
 
-# Predisposição e efeitos dela
+# Bestiário por tiers
 
 # Rituais
 
-# Tabela Periódica
-
-# Bestiário por tiers
+# Criação de criaturas e golens como uma classe
 
 # Novas Classes
 
@@ -28,10 +26,12 @@ pseudo;
 
 # Dádivas
 
+# Predisposição e efeitos de dádivas
+
 # Cultura
 
-# Lógica do 6
+# Montanha dos Sonhos 2.0 com lógica do 6
 
-# Montanha dos Sonhos 2.0
+# Tabela Periódica
 
 ---
