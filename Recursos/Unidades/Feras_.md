@@ -5,6 +5,11 @@
 
 É o nome dado a criaturas irracionais. Diferente de **Monstros**, não possuem pensamento abstrato avançado ou pensamento a longo prazo, tornando jogadas de [[Interpretação]] bem mais limitadas, principalmente a respeitar suas condições, entender seu ecossistemas e alimentação.
 
+---
+# Características
+
+### Nível
+
 As [[Feras_]] são separadas em **Níveis**. Os quatro primeiros **Níveis** catalogam animais existentes por tamanho e poder bruto:
 
 0. **Ínfimos**: como insetos, aracnídeos, vermes e entre outros;
@@ -16,15 +21,19 @@ As [[Feras_]] são separadas em **Níveis**. Os quatro primeiros **Níveis** cat
 
 Nos próximos **Níveis** feras começam a ser anormais, deixando de serem criaturas reais e comuns, ganhando **Mana** e **Habilidades**. São catalogadas por **Nível** de ameaça a **Humanos** que cada um dos indivíduos pode proporcionar:
 
-4. **Texto**: levemente superior aos limites **Humanos**;
-5. **Texto**: necessita de capacidades anormais;
+4. **Anomalia**: levemente superior aos limites **Humanos**;
+5. **Texto**: necessita de capacidades sobre-humanas;
 6. **Texto**: rivaliza com grupo de seres anormais;
-7. **Texto**: pode destruir uma cidade inteira;
-8. **Texto**: pode destruir cidades de um continente **Humano** inteiro;
-9. **Texto**: ameaça a própria **Humanidade**;
+7. **Desastre**: pode destruir uma cidade inteira;
+8. **Calamidade**: pode destruir cidades de um continente **Humano** inteiro;
+9. **Extinção**: ameaça a própria **Humanidade**;
 
 > **Observação**: seres a partir do **Nível** 7 possuem também todas as características e construções que um jogador poderia ter, com exceção de [[Itens_]].
+
+### Texto
 
 ---
 
 # Nível Inicial (Animais Ínfimos)
+
+### Texto
