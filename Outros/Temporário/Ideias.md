@@ -18,6 +18,8 @@ pseudo;
 
 # Rituais
 
+# Tesouro
+
 # Criação de criaturas e golens como uma classe
 
 # Novas Classes

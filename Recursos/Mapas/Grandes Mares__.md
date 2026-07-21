@@ -29,7 +29,7 @@ Mar Indomado - "Força Própria" - Onde fica a montanha dos sonhos
 
 Seus pontos de interesse são:
 
-1. **Texto**:
+1. **Texto**: texto;
 
 ### Texto
 
@@ -41,7 +41,7 @@ Texto.
 
 Seus pontos de interesse são:
 
-1. **Texto**:
+	1. **Texto**: texto;
 
 ### Texto
 
