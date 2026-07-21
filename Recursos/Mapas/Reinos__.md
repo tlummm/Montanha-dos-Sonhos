@@ -196,7 +196,7 @@ Seus pontos de interesse são:
 
 1. **Arquipélago Terror**: um conjunto de ilhas corrompidas, localizada no centro do **Reino**;
 2. **Montanha dos Sonhos**: a montanha que dá nome a história, localizada no centro do **Arquipélago Terror**;
-3. **Muro Sonambulo**: rodeando e protegendo a **Montanha dos Sonhos**, é tão alto quanto as nuvens;
+3. **Muro Sonâmbulo**: rodeando e protegendo a **Montanha dos Sonhos**, é tão alto quanto as nuvens;
 4. **Vale da Quietude**: um lugar silencioso com **Nulos** sob grandes encantamentos de sono, fica aos arredores do **Muro Sonambulo**;
 5. **Ordem dos Magi**: localizada na base da **Montanha dos Sonhos**;
 6. **Castelo Nulo**: localizada no topo da **Montanha dos Sonhos**;

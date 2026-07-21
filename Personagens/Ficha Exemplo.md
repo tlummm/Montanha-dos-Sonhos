@@ -17,24 +17,15 @@
 
 **Nível**: 0;
 
-**Pontos de Vida**: 0/0;
-**Pontos de Mana**: 0/0;
+**Pontos de Vida**: 00 / 00  —  **Pontos de Mana**: 00 / 00
 
 **Aspectos**:
-* **Agilidade**: 0;
-* **Força**: 0;
-* **Inteligência**: 0;
+* **Agilidade**: 00  —  **Força**: 00  —  **Inteligência**: 00
 
 **Primários**:
-* **Alcance**: 0;
-* **Ataque**: 0;
-* **Defesa**: 0;
-* **Domínio**: 0;
-* **Espírito**: 0;
-* **Maestria**: 0;
-* **Sorte**: 0;
-* **Velocidade**: 0;
-* **Vigor**: 0;
+* **Alcance**: 00  —  **Sorte**: 00  —  **Velocidade**: 00
+* **Ataque**: 00  —  **Defesa**: 00  —  **Vigor**: 00
+* **Domínio**: 00  —  **Espírito**: 00  —  **Maestria**: 00
 
 **Secundários**:
 * **Outros**: 0;

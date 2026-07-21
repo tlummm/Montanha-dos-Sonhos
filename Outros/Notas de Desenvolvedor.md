@@ -19,6 +19,9 @@ Ajustar **Itens**;
 git tag -a 0.0.1 -m "versão 0.0.1"
 git push origin 0.0.1
 
+// Deletar Tag
+git tag -d 0.0.1
+
 // Branch
 git checkout nome-da-branch
 

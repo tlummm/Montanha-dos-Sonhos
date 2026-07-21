@@ -37,11 +37,23 @@ Texto.
 
 ---
 
+# Mar Antigo
+
+Seus pontos de interesse são:
+
+1. **Fenda Abissal**: uma cratera subaquática que dá acesso aos seis [[Abismos__]];
+
+### Texto
+
+Texto.
+
+---
+
 # Mar Podre
 
 Seus pontos de interesse são:
 
-	1. **Texto**: texto;
+1. **Texto**: texto;
 
 ### Texto
 
