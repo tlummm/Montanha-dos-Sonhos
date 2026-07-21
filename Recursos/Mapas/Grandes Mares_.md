@@ -41,7 +41,7 @@ Texto.
 
 Seus pontos de interesse são:
 
-1. **Fenda Abissal**: uma cratera subaquática que dá acesso aos seis [[Abismos__]];
+1. **Fenda Abissal**: uma cratera subaquática que dá acesso aos seis [[Abismos_]];
 
 ### Texto
 

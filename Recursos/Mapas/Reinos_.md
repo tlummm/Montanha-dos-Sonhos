@@ -110,7 +110,7 @@ Seus pontos de interesse são:
 1. **Tellyerus**: o refúgio dos monstros;
 2. **Zay'Zut**: a savana celeste, repleta de blocos de terra flutuantes e cipós, que se parecem correntes, conectando as ilhas voadoras com o chão;
 3. **Colmeia Matriz**: a grande colmeia mãe de **Zay'Zut**, parecendo um império feito a mão, mas sendo um ápice da hiper fauna das bestas;
-4. **Arquipélago Celeste**: conjunto de ilhas voadoras que se mantem em constante movimento por todo o **Reino das Bestas**, sendo um atalho para os nove [[Céus__]];
+4. **Arquipélago Celeste**: conjunto de ilhas voadoras que se mantem em constante movimento por todo o **Reino das Bestas**, sendo um atalho para os nove [[Céus_]];
 5. **Anak**: a floresta de Behemoths;
 6. **Ninho da Serpes**: diversas ninhadas de criaturas dracônicas localizadas em **Anak**;
 7. **O Rebanho**: um estabulo monstruoso onde são reproduzidos, de forma planejada, diversas espécies de **Behemoths**, localizado em **Anak**;

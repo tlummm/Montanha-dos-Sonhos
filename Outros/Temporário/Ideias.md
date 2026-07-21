@@ -6,29 +6,32 @@
 # Sistema de talentos menores e maiores
 
 Ortodoxo, coração de leão, bárbaro, espirito de fênix, diácono, indecisão, duas caras, gêmeos.
+realeza;
 pseudo;
 
 ---
+
+# Bestiário por tiers
 
 # Lista de Materiais
 
 # Economia
 
-# Bestiário por tiers
-
 # Rituais
 
-# Tesouro
+# Tesouros
 
-# Criação de criaturas e golens como uma classe
+# Regra de tolerância a Efeitos
 
 # Novas Classes
 
-# Regra de tolerância a Efeitos
+# Classe curandeira principal
 
 # Dádivas
 
 # Predisposição e efeitos de dádivas
+
+# Criação de criaturas e golens como uma classe
 
 # Cultura
 

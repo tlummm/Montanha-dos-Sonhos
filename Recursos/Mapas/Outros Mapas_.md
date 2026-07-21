@@ -3,7 +3,7 @@
 
 ---
 
-Geralmente não fazem parte dos outros tipos de [[Mapas]], como por exemplo os polos de **Salon'Gar**, ou algumas ilhas que não fazem parte de [[Reinos__]], sendo eles:
+Geralmente não fazem parte dos outros tipos de [[Mapas]], como por exemplo os polos de **Salon'Gar**, ou algumas ilhas que não fazem parte de [[Reinos_]], sendo eles:
 
 1. **Libers**;
 2. **Criomors**;
@@ -17,7 +17,7 @@ Seus pontos de interesse são:
 
 1. **Capital de Libers**: primeira república e cidade mais rica do mundo;
 2. **Liga Clandestina**: um grupo obscuro de lutadores, valendo tudo;
-3. **Jardim do Colecionador**: um zoológico repleto de [[Feras__]] do mundo inteiro;
+3. **Jardim do Colecionador**: um zoológico repleto de [[Feras_]] do mundo inteiro;
 4. **Propriedade Dourada**: conjunto de cofres com joias e metais preciosos de todas as grandes **Guildas**;
 
 ---

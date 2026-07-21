@@ -557,7 +557,7 @@ Magia de Vento, Invocação, Local.
 
 **Precisão Garantida** e **Custa** 99 pontos de **Mana**.
 
-O poder quase divino de criar um céu. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos nove [[Céus__]] a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
+O poder quase divino de criar um céu. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos nove [[Céus_]] a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
 
 A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no mesmo **Local**. Só pode ser usada uma vez por **Sessão**. Usar essa **Habilidade** numa **Zona** criada e reconquistada por você faz com que a próxima **Zona** criada nesse local tudo esteja revelado e sobre o seu controle (apenas se **Zona** atual e a nova forem ambas feitas por **Criar Céu**).
 
@@ -567,7 +567,7 @@ Magia de Fogo, Invocação, Local.
 
 **Precisão Garantida** e **Custa** 99 pontos de **Mana**.
 
-O poder quase divino de criar um inferno. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos seis [[Abismos__]] a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
+O poder quase divino de criar um inferno. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos seis [[Abismos_]] a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
 
 A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no mesmo **Local**. Só pode ser usada uma vez por **Sessão**. Usar essa **Habilidade** numa **Zona** criada e reconquistada por você faz com que a próxima **Zona** criada nesse local tudo esteja revelado e sobre o seu controle (apenas se **Zona** atual e a nova forem ambas feitas por **Criar Inferno**).
 
@@ -577,7 +577,7 @@ Magia de Água, Invocação, Local.
 
 **Precisão Garantida** e **Custa** 99 pontos de **Mana**.
 
-O poder quase divino de criar um mar. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos nove [[Grandes Mares__]] a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
+O poder quase divino de criar um mar. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos nove [[Grandes Mares_]] a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
 
 A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no mesmo **Local**. Só pode ser usada uma vez por **Sessão**. Usar essa **Habilidade** numa **Zona** criada e reconquistada por você faz com que a próxima **Zona** criada nesse local tudo esteja revelado e sobre o seu controle (apenas se **Zona** atual e a nova forem ambas feitas por **Criar Mar**).
 
@@ -587,7 +587,7 @@ Magia de Terra, Invocação, Local.
 
 **Precisão Garantida** e **Custa** 99 pontos de **Mana**.
 
-O poder quase divino de criar um reino. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos nove [[Reinos__]] a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
+O poder quase divino de criar um reino. Essa **Habilidade** só pode ser usada em uma **Zona** completamente conquistada (**Chefes** e **Masmorras** concluídas, além de todos os locais visitados). O **Local** é completamente apagado e substituído por uma **Zona** de um dos nove [[Reinos_]] a sua escolha. Novos **Monstros**, **Itens**, **Recursos** e **Chefes** surgem desse local baseado em seu **Nível**. **Masmorras** não são criadas, mas ainda há **Oponentes** de **Elite**.
 
 A **Zona** precisa ser reconquistada para usar essa **Habilidade** novamente no mesmo **Local**. Só pode ser usada uma vez por **Sessão**. Usar essa **Habilidade** numa **Zona** criada e reconquistada por você faz com que a próxima **Zona** criada nesse local tudo esteja revelado e sobre o seu controle (apenas se **Zona** atual e a nova forem ambas feitas por **Criar Terra**).
 
