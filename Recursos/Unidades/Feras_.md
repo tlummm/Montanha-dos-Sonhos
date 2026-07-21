@@ -8,27 +8,34 @@
 ---
 # Características
 
-### Nível
+### Níveis
 
-As [[Feras_]] são separadas em **Níveis**. Os quatro primeiros **Níveis** catalogam animais existentes por tamanho e poder bruto:
+As [[Feras_]] são separadas em **Níveis**. Todas podem possuir **Talentos**. Os quatro primeiros **Níveis** catalogam animais existentes por tamanho ou peso:
 
 0. **Ínfimos**: como insetos, aracnídeos, vermes e entre outros;
 1. **Pequeno Porte**: como esquilos, ratos, pequenas aves e entre outros;
 2. **Porte Médio**: como aves de rapina, lobos, tigres e entre outros;
 3. **Grande Porte**: como elefantes, baleias, gorilas e entre outros;
 
-> **Observação**: esses seres além de possuírem ficha também possuem **Talentos**, mas não **Habilidades**, assim como também não possuem **Mana**.
-
-Nos próximos **Níveis** feras começam a ser anormais, deixando de serem criaturas reais e comuns, ganhando **Mana** e **Habilidades**. São catalogadas por **Nível** de ameaça a **Humanos** que cada um dos indivíduos pode proporcionar:
+Nos próximos três **Níveis** as feras começam a ser anormais, deixando de serem criaturas reais e comuns, tornando-se mais próximas a folclores, assim ganhando **Mana** e **Habilidades**. Como a sua natureza foge da lógica, os seus poderes não podem ser medidos por tamanho ou peso como se faz com os **Animais**. São catalogadas por **Nível** de ameaça, principalmente a **Humanos**, que cada um dos seus indivíduos pode proporcionar:
 
 4. **Anomalia**: levemente superior aos limites **Humanos**;
-5. **Texto**: necessita de capacidades sobre-humanas;
-6. **Texto**: rivaliza com grupo de seres anormais;
-7. **Desastre**: pode destruir uma cidade inteira;
-8. **Calamidade**: pode destruir cidades de um continente **Humano** inteiro;
-9. **Extinção**: ameaça a própria **Humanidade**;
+5. **Sobrenatural**: necessita de capacidades sobre-humanas;
+6. **Exceção**: rivaliza com grupo de seres anormais;
 
-> **Observação**: seres a partir do **Nível** 7 possuem também todas as características e construções que um jogador poderia ter, com exceção de [[Itens_]].
+Nos últimos três **Níveis** as **Feras** começam a apresentar características e poderes de grandes lendas do passado. Podem usufruir de todas as mesmas características que um **Jogador** poderia ter, com exceção de [[Itens_]]. São catalogadas por **Nível** de ameaça, principalmente a povoações **Humanas** inteiras, que cada um dos seus indivíduos pode proporcionar:
+
+7. **Desastre**: pode destruir uma civilização **Humana** inteira;
+8. **Calamidade**: pode destruir civilizações **Humanas** de um continente inteiro;
+9. **Extinção**: ameaça a própria existência de toda a **Humanidade**;
+
+### Texto
+
+### Texto
+
+### Texto
+
+### Texto
 
 ### Texto
 
@@ -36,4 +43,20 @@ Nos próximos **Níveis** feras começam a ser anormais, deixando de serem criat
 
 # Nível Inicial (Animais Ínfimos)
 
-### Texto
+### Nome
+
+**Natureza**: texto;
+**Meio**: texto;
+**Alimentação**: texto;
+
+**Temperamento**: texto;
+**Aparência**: texto;
+
+**Pontos de Vida**: 00 / 00  —  **Pontos de Mana**: 00 / 00
+
+**Alcance**: 00  —  **Sorte**: 00  —  **Velocidade**: 00
+**Ataque**: 00  —  **Defesa**: 00  —  **Vigor**: 00
+**Domínio**: 00  —  **Espírito**: 00  —  **Maestria**: 00
+
+[[Habilidades e Talentos]]:
+* **Texto**: texto;
