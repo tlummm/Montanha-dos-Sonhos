@@ -1,14 +1,9 @@
-> Texto do arquivo ainda em desenvolvimento;
-> Apenas Ignore tudo que está escrito neste documento.
-
----
-
 É o nome dado a criaturas irracionais. Diferente de **Monstros**, não possuem pensamento abstrato avançado ou pensamento a longo prazo, tornando jogadas de [[Interpretação]] bem mais limitadas, principalmente a respeitar suas condições, entender seu ecossistemas e alimentação.
 
 ---
 # Características
 
-### Níveis
+### Nível
 
 As [[Feras_]] são separadas em **Níveis**. Todas podem possuir **Talentos**. Os quatro primeiros **Níveis** catalogam animais existentes por tamanho ou peso:
 
@@ -29,15 +24,58 @@ Nos últimos três **Níveis** as **Feras** começam a apresentar característic
 8. **Calamidade**: pode destruir civilizações **Humanas** de um continente inteiro;
 9. **Extinção**: ameaça a própria existência de toda a **Humanidade**;
 
-### Texto
+### Escala
 
-### Texto
+Dentro de cada **Nível** há uma segunda separação, sendo também baseada em poder ou ameaça, só que de forma interna, como uma raridade entre [[Feras_]] daquele **Nível**, sendo:
 
-### Texto
+* **Normal**: o esperado de seu **Nível**;
+* **Elite**: valem três vezes um **Normal**;
+* **Chefe**: valem três vezes um **Elite**;
+* **Soberano**: valem três vezes um **Chefe**;
 
-### Texto
+### Natureza
 
-### Texto
+As criaturas, se não forem **Animais**, sempre possuem um **Celeste** dos [[Cinco poderes]] como sua origem que justifica sua existência fora da lógica. Os seres podem ter uma:
+
+* **Natureza Comum (Própria)**;
+* **Natureza Sagrada (Teurgia)**;
+* **Natureza Selvagem (Ânima)**;
+* **Natureza Sombria (Goécia)**;
+* **Natureza Mágica (Magia)**;
+
+### Meio
+
+São as formas que as criaturas se locomovem, além de ser o tipo de lugar em que vivem. Os **Meios** são:
+
+* **Terrestre**: caminha ou se rasteja;
+* **Aquático**: nada ou mergulha;
+* **Voador**: voa ou plana;
+
+> Dentro desses existem **Meios** especiais que fazem parte de um maior, como por exemplo **Arborícola** e **Subterrâneo** serem variações do **Terrestre**, assim como parasitas, que mesmo vivendo maior parte do tempo em hospedeiros e isso sendo um **Meio** especial, ainda assim possuem um **Meio** original para se locomover. Híbridos mencionam todos os **Meios** que tem afinidade.
+
+### Alimentação
+
+Criaturas podem se alimentar de vários tipos de comidas, inclusive outras criaturas, porém mesmo com um cardápio vasto possuem preferências e alimentos favoritos:
+
+* **Carnívoro**: comem outros animais;
+* **Herbívoro**: comem plantas;
+* **Onívoro**: comem plantas e outros animais;
+
+> Além desses tipos podem surgir alguns tipos mais raros como **Detritívoro** que só conseguem comer matéria em decomposição.
+
+### Temperamento
+
+[[Feras_]] possuem comportamentos, principalmente contra outras [[Unidades]]. Esses comportamentos podem variar conforme o **Temperamento** da criatura, o que define o seu estado inicial, principalmente em relação a **Humanos**. Os estados são:
+
+* **Fugidio**: foge ao avistar ou se aproximar;
+* **Dócil**: tenta se aproximar e criar uma relação;
+* **Pacífico**: ignora ou convive;
+* **Territorial**: ataca quem entrar em seu território;
+* **Hostil**: ataca quem entrar dentro dos seus sentidos;
+
+> Eles podem ter condições extras para alterar entre os estados no próprio **Temperamento**.
+
+> **Temperamento** é uma mecânica essencial para a [[Domesticação]].
 
 ---
 
