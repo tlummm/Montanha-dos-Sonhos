@@ -8,7 +8,10 @@
 Feras;
 Materiais;
 Fazer economia;
-Ajustar **Itens**;
+Ajustar **Itens** atuais;
+Lista de **Espadas**;
+Lista de **Conjuntos**;
+Lista de **Elmos**;
 
 ---
 

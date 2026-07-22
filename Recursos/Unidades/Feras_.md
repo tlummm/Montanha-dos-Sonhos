@@ -89,7 +89,7 @@ Criaturas podem se alimentar de vários tipos de comidas, inclusive outras criat
 
 **Natureza**: **Comum**, é um **Aracnídeo**;
 **Meio**: **Terrestre**;
-**Alimentação**: **Carnívora**, sua comida favorita são **Insetos** e não consomem comer alimentos dois **Níveis** superior a si;
+**Alimentação**: **Carnívora**, sua comida favorita são **Insetos** e não conseguem comer alimentos dois **Níveis** superior a si;
 
 **Temperamento**: **Territorial**, ataca apenas quem chega perto ou que está em seu caminho, torna-se **Hostil** ao ser atacada;
 **Aparência**: uma aranha negra com um corpo robusto que parece uma pequena armadura. Suas presas grandes, parecendo que perfuram unha e couro. Ergue o corpo e exibe as presas antes do bote;
@@ -98,12 +98,51 @@ Criaturas podem se alimentar de vários tipos de comidas, inclusive outras criat
 
 **Alcance**: 02  —  **Sorte**: 01  —  **Velocidade**: 01
 **Ataque**: 01  —  **Defesa**: 00  —  **Vigor**: 00
-**Domínio**: 00  —  **Espírito**: 01  —  **Maestria**: 01
+**Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
 
 [[Habilidades e Talentos]]:
 * **Bote**: [[Talentos Bestiais_]];
 * **Picada Dupla**: **Atacar** um alvo que já esteja sobre o **Efeito** do seu **Veneno Próprio** aumenta até o fim do [[Combate]] seu **Alcance** e **Ataque** em 1 e dobra a duração do veneno nele (após aplicar novamente).
 * **Veneno Próprio**: seus **Ataques** aplicam **1d6** **Efeitos** de uma propriedade única. A vitima afetada começa a precisar do dobro de acerto em seus **Testes** de **Ataque** quanto de **Ação Principal**, agora também tendo que fazer **Testes** com **Precisão Difícil** para poder usar **Ações de Movimento**. A cada 3 **Turnos** com esse **Efeito Único** a vitima recebe **2d20** de **Dano Mágico** e 1 **Efeito** de **Atordoamento**.
+
+### Camarão-pistola (Alpheidae)
+
+**Natureza**: Comum, é um **Crustáceo**;
+**Meio**: **Aquático**;
+**Alimentação**: **Carnívoro**, conseguem comer apenas **Feras** **Aquáticas** de mesmo **Nível** ou inferior. **Moluscos** são sua comida favorita.
+
+**Temperamento**: **Territorial**, defende sua toca na areia e ataca contra o que se aproxima. Repete o mesmo comportamento quando se aproximam dele;
+**Aparência**: um camarão minúsculo de corpo avermelhado, com uma garra desproporcionalmente grande que mantém sempre pronta, como um gatilho armado;
+
+**Pontos de Vida**: 02 / 02  —  **Pontos de Mana**: 00 / 00
+
+**Alcance**: 01  —  **Sorte**: 01  —  **Velocidade**: 03
+**Ataque**: 01  —  **Defesa**: 00  —  **Vigor**: 00
+**Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
+
+Habilidades e Talentos:
+* **Bater e Correr**: [[Talentos Bestiais_]];
+* **Grande Estalo**: seus **Ataques** executam outras **Feras** de mesmo **Nível** ou **Inferior**.
+
+### Cavalo-do-cão (Pepsis)
+
+**Natureza**: **Comum**, é um **Inseto**;
+**Meio**: **Voador**;
+**Alimentação**: **Carnívoro**, se alimenta apenas de **Aracnídeos**, sendo seu alimento favorito;
+
+**Temperamento**: Fugidio, só ataca se for atacada, mas também quando há muitas interações de toque a ela;
+**Aparência**: uma grande vespa de corpo azul metálico e asas laranja vivas, cores de aviso;
+
+**Pontos de Vida**: 04 / 04  —  **Pontos de Mana**: 00 / 00
+
+**Alcance**: 01  —  **Sorte**: 00  —  **Velocidade**: 06
+**Ataque**: 02  —  **Defesa**: 00  —  **Vigor**: 01
+**Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
+
+Habilidades e Talentos:
+* **Bater e Correr**: [[Talentos Bestiais_]];
+* **Caçadora de Aranhas**: seus **Ataques** executam **Feras** que sejam **Aracnídeos**, contanto que seja até 1 **Nível** superior;
+* **Veneno Próprio**: seus Ataques aplicam 1 **Efeito** de **Atordoamento**, funcionando apenas uma vez contra cada **Oponente** nesse [[Combate]];
 
 ### Escorpião-da-morte (Leiurus quinquestriatus)
 
@@ -116,15 +155,54 @@ Criaturas podem se alimentar de vários tipos de comidas, inclusive outras criat
 
 **Pontos de Vida**: 02 / 02  —  **Pontos de Mana**: 00 / 00
 
-**Alcance**: 01  —  **Sorte**: 01  —  **Velocidade**: 03
+**Alcance**: 01  —  **Sorte**: 01  —  **Velocidade**: 02
 **Ataque**: 01  —  **Defesa**: 00  —  **Vigor**: 00
-**Domínio**: 00  —  **Espírito**: 01  —  **Maestria**: 01
+**Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
 
 [[Habilidades e Talentos]]:
 * **Bater e Correr**: [[Talentos Bestiais_]];
 * **Veneno Próprio**: seus **Ataques** aplicam **1d6** **Efeitos** de uma propriedade única. A vitima a cada 3 **Turnos** com esse **Efeito Único** recebe **1d8** de **Dano Mágico**, mas se caso a vitima for **Nível** 1 ou inferior ela é executada. Essa execução também ocorre se a vitima for um filhote ou idoso, independente da espécie ou **Nível**, repetindo o mesmo também caso alguém esteja com menos de um quinto dos pontos de **Vida**;
 * **Camuflagem** em areias, desertos, lugares amarelos ou laranjas: [[Talentos Bestiais_]];
 
-Texto.
+### Polvo-de-anéis-azuis (Hapalochlaena maculosa)
+
+**Natureza**: **Comum**, é um **Molusco**;
+**Meio**: **Aquático**;
+**Alimentação**: **Carnívoro**, conseguem comer apenas **Feras** **Aquáticas** de mesmo **Nível** ou inferior. **Crustáceos** são sua comida favorita.
+
+**Temperamento**: Fugidio, só ataca se alguém se aproximar;
+**Aparência**: um polvo minúsculo, levemente maior que um olho, geralmente pardo e discreto. Anéis azuis vivos surgem em seu corpo apenas no instante de seu ataque;
+
+**Pontos de Vida**: 02 / 02  —  **Pontos de Mana**: 00 / 00
+
+**Alcance**: 00  —  **Sorte**: 01  —  **Velocidade**: 04
+**Ataque**: 01  —  **Defesa**: 00  —  **Vigor**: 00
+**Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
+
+Habilidades e Talentos:
+* **Bater e Correr**: [[Talentos Bestiais_]];
+* **Camuflagem** em recifes e poças de maré: [[Talentos Bestiais_]];
+* **Golpe Silencioso**: [[Talentos Bestiais_]];
+* **Veneno Próprio**: seus Ataques aplicam **1d20** **Efeitos** de uma propriedade única. A partir do segundo turno a vitima começa perder 1 ponto de **Vida** e **Mana** por **Turno**. No fim da duração, se se passaram pelo menos 5 **Turnos** com esse **Efeito** a vítima recebe **1d100**.
+
+### Vespa-carrasco (Polistes carnifex)
+
+**Natureza**: **Comum**, é um **Inseto**;
+**Meio**: **Voador**;
+**Alimentação**: **Carnívoro**, come apenas **Insetos**, sendo usa comida favorita;
+
+**Temperamento**: **Territorial**, defende o espaço ao redor de seu ninho e ataca quem se aproxima demais, inclusive dele, tornando-se Hostil quando seu **Temperamento** não é respeitado;
+**Aparência**: uma grande vespa amarela e alongada, com um ferrão afiado;
+
+**Pontos de Vida**: 03 / 03  —  **Pontos de Mana**: 00 / 00
+
+**Alcance**: 01  —  **Sorte**: 01  —  **Velocidade**: 05
+**Ataque**: 01  —  **Defesa**: 00  —  **Vigor**: 00
+**Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
+
+Habilidades e Talentos:
+* **Bater e Correr**: [[Talentos Bestiais_]];
+* **Enxame**: **1d4**;
+* **Veneno Próprio**: seus Ataques causam 2 **Efeitos** de **Sangramento**;
 
 ---
