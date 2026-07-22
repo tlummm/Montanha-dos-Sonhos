@@ -9,7 +9,14 @@ Ortodoxo, coração de leão, bárbaro, espirito de fênix, diácono, indecisão
 realeza;
 pseudo;
 
+# Bestiário
+Veneno de Escorpião-da-morte é valioso, o liquido mais caro do mundo;
+
+criaturas com golpes iguais a armas;
+
 ---
+
+# Caçador ter talentos bestiais
 
 # Bestiário por tiers
 
@@ -26,6 +33,8 @@ pseudo;
 # Novas Classes
 
 # Classe curandeira principal
+
+# Classe de Doma
 
 # Dádivas
 

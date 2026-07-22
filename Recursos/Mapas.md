@@ -5,6 +5,6 @@ Os **Mapas** de **Salon'Gar** são os trechos de terrenos onde as [[Unidades]] h
 3. [[Abismos_]];
 4. [[Reinos_]];
 
-> **Observação**: os lugares que não fazem parte desse quatro tipos são englobados em [[Outros Mapas_]].
+> Os lugares que não fazem parte desses quatro tipos são englobados em [[Outros Mapas_]].
 
 ---

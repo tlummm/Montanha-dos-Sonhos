@@ -16,9 +16,9 @@ São conjuntos de continentes e mares menores, com a proporção de tamanho seme
 9. **Reino Esquecido**;
 10. **Reino dos Pesadelos**;
 
-> **Primeira Observação**: a ordem de listagem dos **Reinos** é baseado em sua distância com o **Reino dos Homens**.
+> A ordem de listagem dos **Reinos** é baseado em sua distância com o **Reino dos Homens**.
 
-> **Segunda Observação**: entre a maioria dos que sabem sobre os **Reinos** a existência do **Reino dos Pesadelos** é desconhecida. Normalmente eles são mencionados como os **Nove Reinos**.
+> Entre a maioria dos que sabem sobre os **Reinos** a existência do **Reino dos Pesadelos** é desconhecida. Normalmente eles são mencionados como os **Nove Reinos**.
 
 ---
 

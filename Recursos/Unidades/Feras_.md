@@ -43,6 +43,8 @@ As criaturas, se não forem **Animais**, sempre possuem um **Celeste** dos [[Cin
 * **Natureza Sombria (Goécia)**;
 * **Natureza Mágica (Magia)**;
 
+> **Natureza Selvagem** também engloba **Natureza Comum**, sendo o **Comum** um represente de animais normais existentes, e o **Selvagem** das bestas folclóricas pertence aos **Deuses Selvagens**. No entanto **Deuses Selvagens** tem autoridade tanto sobre uma **Fera Selvagem** quanto a uma **Fera Comum**, apenas não afetando seres de outros **Celestes**.
+
 ### Meio
 
 São as formas que as criaturas se locomovem, além de ser o tipo de lugar em que vivem. Os **Meios** são:
@@ -75,26 +77,54 @@ Criaturas podem se alimentar de vários tipos de comidas, inclusive outras criat
 
 > Eles podem ter condições extras para alterar entre os estados no próprio **Temperamento**.
 
-> **Temperamento** é uma mecânica essencial para a [[Domesticação]].
+> **Temperamento** é uma mecânica essencial para a [[Domesticação_]].
 
 ---
 
 # Nível Inicial (Animais Ínfimos)
 
-### Nome
+> Todas as criaturas até o **Nível** 3 existem na realidade, mas estão levemente modificadas para **Salon'Gar**. 
 
-**Natureza**: texto;
-**Meio**: texto;
-**Alimentação**: texto;
+### Aranha-teia-de-funil (Atrax robustus)
 
-**Temperamento**: texto;
-**Aparência**: texto;
+**Natureza**: **Comum**, é um **Aracnídeo**;
+**Meio**: **Terrestre**;
+**Alimentação**: **Carnívora**, sua comida favorita são **Insetos** e não consomem comer alimentos dois **Níveis** superior a si;
 
-**Pontos de Vida**: 00 / 00  —  **Pontos de Mana**: 00 / 00
+**Temperamento**: **Territorial**, ataca apenas quem chega perto ou que está em seu caminho, torna-se **Hostil** ao ser atacada;
+**Aparência**: uma aranha negra com um corpo robusto que parece uma pequena armadura. Suas presas grandes, parecendo que perfuram unha e couro. Ergue o corpo e exibe as presas antes do bote;
 
-**Alcance**: 00  —  **Sorte**: 00  —  **Velocidade**: 00
-**Ataque**: 00  —  **Defesa**: 00  —  **Vigor**: 00
-**Domínio**: 00  —  **Espírito**: 00  —  **Maestria**: 00
+**Pontos de Vida**: 02 / 02  —  **Pontos de Mana**: 00 / 00
+
+**Alcance**: 02  —  **Sorte**: 01  —  **Velocidade**: 01
+**Ataque**: 01  —  **Defesa**: 00  —  **Vigor**: 00
+**Domínio**: 00  —  **Espírito**: 01  —  **Maestria**: 01
 
 [[Habilidades e Talentos]]:
-* **Texto**: texto;
+* **Bote**: [[Talentos Bestiais_]];
+* **Picada Dupla**: **Atacar** um alvo que já esteja sobre o **Efeito** do seu **Veneno Próprio** aumenta até o fim do [[Combate]] seu **Alcance** e **Ataque** em 1 e dobra a duração do veneno nele (após aplicar novamente).
+* **Veneno Próprio**: seus **Ataques** aplicam **1d6** **Efeitos** de uma propriedade única. A vitima afetada começa a precisar do dobro de acerto em seus **Testes** de **Ataque** quanto de **Ação Principal**, agora também tendo que fazer **Testes** com **Precisão Difícil** para poder usar **Ações de Movimento**. A cada 3 **Turnos** com esse **Efeito Único** a vitima recebe **2d20** de **Dano Mágico** e 1 **Efeito** de **Atordoamento**.
+
+### Escorpião-da-morte (Leiurus quinquestriatus)
+
+**Natureza**: **Comum**, é um **Aracnídeo**;
+**Meio**: **Terrestre**;
+**Alimentação**: **Carnívoro**, comendo apenas **Insetos** e outros **Aracnídeos** de mesmo **Nível**. Podem comer membros da própria espécie. Sua comida favorita são **Insetos**;
+
+**Temperamento**: **Territorial**, ataca apenas quem chega perto ou que está em seu caminho, torna-se **Fugidio** ao atacar;
+**Aparência**: um escorpião pequeno, amarelo como palha, quase invisível na areia;
+
+**Pontos de Vida**: 02 / 02  —  **Pontos de Mana**: 00 / 00
+
+**Alcance**: 01  —  **Sorte**: 01  —  **Velocidade**: 03
+**Ataque**: 01  —  **Defesa**: 00  —  **Vigor**: 00
+**Domínio**: 00  —  **Espírito**: 01  —  **Maestria**: 01
+
+[[Habilidades e Talentos]]:
+* **Bater e Correr**: [[Talentos Bestiais_]];
+* **Veneno Próprio**: seus **Ataques** aplicam **1d6** **Efeitos** de uma propriedade única. A vitima a cada 3 **Turnos** com esse **Efeito Único** recebe **1d8** de **Dano Mágico**, mas se caso a vitima for **Nível** 1 ou inferior ela é executada. Essa execução também ocorre se a vitima for um filhote ou idoso, independente da espécie ou **Nível**, repetindo o mesmo também caso alguém esteja com menos de um quinto dos pontos de **Vida**;
+* **Camuflagem** em areias, desertos, lugares amarelos ou laranjas: [[Talentos Bestiais_]];
+
+Texto.
+
+---

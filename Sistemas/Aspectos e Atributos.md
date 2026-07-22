@@ -70,7 +70,7 @@ A cada 10 pontos de um **Atributo**:
 * **Espírito**: aumenta a **Falha Crítica** nas **Ações Principais** contra você em 1;
 * **Maestria**: aumenta o **Acerto Crítico** em 1 em suas **Ações Principais**;
 
-**Observação**: a cada 10 pontos de um **Atributo** também aumenta o seu modificador em [[Interpretação]].
+> A cada 10 pontos de um **Atributo** também aumenta o seu modificador em [[Interpretação]].
 
 Ao atingir o valor máximo de um **Atributo** (99 pontos):
 * **Ataque**: você pode fazer que metade do seu **Dano** em **Ataques** se torne **Puro**;
