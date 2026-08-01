@@ -5,11 +5,11 @@
 
 ### Nível
 
-As [[Feras_]] são separadas em **Níveis**. Todas podem possuir **Talentos**. Os quatro primeiros **Níveis** catalogam animais existentes por tamanho ou peso:
+As [[Feras_]] são separadas em **Níveis**. Todas podem possuir **Talentos**. Os quatro primeiros **Níveis** catalogam animais existentes por tamanho, peso ou força bruta:
 
 0. **Ínfimos**: como insetos, aracnídeos, vermes e entre outros;
 1. **Pequeno Porte**: como esquilos, ratos, pequenas aves e entre outros;
-2. **Porte Médio**: como aves de rapina, lobos, tigres e entre outros;
+2. **Médio Porte**: como aves de rapina, lobos, tigres e entre outros;
 3. **Grande Porte**: como elefantes, baleias, gorilas e entre outros;
 
 Nos próximos três **Níveis** as feras começam a ser anormais, deixando de serem criaturas reais e comuns, tornando-se mais próximas a folclores, assim ganhando **Mana** e **Habilidades**. Como a sua natureza foge da lógica, os seus poderes não podem ser medidos por tamanho ou peso como se faz com os **Animais**. São catalogadas por **Nível** de ameaça, principalmente a **Humanos**, que cada um dos seus indivíduos pode proporcionar:
@@ -204,5 +204,11 @@ Habilidades e Talentos:
 * **Bater e Correr**: [[Talentos Bestiais_]];
 * **Enxame**: **1d4**;
 * **Veneno Próprio**: seus Ataques causam 2 **Efeitos** de **Sangramento**;
+
+---
+
+# Nível Inicial (Animais de Pequeno Porte)
+
+Texto
 
 ---

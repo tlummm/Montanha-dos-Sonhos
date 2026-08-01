@@ -44,6 +44,10 @@ criaturas com golpes iguais a armas;
 
 # Cultura
 
+# Automação
+
+# Pesquisa
+
 # Montanha dos Sonhos 2.0 com lógica do 6
 
 # Tabela Periódica
