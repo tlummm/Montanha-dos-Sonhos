@@ -1,71 +1,51 @@
-> Texto do arquivo ainda em desenvolvimento;
-> Apenas Ignore tudo que está escrito neste documento.
+São objetos que o seu poder ou funcionalidade escalam com o seu **Nível** e **Qualidade**. Eles podem ser armazenados no **Inventário**, e dependendo do seu **Tipo** podem ser **Equipados** ou **Consumidos**. Os tipos são:
 
----
+1. [[Equipamentos]]: podem ser equipados para somar seus **Atributos** e **Características** ao portador;
+2. [[Ferramentas]]: fazem o mesmo que os **Equipamentos**, porém podem adicionar **Dano** a **Ataques** ou ter **Funcionalidades** extras;
+3. [[Uso Único]]: são consumidos diretamente do inventário para cumprir o seu proposito;
 
-**Itens** são objetos que o seu poder ou funcionalidade escalam com o seu **Nível** e **Qualidade**. Eles podem ser armazenados no **Inventário**, e dependendo do **Tipo**, **Equipados** ou **Consumidos**. Os tipos são:
+### Nível
 
-1. **Equipamentos**: podem ser equipados para somar seus **Atributos** e **Características** ao portador;
-2. **Ferramentas**: fazem o mesmo que os **Equipamentos**, porém podem adicionar **Dano** a **Ataques** ou ter **Funcionalidades** extras;
-3. **Uso único**: são consumidos diretamente do inventário para cumprir o seu proposito;
-4. **Materiais**: ficam apenas armazenados no inventário e servem para criar outros **Itens**;
+Os [[Itens_]] são separadas em **Níveis**. Todos podem possuir **Atributos**. Os quatro primeiros **Níveis** catalogam objetos que podem existir na realidade, escalados por nível de confecção:
 
----
+0. **Tralha**: possuem 1 pontos de **Atributo Primário**;
+1. **Improvisado**: possuem 2 pontos de **Atributo Primário**;
+2. **Rudimentar**: possuem 3 pontos de **Atributo Primário**;
+3. **Artesão**: possuem 4 pontos de **Atributo Primário**;
 
-# Tipos de Ferramentas
+Nos próximos três **Níveis** os [[Itens_]] começam a ser anormais, deixando de serem objetos confeccionados com materiais reais, tornando-se mais próximos a lendas e mitos, assim ganhando **Aspectos**. Como a sua natureza foge da lógica, os seus poderes não podem ser medidos por confecção como se faz com **Objetos**:
 
-Texto.
+4. **Refinado**: possuem 5 pontos de **Atributo Primário** e 1 ponto de **Aspecto**;
+5. **Nobre**: possuem 7 pontos de **Atributo Primário** e 2 pontos de **Aspecto**;
+6. **Obra**: possuem 9 pontos de **Atributo Primário** e 3 pontos de **Aspecto**;
 
----
+Nos últimos três **Níveis** os [[Itens_]] começam a apresentar as características de relíquias de eras antigas. Agora podem possuir os **Recursos** mais fortes como os **Atributos Secundários**:
 
-# Armas
+7. **Magistral**: possuem 11 pontos de **Atributo Primário**, 4 pontos de **Aspecto** e 1 **Atributo Secundário**;
+8. **Real**: possuem 14 pontos de **Atributo Primário** e 6 pontos de **Aspecto** e 2 **Atributo Secundário**;
+9. **Heroico**: possuem 17 pontos de **Atributo Primário** e 8 pontos de **Aspecto** e 3 **Atributo Secundário**;
 
-Várias **Ferramentas** podem ser **Armas**, fazendo com que além de somarem seus **Atributos** e **Características** como um **Equipamento**, também possuem [[Tipos de Dano]], **Dano da Arma** e o mais importante, o escalonamento com **Nível**.
+> Além desses **Níveis** também possuem especiais e únicos como o 10, 11 e 12, sendo respectivamente **Celestial**, **Desejado** e **Cósmico**, que são valores inalcançáveis para mortais, embora possam manusear.
+> Também há um **Nível** acima de todos esses que são os **Destroços**, **Objetos** e **Estruturas** vinda de outras realidades ou mundos dentro do multiverso de **Naufrágio**.
 
-**Armas** podem ser de **Contusão**, **Corte** ou **Perfuração**, assim como os [[Tipos de Dano]] físico, além de também poderem serem um dos dois ou ambos (exemplo [[Alabardas_]], que algumas possuem os 3 **Tipos**). Os escalonamentos por **Tipos** de **Dano Físico** são:
+### Raridade
 
-1. **Contusão**: **Armas** desse **Tipo** causam **Efeitos** de **Redução** de **Defesa** igual ao **Nível** da **Arma**;
-2. **Corte**: **Armas** desse **Tipo** causam **Efeitos** de **Sangramento** igual ao **Nível** da **Arma**;
-3. **Perfuração**: **Armas** desse **Tipo** causam **Dano Puro** adicional igual ao **Nível** da **Arma**;
+[[Itens_]] possuem **Raridade**, sendo um **Nível** interno que aumentam a qualidade, dificuldade e **Preço** deles, sendo:
 
-A mão humana, ou uma anatomicamente semelhante, é considerada uma **Arma** de **Contusão**, causando esse **Tipo** de **Dano Físico**, no entanto não escala ou possui as peculiaridades de uma **Arma** de verdade. No entanto **Monstros** com garras e cascos podem ter **Ataques** com o corpo considerados como uma **Arma** real, seja de **Contusão**, **Corte** ou **Perfuração**, escalando com o seu **Nível** ao invés da **Ferramenta** (onde no caso o corpo é a própria **Ferramenta**).
+1. **Normal**: há em todos os **Níveis**, sendo a base de todos, fazendo com que eles possuem 1 **Talento**;
+2. **Raro**: podendo existir a partir do **Nível** de **Refinado**, faz com que eles também possuam 1 **Habilidade**;
+3. **Lendário**: podendo existir a partir do **Nível** de **Magistral**, faz com que eles, diferente dos anteriores, possam possuir qualquer quantidade de [[Habilidades e Talentos]];
+4. **Onírico**: existem apenas no **Nível** de **Heroico**, possuem [[Habilidades e Talentos]] em qualquer quantia, porém também possuem uma **Invocação** auxiliar ao **Dono**, chamada de **Ego**;
 
-Caso uma **Arma** possua dois **Tipos** de **Dano** ou mais, o seu portador escolhera apenas um **Tipo** para se beneficiar de escalonamentos durante aquele **Ataque**. E existe uma peculiaridade: **Armas** do **Tipo** **Perfuração** sempre podem causar **Cortes**, porém exigindo o dobro da dificuldade na **Precisão** e sendo uma possibilidade opcional por seu risco alto.
+> Só é possível um **Unidade** ter 1 **Ego** invocado por vez, podendo ser trocado como uma **Ação Principal** e não podendo ser usada novamente se feita no seu **Turno** anterior.
 
----
+### Preços
 
-# Tipos de Armas
+**Preços** de [[Itens_]] podem variar conforme a **Campanha**, no entanto eles seguem a uma lógica baseada em seu **Nível**. Normalmente um **Item** custa o seu **Nível** vezes 
 
-Texto.
-
----
-
-# Tipos de Equipamentos
-
-Texto.
-
----
-
-# Tipos de Uso Único
-
-Texto.
-
----
-
-# Tipos de Materiais
-
-**Itens** do tipo **Material** são usados para criação de outros **Itens** como **Equipamentos**, **Armas**, **Uso Único** e **Munições**. Também podem ser usadas em **Rituais**, **Encantamentos** e **Estruturas**, assim como também em [[Habilidades e Talentos]]. Normalmente eles concedem propriedades especiais ao **Item** que é fabricado os utilizando. **Materiais** são acumuláveis, ou seja, dois ou mais **Itens** do mesmo **Material** ocupam apenas um espaço no inventário. Atualmente existem 6 tipos de **Materiais**.
-
-Três são de origem biológica (**Orgânicos**):
-
-1. **Animal**;
-2. **Planta**;
-3. **Fungo**;
-
-Três são de origem não biológica (**Inorgânicos**):
-
-1. **Mineral**;
-2. **Substância**;
-3. **Artificial**;
+* **Normal**: o esperado de seu **Nível**;
+* **Elite**: valem três vezes um **Normal**;
+* **Chefe**: valem três vezes um **Elite**;
+* **Soberano**: valem três vezes um **Chefe**;
 
 ---

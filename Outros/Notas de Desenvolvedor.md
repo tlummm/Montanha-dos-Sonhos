@@ -5,13 +5,8 @@
 
 # A fazer
 
-Feras;
-Materiais;
-Fazer economia;
 Ajustar **Itens** atuais;
-Lista de **Espadas**;
-Lista de **Conjuntos**;
-Lista de **Elmos**;
+Fazer economia;
 
 ---
 

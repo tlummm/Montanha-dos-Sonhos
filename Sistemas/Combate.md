@@ -6,7 +6,7 @@ A **Primeira Regra** é que: existem uma ordem de turnos, baseado no **Atributo*
 
 **Segunda Regra**: cada turno de um **Jogador**, **NPC** ou **Monstro** possui três **Ações Controladas** em que sua ordem pode ser decidida livremente por seu **Usuário**.
 
-* **Ação de Movimento**: pode se mover pelo [[Tabuleiro.jpg]] em "casas" igual ao seu **Atributo** de **Velocidade** (as casas do tabuleiro correspondem a 1 metro quadrado).
+* **Ação de Movimento**: pode se mover pelo **Tabuleiro** em "casas" igual ao seu **Atributo** de **Velocidade** (as casas do tabuleiro correspondem a 1 metro quadrado).
 * **Ação de Ataque**: causa **Dano Físico** em um **Alvo** igual ao seu **Atributo** de **Ataque**, em um **Alcance** de 1 metro caso esteja **Desequipado** ou **Corpo a Corpo**. **Ataques** dessa **Ação** possuem **Precisão Normal**. **Ataques** a distância com armas de **Longo Alcance** possuem metade do **Dano** e **Efeitos**.
 * **Ação Principal**: pode usar uma das **Habilidades** ou **Itens**. **Itens**, se não mencionado, possuem por padrão **Precisão Normal**
 

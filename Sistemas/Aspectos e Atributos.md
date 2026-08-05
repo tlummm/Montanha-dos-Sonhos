@@ -8,8 +8,8 @@ Esse **Aspecto** se baseia em elementos chave como o **Alcance**, **Sorte** e **
 
 **Atributos**:
 1. **Alcance**: 1 metros de alcance adicional em [[Ações]] (exceto por **Corpo a Corpo** ou de **Movimento**);
-2. **Sorte**: 5 moedas de **Ouro** adicional (tanto na [[Criação de Personagem]] quanto ao ganhar em [[Feitos]]);
-3. **Velocidade**: 1 metro de distância a percorrer por **Turno** no [[Tabuleiro.jpg]];
+2. **Sorte**: 5 **Moedas** adicionais (tanto na [[Criação de Personagem]] quanto ao ganhar em [[Feitos]]);
+3. **Velocidade**: 1 metro de distância a percorrer por **Turno** no **Tabuleiro**;
 
 Um ponto de **Agilidade** sempre concede um ponto de **Alcance**, **Sorte** e **Velocidade** ao mesmo tempo.
 
@@ -78,7 +78,7 @@ Ao atingir o valor máximo de um **Atributo** (99 pontos):
 * **Vigor**: após todas as modificações positivas na sua **Vida Máxima** ela é dobrada;
 
 * **Alcance**: suas **Ações** de **Alvo** único tem **Alcance** e **Alvos** infinitos;
-* **Sorte**: pode escolher os **Itens** concedidos em [[Feitos]], porém ainda respeitando as regras da [[Progressão]];
+* **Sorte**: pode escolher os **Itens** concedidos em [[Feitos]], porém ainda respeitando as regras da [[Progressão_]];
 * **Velocidade**: você tem **Ações de Movimento** infinitas, porém sem **Ações Principais** nela, além que a distância dessas **Ações** é infinita;
 
 * **Domínio**: suas **Ações Principais** custam metade do seus **Custos** de **Mana** ou **Vida**;

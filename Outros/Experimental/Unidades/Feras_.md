@@ -12,7 +12,7 @@ As [[Feras_]] são separadas em **Níveis**. Todas podem possuir **Talentos**. O
 2. **Médio Porte**: como aves de rapina, lobos, tigres e entre outros;
 3. **Grande Porte**: como elefantes, baleias, gorilas e entre outros;
 
-Nos próximos três **Níveis** as feras começam a ser anormais, deixando de serem criaturas reais e comuns, tornando-se mais próximas a folclores, assim ganhando **Mana** e **Habilidades**. Como a sua natureza foge da lógica, os seus poderes não podem ser medidos por tamanho ou peso como se faz com os **Animais**. São catalogadas por **Nível** de ameaça, principalmente a **Humanos**, que cada um dos seus indivíduos pode proporcionar:
+Nos próximos três **Níveis** as [[Feras_]] começam a ser anormais, deixando de serem criaturas reais e comuns, tornando-se mais próximas a folclores, assim ganhando **Mana** e **Habilidades**. Como a sua natureza foge da lógica, os seus poderes não podem ser medidos por tamanho ou peso como se faz com os **Animais**. São catalogadas por **Nível** de ameaça, principalmente a **Humanos**, que cada um dos seus indivíduos pode proporcionar:
 
 4. **Anomalia**: levemente superior aos limites **Humanos**;
 5. **Sobrenatural**: necessita de capacidades sobre-humanas;
@@ -101,7 +101,7 @@ Criaturas podem se alimentar de vários tipos de comidas, inclusive outras criat
 **Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
 
 [[Habilidades e Talentos]]:
-* **Bote**: [[Talentos Bestiais_]];
+* **Bote**: [[Talentos Gerais]];
 * **Picada Dupla**: **Atacar** um alvo que já esteja sobre o **Efeito** do seu **Veneno Próprio** aumenta até o fim do [[Combate]] seu **Alcance** e **Ataque** em 1 e dobra a duração do veneno nele (após aplicar novamente).
 * **Veneno Próprio**: seus **Ataques** aplicam **1d6** **Efeitos** de uma propriedade única. A vitima afetada começa a precisar do dobro de acerto em seus **Testes** de **Ataque** quanto de **Ação Principal**, agora também tendo que fazer **Testes** com **Precisão Difícil** para poder usar **Ações de Movimento**. A cada 3 **Turnos** com esse **Efeito Único** a vitima recebe **2d20** de **Dano Mágico** e 1 **Efeito** de **Atordoamento**.
 
@@ -121,7 +121,7 @@ Criaturas podem se alimentar de vários tipos de comidas, inclusive outras criat
 **Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
 
 Habilidades e Talentos:
-* **Bater e Correr**: [[Talentos Bestiais_]];
+* **Bater e Correr**: [[Talentos Gerais]];
 * **Grande Estalo**: seus **Ataques** executam outras **Feras** de mesmo **Nível** ou **Inferior**.
 
 ### Cavalo-do-cão (Pepsis)
@@ -140,7 +140,7 @@ Habilidades e Talentos:
 **Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
 
 Habilidades e Talentos:
-* **Bater e Correr**: [[Talentos Bestiais_]];
+* **Bater e Correr**: [[Talentos Gerais]];
 * **Caçadora de Aranhas**: seus **Ataques** executam **Feras** que sejam **Aracnídeos**, contanto que seja até 1 **Nível** superior;
 * **Veneno Próprio**: seus Ataques aplicam 1 **Efeito** de **Atordoamento**, funcionando apenas uma vez contra cada **Oponente** nesse [[Combate]];
 
@@ -160,9 +160,9 @@ Habilidades e Talentos:
 **Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
 
 [[Habilidades e Talentos]]:
-* **Bater e Correr**: [[Talentos Bestiais_]];
+* **Bater e Correr**: [[Talentos Gerais]];
 * **Veneno Próprio**: seus **Ataques** aplicam **1d6** **Efeitos** de uma propriedade única. A vitima a cada 3 **Turnos** com esse **Efeito Único** recebe **1d8** de **Dano Mágico**, mas se caso a vitima for **Nível** 1 ou inferior ela é executada. Essa execução também ocorre se a vitima for um filhote ou idoso, independente da espécie ou **Nível**, repetindo o mesmo também caso alguém esteja com menos de um quinto dos pontos de **Vida**;
-* **Camuflagem** em areias, desertos, lugares amarelos ou laranjas: [[Talentos Bestiais_]];
+* **Camuflagem** em areias, desertos, lugares amarelos ou laranjas: [[Talentos Gerais]];
 
 ### Polvo-de-anéis-azuis (Hapalochlaena maculosa)
 
@@ -180,9 +180,9 @@ Habilidades e Talentos:
 **Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
 
 Habilidades e Talentos:
-* **Bater e Correr**: [[Talentos Bestiais_]];
-* **Camuflagem** em recifes e poças de maré: [[Talentos Bestiais_]];
-* **Golpe Silencioso**: [[Talentos Bestiais_]];
+* **Bater e Correr**: [[Talentos Gerais]];
+* **Camuflagem** em recifes e poças de maré: [[Talentos Gerais]];
+* **Golpe Silencioso**: [[Talentos Gerais]];
 * **Veneno Próprio**: seus Ataques aplicam **1d20** **Efeitos** de uma propriedade única. A partir do segundo turno a vitima começa perder 1 ponto de **Vida** e **Mana** por **Turno**. No fim da duração, se se passaram pelo menos 5 **Turnos** com esse **Efeito** a vítima recebe **1d100**.
 
 ### Vespa-carrasco (Polistes carnifex)
@@ -201,7 +201,7 @@ Habilidades e Talentos:
 **Domínio**: 00  —  **Espírito**: 03  —  **Maestria**: 01
 
 Habilidades e Talentos:
-* **Bater e Correr**: [[Talentos Bestiais_]];
+* **Bater e Correr**: [[Talentos Gerais]];
 * **Enxame**: **1d4**;
 * **Veneno Próprio**: seus Ataques causam 2 **Efeitos** de **Sangramento**;
 
