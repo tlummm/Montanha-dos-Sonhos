@@ -5,7 +5,7 @@
 
 # A fazer
 
-Ajustar **Itens** atuais;
+Ajustar [[Itens_]] atuais;
 Fazer economia;
 
 ---

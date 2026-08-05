@@ -3,12 +3,12 @@
 
 ---
 
-**Itens** são objetos que o seu poder ou funcionalidade escalam com o seu **Nível** e **Qualidade**. Eles podem ser armazenados no **Inventário**, e dependendo do **Tipo**, **Equipados** ou **Consumidos**. Os tipos são:
+São objetos que o seu poder ou funcionalidade escalam com o seu **Nível** e **Qualidade**. Eles podem ser armazenados no **Inventário**, e dependendo do **Tipo**, **Equipados** ou **Consumidos**. Os tipos são:
 
 1. **Equipamentos**: podem ser equipados para somar seus **Atributos** e **Características** ao portador;
 2. **Ferramentas**: fazem o mesmo que os **Equipamentos**, porém podem adicionar **Dano** a **Ataques** ou ter **Funcionalidades** extras;
 3. **Uso único**: são consumidos diretamente do inventário para cumprir o seu proposito;
-4. **Materiais**: ficam apenas armazenados no inventário e servem para criar outros **Itens**;
+4. **Materiais**: ficam apenas armazenados no inventário e servem para criar outros [[Itens_]];
 
 ---
 
@@ -54,7 +54,7 @@ Texto.
 
 # Tipos de Materiais
 
-**Itens** do tipo **Material** são usados para criação de outros **Itens** como **Equipamentos**, **Armas**, **Uso Único** e **Munições**. Também podem ser usadas em **Rituais**, **Encantamentos** e **Estruturas**, assim como também em [[Habilidades e Talentos]]. Normalmente eles concedem propriedades especiais ao **Item** que é fabricado os utilizando. **Materiais** são acumuláveis, ou seja, dois ou mais **Itens** do mesmo **Material** ocupam apenas um espaço no inventário. Atualmente existem 6 tipos de **Materiais**.
+[[Itens_]] do tipo **Material** são usados para criação de outros [[Itens_]] como **Equipamentos**, **Armas**, **Uso Único** e **Munições**. Também podem ser usadas em **Rituais**, **Encantamentos** e **Estruturas**, assim como também em [[Habilidades e Talentos]]. Normalmente eles concedem propriedades especiais ao **Item** que é fabricado os utilizando. **Materiais** são acumuláveis, ou seja, dois ou mais [[Itens_]] do mesmo **Material** ocupam apenas um espaço no inventário. Atualmente existem 6 tipos de **Materiais**.
 
 Três são de origem biológica (**Orgânicos**):
 

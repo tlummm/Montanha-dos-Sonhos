@@ -8,7 +8,7 @@ A **Primeira Regra** é que: existem uma ordem de turnos, baseado no **Atributo*
 
 * **Ação de Movimento**: pode se mover pelo **Tabuleiro** em "casas" igual ao seu **Atributo** de **Velocidade** (as casas do tabuleiro correspondem a 1 metro quadrado).
 * **Ação de Ataque**: causa **Dano Físico** em um **Alvo** igual ao seu **Atributo** de **Ataque**, em um **Alcance** de 1 metro caso esteja **Desequipado** ou **Corpo a Corpo**. **Ataques** dessa **Ação** possuem **Precisão Normal**. **Ataques** a distância com armas de **Longo Alcance** possuem metade do **Dano** e **Efeitos**.
-* **Ação Principal**: pode usar uma das **Habilidades** ou **Itens**. **Itens**, se não mencionado, possuem por padrão **Precisão Normal**
+* **Ação Principal**: pode usar uma das **Habilidades** ou [[Itens_]]. [[Itens_]], se não mencionado, possuem por padrão **Precisão Normal**
 
 > Assim como quem está jogando pode decidir passar o **Turno**, ele também pode decidir só realizar **Ações** que quiser. Um **Turno** é abruptamente finalizado com um **Erro Crítico** (1 no **d20**)
 

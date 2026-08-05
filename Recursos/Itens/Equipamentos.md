@@ -1,4 +1,4 @@
-**Equipamentos** são **Itens** que podem ser anexados em partes do corpo de **Jogadores** ou **NPCs**, e até alguns casos também por **Monstros**. Não é possível equipar um **Item** em uma parte se outro já estiver equipado naquele mesmo anexo.
+**Equipamentos** são [[Itens_]] que podem ser anexados em partes do corpo de **Jogadores** ou **NPCs**, e até alguns casos também por **Monstros**. Não é possível equipar um **Item** em uma parte se outro já estiver equipado naquele mesmo anexo.
 
 ---
 
@@ -14,7 +14,7 @@ Talvez seja caro, talvez seja falsificado, e ninguém consegue dar um valor exat
 
 Equipamento, Elmo.
 
-O maior símbolo de um fazendeiro. Aumenta a **Velocidade** em 5. Você tem uma chance adicional de receber **Itens** ao **Saquear**, sendo **Precisão Improvável**.
+O maior símbolo de um fazendeiro. Aumenta a **Velocidade** em 5. Você tem uma chance adicional de receber [[Itens_]] ao **Saquear**, sendo **Precisão Improvável**.
 
 ### Luvas do Lenhador
 
@@ -88,7 +88,7 @@ Uma peça de armadura preferida tanto por duelistas quanto os astutos. Aumenta o
 
 Equipamento, Mochila.
 
-Há um série de compartimentos extras para não faltar nada. Oferece 5 espaços de **Item** no **Inventário**, e mais 5 espaços exclusivamente para **Itens** do **Tipo** **Consumível**.
+Há um série de compartimentos extras para não faltar nada. Oferece 5 espaços de **Item** no **Inventário**, e mais 5 espaços exclusivamente para [[Itens_]] do **Tipo** **Consumível**.
 
 ### Conjunto: Armadura de Ferro
 
@@ -124,7 +124,7 @@ As técnicas e tecnologias por trás dessa obra prima fazem ela parecer mais lev
 
 Equipamento, Pescoço.
 
-Tudo o que é necessário, esculpido em prata. Aumenta a **Crítico**, **Defesa** e **Liderança** em 1. As propriedades desse **Item** são dobradas se outro **Jogador** também o tiver equipado. Múltiplos **Itens** não acumulam.
+Tudo o que é necessário, esculpido em prata. Aumenta a **Crítico**, **Defesa** e **Liderança** em 1. As propriedades desse **Item** são dobradas se outro **Jogador** também o tiver equipado. Múltiplos [[Itens_]] não acumulam.
 
 ---
 
@@ -202,7 +202,7 @@ Equipamentos Encantados, Compostos por: Elmo, Torso, Ombreiras, Mãos, Pernas, P
 
 Para um patrulheiro o ciclo da natureza é a coisa mais importante de todas. Cada parte aumenta o **Alcance**, **Ataque** e **Velocidade** em 1.
 
-Conjunto Completo: Pode domesticar um **Monstro** de **Nível** 5 ou inferior, se ele estiver com menos de um quarto dos pontos de **Vida**. Só pode ter 1 por esse efeito, os **Itens** desse **Conjunto** tem o **Monstro** anotado, porém não é necessário continuar equipado para o controlar.
+Conjunto Completo: Pode domesticar um **Monstro** de **Nível** 5 ou inferior, se ele estiver com menos de um quarto dos pontos de **Vida**. Só pode ter 1 por esse efeito, os [[Itens_]] desse **Conjunto** tem o **Monstro** anotado, porém não é necessário continuar equipado para o controlar.
 
 ### Conjunto: Revestimento do Sacerdote
 
@@ -286,7 +286,7 @@ Magias de solidariedade pura solidificadas em um bracelete. Seus erros **Crític
 
 Equipamento Rúnico, Mochila.
 
-Um pequeno bolso, porém com runas para comerciantes venderem seus pertences assim que os guardar. Oferece 15 espaços de **Item** no **Inventário**. Você pode vender **Itens** armazenados nesta **Mochila** para qualquer **Comerciante** que já tenha visitado.
+Um pequeno bolso, porém com runas para comerciantes venderem seus pertences assim que os guardar. Oferece 15 espaços de **Item** no **Inventário**. Você pode vender [[Itens_]] armazenados nesta **Mochila** para qualquer **Comerciante** que já tenha visitado.
 
 ### Coleira do Domador de Feras
 
@@ -412,7 +412,7 @@ A manopla se ajuste perfeitamente a mão, assim dando o poder levantar qualquer 
 
 Equipamento Eterno, Mochila.
 
-Um universo inteiro pode ser guardado nessa pequena mochila. Você não pode sofrer **Banimento** ou **Polimorfia**. Oferece infinitos espaços de **Item** no **Inventário**, podendo armazenar tanto **Itens** quanto **Monstros**, **NPCs**, **Estruturas** e **Jogadores**. **Jogadores** armazenados podem sair no momento que quiserem ou quando você quiser.
+Um universo inteiro pode ser guardado nessa pequena mochila. Você não pode sofrer **Banimento** ou **Polimorfia**. Oferece infinitos espaços de **Item** no **Inventário**, podendo armazenar tanto [[Itens_]] quanto **Monstros**, **NPCs**, **Estruturas** e **Jogadores**. **Jogadores** armazenados podem sair no momento que quiserem ou quando você quiser.
 
 ### Manto das Sombras
 

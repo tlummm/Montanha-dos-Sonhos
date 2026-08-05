@@ -203,7 +203,7 @@ Habilidade Física Interpretativa, Utilidade, Toque.
 
 **Precisão Garantida** e **Custa** 10 pontos de **Mana**.
 
-Seus estudos sobre armas e armaduras te concedeu a capacidade de extrair o máximo de cada ferramenta. Aumenta a **Precisão** de sua próxima ação **Percepção** em 2, mas apenas quando relacionado a **Equipamentos**. Essa **Habilidade** também pode ser usada para aumentar cada **Atributo** de um **Equipamento** em 1 permanentemente, mas apenas uma vez para cada **Item** com nome único (todos os **Itens** com um nome reconhecido também vão receber esse aumento). 
+Seus estudos sobre armas e armaduras te concedeu a capacidade de extrair o máximo de cada ferramenta. Aumenta a **Precisão** de sua próxima ação **Percepção** em 2, mas apenas quando relacionado a **Equipamentos**. Essa **Habilidade** também pode ser usada para aumentar cada **Atributo** de um **Equipamento** em 1 permanentemente, mas apenas uma vez para cada **Item** com nome único (todos os [[Itens_]] com um nome reconhecido também vão receber esse aumento). 
 
 ---
 
@@ -263,7 +263,7 @@ Habilidade Física, Ofensivo, Projétil.
 
 Muitos não conseguem explicar como em cada arremesso suas armas sempre retornam magicamente para a sua mão. Arremessa sua **Arma** em um **Oponente** dentro do **Alcance**, causando metade do **Dano** como se tivesse aquele **Equipamento** como **Arma**. Pode atingir até mais dois **Oponentes** dentro do seu **Alcance**, fazendo com que a **Arma** retorne equipada em sua **Mão** no final do trajeto.
 
-Pode ser usado com **Precisão Garantida** e **Custo** 7 pontos de **Mana** em **Planos de Interpretação** para arremessar sua **Arma** e ela voltar para sua **Mão**, podendo coletar **Itens** a distância, ou até começar um **Combate** já causando seu **Ataque** inteiro em até 3 **Oponentes**, independente da distância.
+Pode ser usado com **Precisão Garantida** e **Custo** 7 pontos de **Mana** em **Planos de Interpretação** para arremessar sua **Arma** e ela voltar para sua **Mão**, podendo coletar [[Itens_]] a distância, ou até começar um **Combate** já causando seu **Ataque** inteiro em até 3 **Oponentes**, independente da distância.
 
 ### Combate Versátil
 
@@ -277,7 +277,7 @@ Habilidade Física, Defensivo e Ofensivo, Individual.
 
 **Precisão Normal**, **Custa** 11 pontos de **Mana**.
 
-Um estado de fúria, esquecendo completamente toda disciplina e anos de treino, confiando apenas na sua força e ódio. Entra em um outro **Estado**, se silenciando permanentemente e não podendo usar **Itens** como **Ação**. Nesse **Estado** você recebe metade do **Dano** e **Efeitos** por **Habilidades** e **Itens**, além de sempre no fim do seu **Turno** realizar um **Ataque** básico, sem consumir **Ação**, e todos os seus **Ataques** atingirem todos os **Oponentes** dentro do **Alcance**. Esse estado **Custa** **1d4** pontos de **Mana** cada fim de **Turno** para se manter, e pode ser desativado optando por não pagar o **Custo** adicional.
+Um estado de fúria, esquecendo completamente toda disciplina e anos de treino, confiando apenas na sua força e ódio. Entra em um outro **Estado**, se silenciando permanentemente e não podendo usar [[Itens_]] como **Ação**. Nesse **Estado** você recebe metade do **Dano** e **Efeitos** por **Habilidades** e [[Itens_]], além de sempre no fim do seu **Turno** realizar um **Ataque** básico, sem consumir **Ação**, e todos os seus **Ataques** atingirem todos os **Oponentes** dentro do **Alcance**. Esse estado **Custa** **1d4** pontos de **Mana** cada fim de **Turno** para se manter, e pode ser desativado optando por não pagar o **Custo** adicional.
 
 Pode ser usado com **Precisão Garantida** e **Custo** 6 pontos de **Mana** em **Planos de Interpretação** para também entrar nesse **Estado**, porém também ganhando 5 de **Crítico** em **Ações de Interpretação** envolvendo **Intimidação**. No começo de **Combate** se esse **Estado** já estiver ativo ele não pode ser desativado no seu primeiro **Turno**.
 
@@ -499,6 +499,6 @@ Habilidade Física, Controle, Toque.
 
 **Precisão improvável** e **Custa** 33 pontos de **Mana**.
 
-O poder de torcer metal com as mãos. Realiza um **Ataque** com a metade do **Dano**, porém destruindo permanentemente **1d6** **Itens** equipados aleatórios do **Alvo**, exceto **Itens** de **Nível** 9 ou superior. Em **Acertos Críticos**, se torna **1d8** e pode priorizar **Ferramentas** primeiro. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
+O poder de torcer metal com as mãos. Realiza um **Ataque** com a metade do **Dano**, porém destruindo permanentemente **1d6** [[Itens_]] equipados aleatórios do **Alvo**, exceto [[Itens_]] de **Nível** 9 ou superior. Em **Acertos Críticos**, se torna **1d8** e pode priorizar **Ferramentas** primeiro. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
 
 ---
