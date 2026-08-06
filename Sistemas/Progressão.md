@@ -8,6 +8,6 @@ O **Jogador** recebe mais 3 pontos de [[Aspectos e Atributos]] para distribu
 
 [[Feitos]] na **Interpretação** podem resultar em aumentos permanentes em [[Aspectos e Atributos]] ou até mesmo a subida de **Nível**. Alguns eventos **Interpretativos** podem ter o mesmo peso que uma luta de **Chefe**.
 
-> Além da progressão em **Nível** há as [[Recompensas]].
+> Além da progressão em **Nível** há as [[Recompensas_]].
 
 ---

@@ -2,7 +2,9 @@ São méritos extras concedidos aos **Jogadores** ao realizarem [[Feitos]], como
 
 ### Recompensas Maiores
 
-Um **Chefe** derrotado sempre concede 5 [[Itens]] arremessando **1d20** para cada um deles. A **Falha Crítica** resulta em um **Item** de **1 Nível** abaixo dele. **Acerto Crítico** resulta em um **Item** de **1 Nível** acima dele. Valores normais são sempre um **Item** do mesmo **Nível** do **Chefe**. Essas jogadas de **Dados** e a quantidade podem ser influenciadas pelo **Atributo** e **Modificador** de **Sorte**.
+//Um **Chefe** derrotado sempre concede 5 [[Itens]] arremessando **1d20** para cada um deles. A **Falha Crítica** resulta em um **Item** de raridade **Normal**, ou se for a única disponível, um **Item** de **Nível** inferior. **Acerto Crítico** resulta em um **Item** de maior raridade possível dentro do seu **Nível**, com exceção que não poder dropar **Oníricos**. Valores normais são sempre um **Item** do mesmo **Nível** do **Chefe**. Essas jogadas de **Dados** e a quantidade podem ser influenciadas pelo **Atributo** e **Modificador** de **Sorte**.
+
+> **Soberanos** derrotados concedem 10 [[Itens]] de melhor raridade garantida, mas dentro do **Nível** dele.
 
 ### Recompensas Médias
 
@@ -20,6 +22,6 @@ Um **Chefe** derrotado sempre concede 5 [[Itens]] arremessando **1d20** para cad
 
 **Oponentes** concedem **Moedas** se forem **Racionais**, no entanto esse ganho é situacional contra [[Feras_]], mas pode depender do veredito do **Mestre**. Ele pode pedir **Testes**, além de determinar a **Categoria** e **Precisão**, também podendo reduzir ou aumentar essa quantia, baseado na [[Regra de Ouro]].
 
-> Mais detalhes sobre **Moedas** e suas quantias em [[Economia_]].
+> Mais detalhes sobre **Moedas** e suas quantias em [[Economia]].
 
 ---

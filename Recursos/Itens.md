@@ -37,6 +37,8 @@ Nos últimos três **Níveis** os [[Itens]] começam a apresentar as caracterís
 3. **Lendário**: podendo existir a partir do **Nível** de **Magistral**, faz com que eles, diferente dos anteriores, possam possuir qualquer quantidade de [[Habilidades e Talentos]];
 4. **Onírico**: existem apenas no **Nível** de **Heroico**, possuem [[Habilidades e Talentos]] em qualquer quantia, porém também possuem uma **Invocação** auxiliar ao **Dono**, chamada de **Ego**;
 
+> Raridade também aumenta levemente as características dos [[Itens]] como por exemplo os **Atributos**, **Aspectos**, **Secundários** e entre outros.
+
 > Só é possível um **Unidade** ter 1 **Ego** invocado por vez, podendo ser trocado como uma **Ação Principal** e não podendo ser usada novamente se feita no seu **Turno** anterior.
 
 ---
