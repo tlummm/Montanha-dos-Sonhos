@@ -18,7 +18,7 @@ Nos próximos três **Níveis** as [[Feras_]] começam a ser anormais, deixando 
 5. **Sobrenatural**: necessita de capacidades sobre-humanas;
 6. **Exceção**: rivaliza com grupo de seres anormais;
 
-Nos últimos três **Níveis** as **Feras** começam a apresentar características e poderes de grandes lendas do passado. Podem usufruir de todas as mesmas características que um **Jogador** poderia ter, com exceção de [[Itens_]]. São catalogadas por **Nível** de ameaça, principalmente a povoações **Humanas** inteiras, que cada um dos seus indivíduos pode proporcionar:
+Nos últimos três **Níveis** as **Feras** começam a apresentar características e poderes de grandes lendas do passado. Podem usufruir de todas as mesmas características que um **Jogador** poderia ter, com exceção de [[Itens]]. São catalogadas por **Nível** de ameaça, principalmente a povoações **Humanas** inteiras, que cada um dos seus indivíduos pode proporcionar:
 
 7. **Desastre**: pode destruir uma civilização **Humana** inteira;
 8. **Calamidade**: pode destruir civilizações **Humanas** de um continente inteiro;

@@ -1,6 +1,6 @@
 # Habilidades
 
-As **Habilidades** são como o coração de **Personagens**, graças ao fator de serem **Ações Principais** que podem ser feitas tanto por **Jogadores**, **NPCs**, **Monstros** e até por objetos como [[Itens_]] e **Estruturas**. No entanto essa **Ações** possuem certos padrões e regras, além de serem totalmente baseada nas [[Classes]].
+As **Habilidades** são como o coração de **Personagens**, graças ao fator de serem **Ações Principais** que podem ser feitas tanto por **Jogadores**, **NPCs**, **Monstros** e até por objetos como [[Itens]] e **Estruturas**. No entanto essa **Ações** possuem certos padrões e regras, além de serem totalmente baseada nas [[Classes]].
 
 ---
 

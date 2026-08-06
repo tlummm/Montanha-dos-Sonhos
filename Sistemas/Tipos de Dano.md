@@ -16,7 +16,7 @@ Sobre os **Danos** normais, **Físico** e **Mágico**, mesmo que a mitigação
 
 # Dano Mágico
 
-É um tipo de **Dano** bem variado, porém raro entre as [[Classes]]. É causado por [[Itens_]] e **Habilidades** baseados em **Magia**. Magias possuem muitos tipos e eles escalam com o número de **Magias** conhecidas em **Montanha dos Sonhos**:
+É um tipo de **Dano** bem variado, porém raro entre as [[Classes]]. É causado por [[Itens]] e **Habilidades** baseados em **Magia**. Magias possuem muitos tipos e eles escalam com o número de **Magias** conhecidas em **Montanha dos Sonhos**:
 
 1. **Arcano**: todas as magias, independente do seu **Conhecimento** são arcanas, além de magias sem tipagem explicita também serem **Arcanas**.
 2. **Água ou Gelo**: com a fonte do **Conhecimento** de Aqua.

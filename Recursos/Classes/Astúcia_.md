@@ -104,7 +104,7 @@ Habilidade Física, Controle, Toque.
 
 **Precisão Improvável** e **Custa** 6 pontos de **Mana**.
 
-Achado não é roubado. Tenta roubar um **Item** a sua escolha do **Alvo**, porém as **Ferramentas** em uso dele apenas com acerto **Crítico** (Acertos garantem uma checagem da descrição de todos [[Itens_]] equipados e armazenados no **Inventário** ou **Mochila**).
+Achado não é roubado. Tenta roubar um **Item** a sua escolha do **Alvo**, porém as **Ferramentas** em uso dele apenas com acerto **Crítico** (Acertos garantem uma checagem da descrição de todos [[Itens]] equipados e armazenados no **Inventário** ou **Mochila**).
 
 Pode ser usado apenas uma vez por **Plano** com **Precisão Normal** em **Planos de Interpretação**, e se for algum **Item** equipado um **Combate** será iniciado.
 
@@ -472,7 +472,7 @@ Habilidade Física, Controle, Toque.
 
 **Precisão improvável** e **Custa** 25 pontos de **Mana**.
 
-Do jeito que veio ao mundo. Desequipa todos os [[Itens_]] do **Alvo**. Até o seu próximo **Turno** ele não pode equipar nenhum **Item**. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
+Do jeito que veio ao mundo. Desequipa todos os [[Itens]] do **Alvo**. Até o seu próximo **Turno** ele não pode equipar nenhum **Item**. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
 
 # Reposição em Massa
 

@@ -5,8 +5,8 @@
 
 # A fazer
 
-Ajustar [[Itens_]] atuais;
 Fazer economia;
+Ajustar [[Itens]] atuais;
 
 ---
 

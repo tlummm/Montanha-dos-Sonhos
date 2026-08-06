@@ -25,7 +25,7 @@
 
 ### Preços
 
-**Preços** de [[Itens_]] podem variar conforme a **Campanha**, no entanto eles seguem a uma lógica baseada em seu **Nível**. Normalmente um **Item** custa o seu **Nível** vezes 
+**Preços** de [[Itens]] podem variar conforme a **Campanha**, no entanto eles seguem a uma lógica baseada em seu **Nível**. Normalmente um **Item** custa o seu **Nível** vezes 
 
 * **Normal**: o esperado de seu **Nível**;
 * **Elite**: valem três vezes um **Normal**;

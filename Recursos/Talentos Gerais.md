@@ -1,4 +1,4 @@
-São **Talentos** globais que se comportam da mesma forma em vários casos, porém que podem ser acessados por muitos **Recursos** diferentes como [[Ficha]], [[Unidades]], [[Itens_]] e entre outros, ainda mantendo sua funcionalidade geral. Eles são divididos entre **Bestial** (**Animal** ou **Folclórico**), **São** e **Inanimado**.
+São **Talentos** globais que se comportam da mesma forma em vários casos, porém que podem ser acessados por muitos **Recursos** diferentes como [[Ficha]], [[Unidades]], [[Itens]] e entre outros, ainda mantendo sua funcionalidade geral. Eles são divididos entre **Bestial** (**Animal** ou **Folclórico**), **São** e **Inanimado**.
 
 ---
 
@@ -30,13 +30,13 @@ São **Talentos** que só [[Feras_]] podem possuir e, algumas vezes, **Monstros*
 * **Postura Ofensiva**: desconsidera metade de seus **Atributos** de **Defesa** e **Espírito** os transferidos respectivamente para **Ataque** e **Defesa**. **Posturas** podem ser assumidas sacrificando uma **Ação Principal**. Só pode haver uma por vez;
 
 ### Mental:
-* **Barganha**: [[Itens_]] e **Serviços** comprados por você custam um décimo do custo em **Ouro** a menos;
+* **Barganha**: [[Itens]] e **Serviços** comprados por você custam um décimo do custo em **Ouro** a menos;
 
 ---
 
 # Inanimado
 
-São **Talentos** que só **Objetos** e **Estruturas** podem possuir, como [[Itens_]], mas algumas vezes alguns **Monstros** também podem possuir, sendo características materiais ou fenômenos.
+São **Talentos** que só **Objetos** e **Estruturas** podem possuir, como [[Itens]], mas algumas vezes alguns **Monstros** também podem possuir, sendo características materiais ou fenômenos.
 
 ### Objeto:
 * **Empilhável**: vários de nome semelhante ocupam o mesmo espaço do **Inventário**;

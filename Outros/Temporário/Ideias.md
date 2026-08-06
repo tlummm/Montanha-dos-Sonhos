@@ -22,8 +22,6 @@ criaturas com golpes iguais a armas;
 
 # Lista de Materiais
 
-# Economia
-
 # Rituais
 
 # Tesouros

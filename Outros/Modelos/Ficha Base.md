@@ -38,7 +38,7 @@
 
 ---
 
-# [[Itens_]]
+# [[Itens]]
 
 **Texto**: Texto;
 
