@@ -5,8 +5,26 @@
 
 # A fazer
 
-Fazer economia;
 Ajustar [[Itens]] atuais;
+[[Ferramentas]] Raras;
+
+---
+
+# Restante para escopo jogável (1.0.0)
+
+* [[Itens]] de todas as **Raridades**;
+* [[Classes]] novas como curandeiro puro, além de duas a decidir (provavelmente **Mercador** e **Peão**, além dos retrabalhos para **Soldado**, **Acadêmico** e **Mercenário**);
+* **Oponentes Temporários** simples para testes; 
+* Balanceamento geral com simulações;
+* **Modos de Jogo** como **Arena**, **Horda** e **Progressivo**;
+
+---
+
+# Restante para escopo bem agregado
+
+* **Modos de Jogo**/**Instâncias** como **Masmorras**, **Raides** e **Reinícios**;
+* Primeira **Campanha** jogável;
+* [[Unidades]] de toda a [[Escala]];
 
 ---
 
