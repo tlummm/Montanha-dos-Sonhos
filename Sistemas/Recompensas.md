@@ -18,6 +18,8 @@ Um **Chefe** derrotado sempre concede 5 [[Itens_]] arremessando **1d20** para ca
 
 ### Ganho de Dinheiro
 
-O ganho de **Ouro** em [[Feras_]] é situacional, mas pode depender do veredito do **Mestre**. Ele pode pedir **Testes**, além de determinar a **Categoria** e **Precisão**, também podendo reduzir ou aumentar essa quantia, baseado na [[Regra de Ouro]].
+**Oponentes** concedem **Moedas** se forem **Racionais**, no entanto esse ganho é situacional contra [[Feras_]], mas pode depender do veredito do **Mestre**. Ele pode pedir **Testes**, além de determinar a **Categoria** e **Precisão**, também podendo reduzir ou aumentar essa quantia, baseado na [[Regra de Ouro]].
+
+> Mais detalhes sobre **Moedas** e suas quantias em [[Economia_]].
 
 ---

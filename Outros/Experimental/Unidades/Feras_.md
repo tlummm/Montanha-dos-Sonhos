@@ -24,15 +24,6 @@ Nos últimos três **Níveis** as **Feras** começam a apresentar característic
 8. **Calamidade**: pode destruir civilizações **Humanas** de um continente inteiro;
 9. **Extinção**: ameaça a própria existência de toda a **Humanidade**;
 
-### Escala
-
-Dentro de cada **Nível** há uma segunda separação, sendo também baseada em poder ou ameaça, só que de forma interna, como uma raridade entre [[Feras_]] daquele **Nível**, sendo:
-
-* **Normal**: o esperado de seu **Nível**;
-* **Elite**: valem três vezes um **Normal**;
-* **Chefe**: valem três vezes um **Elite**;
-* **Soberano**: valem três vezes um **Chefe**;
-
 ### Natureza
 
 As criaturas, se não forem **Animais**, sempre possuem um **Celeste** dos [[Cinco poderes]] como sua origem que justifica sua existência fora da lógica. Os seres podem ter uma:

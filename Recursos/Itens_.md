@@ -39,13 +39,4 @@ Nos últimos três **Níveis** os [[Itens_]] começam a apresentar as caracterí
 
 > Só é possível um **Unidade** ter 1 **Ego** invocado por vez, podendo ser trocado como uma **Ação Principal** e não podendo ser usada novamente se feita no seu **Turno** anterior.
 
-### Preços
-
-**Preços** de [[Itens_]] podem variar conforme a **Campanha**, no entanto eles seguem a uma lógica baseada em seu **Nível**. Normalmente um **Item** custa o seu **Nível** vezes 
-
-* **Normal**: o esperado de seu **Nível**;
-* **Elite**: valem três vezes um **Normal**;
-* **Chefe**: valem três vezes um **Elite**;
-* **Soberano**: valem três vezes um **Chefe**;
-
 ---
