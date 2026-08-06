@@ -52,7 +52,7 @@ Um disparo para o alto para deixar todos atentos. Consome uma de qualquer **Muni
 
 Talento Físico, Mobilidade e Ofensivo.
 
-Seus movimentos são breves e sempre deixam uma lembrança. Aumenta a **Velocidade** em 2. Quando em **Movimento**, se você atravessar um **Oponente** você pode realizar um pequeno **Ataque** nele sem consumir **Ações**, porém com o **Dano** fixo em **1d4**, **Puro** e sem escalar com **Ataque** ou **Maestria**, mas causando totalmente os **Efeitos** adicionais de um **Ataque**. **Passagem** não pode ser repetida múltiplas vezes no mesmo **Oponente** em apenas um **Turno**.
+Seus movimentos são breves e sempre deixam uma lembrança. Aumenta a **Velocidade** em 2. Quando em **Movimento**, se você atravessar um **Oponente** você pode realizar um pequeno **Ataque** nele sem consumir **Ações**, porém com o **Dano** fixo em **1d6**, **Puro** e sem escalar com **Ataque** ou **Maestria**, mas causando totalmente os **Efeitos** adicionais de um **Ataque**. **Passagem** não pode ser repetida múltiplas vezes no mesmo **Oponente** em apenas um **Turno**.
 
 ### Ricochete
 
@@ -94,7 +94,7 @@ Habilidade Física, Controle, Projétil.
 
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 7 pontos de **Mana**.
 
-Um disparo não letal para nocautear seus oponentes. Realiza um **Ataque** que causa 1 **Efeito** de **Atordoamento** se foi a primeira vez que você acertou aquele **Oponente** com essa **Habilidade**, ou **1d4** **Efeitos** de **Redução** de **Velocidade**.
+Um disparo não letal para nocautear seus oponentes. Realiza um **Ataque** que causa 1 **Efeito** de **Atordoamento** se foi a primeira vez que você acertou aquele **Oponente** com essa **Habilidade**, ou **1d6** **Efeitos** de **Redução** de **Velocidade**.
 
 Pode ser usado apenas uma vez em **Planos de Interpretação** fazendo com que você colo que um 1 **Efeito** de **Sono** no **Alvo** até o fim do **Plano**.
 
@@ -164,7 +164,7 @@ Habilidade Física, Ofensivo, Projétil.
 
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 5 + 3 pontos de **Mana** para cada **Munição**.
 
-Se tem é para usar. Realiza um **Ataque**, porém também causando **Dano** adicional igual a **1d4** vezes o **Dano** da **Munição**. Esse **Dano** adicional pode ser aumentado em número de vezes igual ao consumo de **Munição** ao usar essa **Habilidade**.
+Se tem é para usar. Realiza um **Ataque**, porém também causando **Dano** adicional igual a **1d6** vezes o **Dano** da **Munição**. Esse **Dano** adicional pode ser aumentado em número de vezes igual ao consumo de **Munição** ao usar essa **Habilidade**.
 
 ---
 
@@ -198,7 +198,7 @@ Costumam dizer que é um golpe sobrenatural. Realiza um **Ataque** contra o **Op
 
 Talento Físico, Ofensivo.
 
-Seus golpes alteram entre planos para poder finalizar seus alvos. Aumenta a **Velocidade** em 4. Seus **Ataques** causam **1d4** de **Dano Físico** e **1d4** de **Dano Mágico** adicional.
+Seus golpes alteram entre planos para poder finalizar seus alvos. Aumenta a **Velocidade** em 4. Seus **Ataques** causam **1d6** de **Dano Físico** e **1d6** de **Dano Mágico** adicional.
 
 ### Desarmar
 
@@ -206,7 +206,7 @@ Habilidade Física, Controle, Toque.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 9 pontos de **Mana**.
 
-É mais fácil sem reagir. Realiza um **Ataque** contra o **Oponente** aplicando **1d4** **Efeitos** de **Desarme**. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
+É mais fácil sem reagir. Realiza um **Ataque** contra o **Oponente** aplicando **1d6** **Efeitos** de **Desarme**. Só pode ser usado uma vez por **Oponente** em cada **Combate**.
 
 ### Distribuir Munição
 
@@ -280,7 +280,7 @@ Habilidade Física, Controle, Toque.
 
 **Precisão Garantida**, requer alguma **Arma** e **Custa** 11 pontos de **Mana**.
 
-Aplica veneno na sua arma antes de um golpe decisivo. O próximo **Ataque** que acertar aplica **1d4** **Efeitos** de **Envenenamento** e **1d4** **Efeitos** de **Redução de Ataque**. Se o **Ataque** for **Crítico**, os **Efeitos** também são dobrados. A Arma Imbuída dura até o fim do **Combate** ou até acertar.
+Aplica veneno na sua arma antes de um golpe decisivo. O próximo **Ataque** que acertar aplica **1d6** **Efeitos** de **Envenenamento** e **1d6** **Efeitos** de **Redução de Ataque**. Se o **Ataque** for **Crítico**, os **Efeitos** também são dobrados. A Arma Imbuída dura até o fim do **Combate** ou até acertar.
 
 ### Mascote
 
@@ -350,7 +350,7 @@ Habilidade Mágica, Controle, Individual.
 
 **Precisão Improvável** e **Custa** 20 pontos de **Mana**.
 
-Sem sujar as mãos. **Oponentes** custam o triplo da **Sorte** deles. Você compra o **NPC** alvo, se tiver **Moedas de Ouro** o suficiente, colocando-o **1d4** **Efeitos** de **Controle**. A compra tem um desconto baseado na sua **Sorte**, e só um **Oponente** pode ser comprado por vez, além de só poder ter uma unidade comprada ao mesmo tempo.
+Sem sujar as mãos. **Oponentes** custam o dobro da **Sorte** deles em **Moedas** de **Ouro**. Você compra o **NPC** alvo, se tiver **Moedas** o suficiente, colocando-o **1d6** **Efeitos** de **Controle**. A compra tem um desconto baseado na sua **Sorte**, e só um **Oponente** pode ser comprado por vez, além de só poder ter uma unidade comprada ao mesmo tempo.
 
 ### Disparo Longo
 
@@ -358,7 +358,7 @@ Habilidade Física, Utilidade, Projétil.
 
 **Precisão Normal**, requer alguma **Arma de Longo Alcance** e **Custa** 17 pontos de **Mana**.
 
-A maior pericia de um atirador é a distância. Realiza um **Ataque** a um **Oponente**, independente da distância e com um **1d4** de **Crítico** adicional. O **Atributo** de **Alcance** é somado como **Ataque** nesta **Habilidade**.
+A maior pericia de um atirador é a distância. Realiza um **Ataque** a um **Oponente**, independente da distância e com um **1d6** de **Crítico** adicional. O **Atributo** de **Alcance** é somado como **Ataque** nesta **Habilidade**.
 
 ---
 
@@ -418,7 +418,7 @@ Habilidade Física, Mobilidade, Individual.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 25 pontos de **Mana**.
 
-Uma sequência de outro mundo. Se teletransporta para qualquer **Oponente**, independente do **Alcance**, causando **1d4** **Ataques**, como o **Dano** inteiramente **Mágico**.
+Uma sequência de outro mundo. Se teletransporta para qualquer **Oponente**, independente do **Alcance**, causando **1d6** **Ataques**, como o **Dano** inteiramente **Mágico**.
 
 ### Charme
 
@@ -432,7 +432,7 @@ Habilidade Mágica, Controle, Individual.
 
 **Precisão Difícil** e **Custa** 39 pontos de **Mana**.
 
-Um toque de recolher. Adiciona **1d4** **Efeitos** de **Desarme** em todos os **Oponentes**, independente do **Alcance**. Uma **Ferramenta** equipada aleatória desses **Oponentes** é transferida para o seu **Inventário**. Só pode ser usado uma vez por **Combate**.
+Um toque de recolher. Adiciona **1d6** **Efeitos** de **Desarme** em todos os **Oponentes**, independente do **Alcance**. Uma **Ferramenta** equipada aleatória desses **Oponentes** é transferida para o seu **Inventário**. Só pode ser usado uma vez por **Combate**.
 
 ### Golpe Surpresa
 

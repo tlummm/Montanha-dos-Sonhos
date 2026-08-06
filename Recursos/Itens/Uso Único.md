@@ -38,7 +38,7 @@ Um incômodo facilmente encontrado no chão. Pode ser consumido para realizar **
 
 Consumível, Comida.
 
-Mesmo sendo apenas uma fruta há resquícios inexplicáveis de magia. Recupera **1d4** pontos de **Mana**. Em cada turno, você pode usar esse **Item** uma vez sem consumir uma **Ação Principal**.
+Mesmo sendo apenas uma fruta há resquícios inexplicáveis de magia. Recupera **1d6** pontos de **Mana**. Em cada turno, você pode usar esse **Item** uma vez sem consumir uma **Ação Principal**.
 
 ---
 

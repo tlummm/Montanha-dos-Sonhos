@@ -193,7 +193,7 @@ Habilidades e Talentos:
 
 Habilidades e Talentos:
 * **Bater e Correr**: [[Talentos Gerais]];
-* **Enxame**: **1d4**;
+* **Enxame**: **1d6**;
 * **Veneno Próprio**: seus Ataques causam 2 **Efeitos** de **Sangramento**;
 
 ---

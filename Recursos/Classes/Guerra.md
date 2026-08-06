@@ -25,7 +25,7 @@ Habilidade Física, Controle e Ofensivo, Cone.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 6 ponto de **Mana**.
 
-Imitando uma fase da lua você realiza um ataque, empurrando seus oponentes e os incapacitando. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**, os aplicando **1d4** **Efeitos** de **Redução** de **Velocidade**.
+Imitando uma fase da lua você realiza um ataque, empurrando seus oponentes e os incapacitando. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 1 metro para a direita do **Cone**, os aplicando **1d6** **Efeitos** de **Redução** de **Velocidade**.
 
 ### Defesa Simples
 
@@ -39,7 +39,7 @@ Habilidade Física, Ofensivo, Cone.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 6 pontos de **Mana**.
 
-Imitando uma fase da lua você realiza um ataque poderosos, empurrando seus oponentes e se capacitando. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 2 metros para a direita do **Cone**. Você ganha um **1d4** **Efeitos** de **Aumento** de **Velocidade**.
+Imitando uma fase da lua você realiza um ataque poderosos, empurrando seus oponentes e se capacitando. Em uma área cônica de 2 metros, que não pode ser afetada por seu **Atributo** de **Alcance**, você realiza metade de um **Ataque** em todos os **Oponentes** atingidos, além de os mover 2 metros para a direita do **Cone**. Você ganha um **1d6** **Efeitos** de **Aumento** de **Velocidade**.
 
 ### Punho Firme
 
@@ -137,7 +137,7 @@ Habilidade Física, Controle e Ofensivo, Toque.
 
 **Precisão Normal**, requer alguma **Arma** e **Custa** 7 pontos de **Mana**.
 
-Um ataque sangramento usando a parte mais fina e afiada da arma. Realiza metade de um **Ataque** no **Oponente**, porém com apenas metade do **Dano** de **Maestria**, arredondado para baixo, o fazendo receber **1d4** **Efeitos** de **Sangramento** ou **Desgaste** a sua escolha.
+Um ataque sangramento usando a parte mais fina e afiada da arma. Realiza metade de um **Ataque** no **Oponente**, porém com apenas metade do **Dano** de **Maestria**, arredondado para baixo, o fazendo receber **1d6** **Efeitos** de **Sangramento** ou **Desgaste** a sua escolha.
 
 ### Investida
 
@@ -277,7 +277,7 @@ Habilidade Física, Defensivo e Ofensivo, Individual.
 
 **Precisão Normal**, **Custa** 11 pontos de **Mana**.
 
-Um estado de fúria, esquecendo completamente toda disciplina e anos de treino, confiando apenas na sua força e ódio. Entra em um outro **Estado**, se silenciando permanentemente e não podendo usar [[Itens]] como **Ação**. Nesse **Estado** você recebe metade do **Dano** e **Efeitos** por **Habilidades** e [[Itens]], além de sempre no fim do seu **Turno** realizar um **Ataque** básico, sem consumir **Ação**, e todos os seus **Ataques** atingirem todos os **Oponentes** dentro do **Alcance**. Esse estado **Custa** **1d4** pontos de **Mana** cada fim de **Turno** para se manter, e pode ser desativado optando por não pagar o **Custo** adicional.
+Um estado de fúria, esquecendo completamente toda disciplina e anos de treino, confiando apenas na sua força e ódio. Entra em um outro **Estado**, se silenciando permanentemente e não podendo usar [[Itens]] como **Ação**. Nesse **Estado** você recebe metade do **Dano** e **Efeitos** por **Habilidades** e [[Itens]], além de sempre no fim do seu **Turno** realizar um **Ataque** básico, sem consumir **Ação**, e todos os seus **Ataques** atingirem todos os **Oponentes** dentro do **Alcance**. Esse estado **Custa** **1d6** pontos de **Mana** cada fim de **Turno** para se manter, e pode ser desativado optando por não pagar o **Custo** adicional.
 
 Pode ser usado com **Precisão Garantida** e **Custo** 6 pontos de **Mana** em **Planos de Interpretação** para também entrar nesse **Estado**, porém também ganhando 5 de **Crítico** em **Ações de Interpretação** envolvendo **Intimidação**. No começo de **Combate** se esse **Estado** já estiver ativo ele não pode ser desativado no seu primeiro **Turno**.
 

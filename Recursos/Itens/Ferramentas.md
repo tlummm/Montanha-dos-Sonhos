@@ -14,7 +14,7 @@ Uma simples ferramenta de um pastor para guiar o seu rebanho. Aumenta o **Alcanc
 
 Arma de Uma Mão, Escudo.
 
-Um amontoado de tábuas de madeira que por coincidência dá um bom escudo. Aumenta a **Defesa** em 1, além de reduzir em **1d4** o **Dano** recebido, exceto por **Efeitos**.
+Um amontoado de tábuas de madeira que por coincidência dá um bom escudo. Aumenta a **Defesa** em 1, além de reduzir em **1d6** o **Dano** recebido, exceto por **Efeitos**.
 
 ### Espada Enferrujada
 
@@ -32,7 +32,7 @@ Uma ferramenta que treina futuros atiradores. Consome **Munição** para realiza
 
 Arma de Uma Mão, Tomo.
 
-As páginas que sobraram ainda são bem úteis. Aumenta o **Domínio** em 2, a primeira **Habilidade** usada em um **Plano de Combate** custa **1d4** de **Mana** a menos.
+As páginas que sobraram ainda são bem úteis. Aumenta o **Domínio** em 2, a primeira **Habilidade** usada em um **Plano de Combate** custa **1d6** de **Mana** a menos.
 
 ### Machadinha
 
@@ -368,7 +368,7 @@ As leis das trevas são muito simples, o demônio é quem segura seu tridente. A
 
 Arma Eterna de Duas Mãos, Longo Alcance, Arco.
 
-A frieza do **Deus das Riquezas** torna a fraqueza de deus inimigos em seu maior tesouro. Não precisa de **Munição**. **Ataques** e **Habilidades** podem ser feitos independente da distância. O  primeiro **Ataque** desta **Arma** causa **Dano** adicional equivalente ao total de suas **Moedas de Ouro** (ou equivalente em caso de conversão de outras **Moedas**). **Inimigos** derrotados por esta **Arma** viram um amontoado de **Moedas de Ouro** igual ao seu nível vezes **1d4**.
+A frieza do **Deus das Riquezas** torna a fraqueza de deus inimigos em seu maior tesouro. Não precisa de **Munição**. **Ataques** e **Habilidades** podem ser feitos independente da distância. O  primeiro **Ataque** desta **Arma** causa **Dano** adicional equivalente ao total de suas **Moedas de Ouro** (ou equivalente em caso de conversão de outras **Moedas**). **Inimigos** derrotados por esta **Arma** viram um amontoado de **Moedas de Ouro** igual ao seu nível vezes **1d6**.
 
 ### Assassina de Deuses
 

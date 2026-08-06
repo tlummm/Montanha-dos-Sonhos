@@ -10,13 +10,13 @@
 
 [[Unidades]], que não sejam [[Feras_]], normalmente caminham transportando quantias de **Moedas**, que podem ser saqueadas ao derrotar ou roubar, sendo a ordem de valores por **Nível**. [[Unidades]] também pode ter escala interna, alterando seus valores de **Saque** conforme sua **Dificuldade**:
 
-* **Nível 1** — **1d4** **Moedas** de **Cobre**;
+* **Nível 1** — **1d6** **Moedas** de **Cobre**;
 * **Nível 2** — **1d12** **Moedas** de **Cobre**;
 * **Nível 3** — **1d20** **Moedas** de **Cobre**;
-* **Nível 4** — **1d4** **Moedas** de **Prata**;
+* **Nível 4** — **1d6** **Moedas** de **Prata**;
 * **Nível 5** — **1d12** **Moedas** de **Prata**;
 * **Nível 6** — **1d20** **Moedas** de **Prata**;
-* **Nível 7** — **1d4** **Moedas** de **Ouro**;
+* **Nível 7** — **1d6** **Moedas** de **Ouro**;
 * **Nível 8** — **1d12** **Moedas** de **Ouro**;
 * **Nível 9** — **1d20** **Moedas** de **Ouro**;
 

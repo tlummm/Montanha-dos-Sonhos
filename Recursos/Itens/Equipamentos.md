@@ -8,7 +8,7 @@
 
 Equipamento, Pulsos.
 
-Talvez seja caro, talvez seja falsificado, e ninguém consegue dar um valor exato. Aumenta o **Domínio** e **Maestria** em 2. **Habilidades** causa um **1d4** de **Dano** adicional do seu **Tipo**.
+Talvez seja caro, talvez seja falsificado, e ninguém consegue dar um valor exato. Aumenta o **Domínio** e **Maestria** em 2. **Habilidades** causa um **1d6** de **Dano** adicional do seu **Tipo**.
 
 ### Chapéu de Palha
 
@@ -160,7 +160,7 @@ Assim como os ideais de seu povo, escolha é liberdade. Aumenta todos os **Atrib
 
 Equipamento, Cintura.
 
-Vários selos religiosos amarrados ao cinto. Aumenta o Domínio em 7. No início do seu turno se você estiver com menos da metade dos pontos de **Mana** restaure **1d4** de pontos de **Mana**.
+Vários selos religiosos amarrados ao cinto. Aumenta o Domínio em 7. No início do seu turno se você estiver com menos da metade dos pontos de **Mana** restaure **1d6** de pontos de **Mana**.
 
 ### Pingente Dourado
 

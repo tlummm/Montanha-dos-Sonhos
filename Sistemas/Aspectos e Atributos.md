@@ -59,7 +59,7 @@ Há recompensas por acumular certas quantias de algum **Atributo** para incentiv
 
 A cada 10 pontos de um **Atributo**:
 * **Alcance**: suas **Ações** que tenham um **Alvo** único ganham um **Alvo** adicional, porém com a metade do seu **Atributo** de **Alcance** (arredondado para baixo);
-* **Sorte**: [[Feitos]] que concederiam [[Itens]] concedem 1 **Item** adicional;
+* **Sorte**: [[Feitos]] que concederiam [[Itens]] concedem 1 **Item** adicional entre os menores do **Saque**;
 * **Velocidade**: ganha um **Ataque** adicional, porém com metade de suas **Eficiências** (arredondado para baixo);
 
 * **Ataque**: seus **Acertos Críticos** ganham um quarto do **Dano** original como um adicional (arredondado para baixo);
@@ -78,7 +78,7 @@ Ao atingir o valor máximo de um **Atributo** (99 pontos):
 * **Vigor**: após todas as modificações positivas na sua **Vida Máxima** ela é dobrada;
 
 * **Alcance**: suas **Ações** de **Alvo** único tem **Alcance** e **Alvos** infinitos;
-* **Sorte**: pode escolher os [[Itens]] concedidos em [[Feitos]], porém ainda respeitando as regras da [[Progressão]];
+* **Sorte**: dobra todas as [[Recompensas]] por [[Feitos]] além de poder escolher os [[Itens]], porém ainda respeitando **Nível** e **Raridade**;
 * **Velocidade**: você tem **Ações de Movimento** infinitas, porém sem **Ações Principais** nela, além que a distância dessas **Ações** é infinita;
 
 * **Domínio**: suas **Ações Principais** custam metade do seus **Custos** de **Mana** ou **Vida**;

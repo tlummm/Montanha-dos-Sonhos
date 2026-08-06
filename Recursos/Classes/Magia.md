@@ -49,7 +49,7 @@ A primeira **Poeira** conjurada por você em cada **Combate** aplica 1 **Efeito*
 
 Talento Mágico, Ofensivo e Recuperação.
 
-Um feitiço bem executado sempre refresca a mente. Aumenta a **Maestria** em 2. O primeiro Acerto de **Habilidade** em cada **Turno** restaura **1d4** pontos de **Mana**.
+Um feitiço bem executado sempre refresca a mente. Aumenta a **Maestria** em 2. O primeiro Acerto de **Habilidade** em cada **Turno** restaura **1d6** pontos de **Mana**.
 
 ### Seta de Fogo
 
@@ -143,7 +143,7 @@ Seu excesso de paciência intensifica o uso da **Água**. Aumenta o **Espírito*
 
 Talento Mágico de Terra, Controle.
 
-Na sua presença o chão que sustenta seus oponentes torna-se traiçoeiro. Aumenta o **Espírito** em 4. Reduz o **Custo** de **Magias de Terra** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode o mover **1d4** metros após a sua **Ação** para qualquer direção em linha reta.
+Na sua presença o chão que sustenta seus oponentes torna-se traiçoeiro. Aumenta o **Espírito** em 4. Reduz o **Custo** de **Magias de Terra** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode o mover **1d6** metros após a sua **Ação** para qualquer direção em linha reta.
 
 ### Pilastra
 
@@ -189,7 +189,7 @@ O primeiro **Sopro Incendiário** conjurado por você em cada **Combate** tem **
 
 Talento Mágico de Vento, Mobilidade.
 
-Há um vento misteriosos que te afasta de todas as ameaças. Aumenta a **Maestria** em 4. Reduz o **Custo** de **Magias de Vento** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode se mover **1d4** metros após a **Ação** dele, sem consumir nenhuma de suas **Ações** mas em linha reta.
+Há um vento misteriosos que te afasta de todas as ameaças. Aumenta a **Maestria** em 4. Reduz o **Custo** de **Magias de Vento** em 2. Toda vez que um **Oponente** usar uma **Ação Principal** você pode se mover **1d6** metros após a **Ação** dele, sem consumir nenhuma de suas **Ações** mas em linha reta.
 
 ---
 
@@ -223,13 +223,13 @@ Um fragmento de gelo cristalizado surge da água, recuperando as energias de tod
 
 Talento Mágico de Fogo, Ofensivo.
 
-Seu poder de fogo é tão instável que as vezes escapam algumas faíscas mesmo que esteja conjurando um outro elemento. Aumenta a **Maestria** em 5. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Fogo** sempre será disparado de você contra um **Oponente** aleatório, o causando **1d4** ponto de **Dano**. Esse **Projétil** ignora completamente a **Defesa** e **Espírito**, não escala com **Maestria** e não se importa com a distância.
+Seu poder de fogo é tão instável que as vezes escapam algumas faíscas mesmo que esteja conjurando um outro elemento. Aumenta a **Maestria** em 5. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Fogo** sempre será disparado de você contra um **Oponente** aleatório, o causando **1d6** ponto de **Dano**. Esse **Projétil** ignora completamente a **Defesa** e **Espírito**, não escala com **Maestria** e não se importa com a distância.
 
 ### Gotas
 
 Talento Mágico de Água, Recuperação.
 
-A calma de seu poder de água é tão serena que as vezes escapam algumas gotas curativas mesmo que esteja conjurando um outro elemento. Aumenta o **Domínio** em 5. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Água** sempre será disparado de você para um **Aliado** aleatório, o recuperando 1 ponto de **Vida** e lhe concedendo **1d4** **Efeitos** de **Regeneração**. Esse **Projétil** não escala com **Maestria** e não se importa com a distância.
+A calma de seu poder de água é tão serena que as vezes escapam algumas gotas curativas mesmo que esteja conjurando um outro elemento. Aumenta o **Domínio** em 5. Sempre que você usar uma **Magia**, não importando qual **Elemento**, um **Projétil** de **Água** sempre será disparado de você para um **Aliado** aleatório, o recuperando 1 ponto de **Vida** e lhe concedendo **1d6** **Efeitos** de **Regeneração**. Esse **Projétil** não escala com **Maestria** e não se importa com a distância.
 
 ### Posto de Vento
 
@@ -287,7 +287,7 @@ Magia de Vento, Controle, Área.
 
 **Precisão Normal** e **Custa** 32 pontos de **Mana**.
 
-Você gira junto de um tornado, arremessando todos os oponentes ao ar. Aplica **1d4** **Efeitos** de **Banimento** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. No final do **Banimento**, você pode escolher as novas posições do campo onde os **Oponentes** vão pousar, mas dentro do seu **Alcance**.
+Você gira junto de um tornado, arremessando todos os oponentes ao ar. Aplica **1d6** **Efeitos** de **Banimento** em todos os **Oponentes** dentro de um raio igual ao seu **Alcance**. No final do **Banimento**, você pode escolher as novas posições do campo onde os **Oponentes** vão pousar, mas dentro do seu **Alcance**.
 
 O primeiro **Tornado** conjurado por você em cada **Combate** aplica 1 **Efeito** de **Atordoamento** depois de finalizar seu **Efeitos** de **Banimento**.
 
@@ -307,7 +307,7 @@ Magia de Vento, Recuperação, Projétil.
 
 **Precisão Normal** e **Custa** 8 pontos de **Mana**.
 
-Uma corrente de água que cura os aliados, sendo também um meio de locomoção no mar. Restaura 1 ponto de **Vida** de um **Aliado** o aplicando **1d4** **Efeitos** de **Regeneração**. A **Cura**, **Efeitos** e a **Distância** são dobrados para um outro **Aliado** dentro desse novo **Alcance**, e assim por diante até um máximo de dois **Aliados** adicionais, sem repetir. Esses **Aliados** podem a sua escolha sofrer uma **Dissipação Normal** em todos os **Efeitos Negativos**. A **Maestria** também é duplicada. Você recebe 2 **Efeitos** de **Desgaste**.
+Uma corrente de água que cura os aliados, sendo também um meio de locomoção no mar. Restaura 1 ponto de **Vida** de um **Aliado** o aplicando **1d6** **Efeitos** de **Regeneração**. A **Cura**, **Efeitos** e a **Distância** são dobrados para um outro **Aliado** dentro desse novo **Alcance**, e assim por diante até um máximo de dois **Aliados** adicionais, sem repetir. Esses **Aliados** podem a sua escolha sofrer uma **Dissipação Normal** em todos os **Efeitos Negativos**. A **Maestria** também é duplicada. Você recebe 2 **Efeitos** de **Desgaste**.
 
 Pode ser usado com **Precisão Garantida** e **Custo** 4 pontos de **Mana** em **Planos de Interpretação** e em um ambiente aquático para fazer você e todos os seus **Aliados** usarem uma viagem rápida para qualquer lugar daquele ambiente (inclusive outras **Zonas** e **Regiões** conhecidas se estiverem conectadas como por exemplo em rios e mares).
 
@@ -329,13 +329,13 @@ O primeiro **Flutuar** conjurado por você em cada **Combate** é aplicado tamb�
 
 Talento Mágico de Fogo, Aura, Ofensivo.
 
-Os inimigos em sua presença ficam com uma visão turva e soam sem parar. Aumenta o **Domínio** em e **Maestria** em 3. No início do seu **Turno** sempre causa **1d4** pontos de **Dano** em todos os **Oponentes**, ignorando totalmente a **Defesa** e **Espírito** e não importando a distância. O **Dano** não escala com a **Maestria**.
+Os inimigos em sua presença ficam com uma visão turva e soam sem parar. Aumenta o **Domínio** em e **Maestria** em 3. No início do seu **Turno** sempre causa **1d6** pontos de **Dano** em todos os **Oponentes**, ignorando totalmente a **Defesa** e **Espírito** e não importando a distância. O **Dano** não escala com a **Maestria**.
 
 ### Presença Invernal
 
 Talento Mágico de Água, Aura, Controle.
 
-Os inimigos em sua presença tremem de frio e perdem a concentração aos poucos. Aumenta o **Domínio** e **Espírito** em 3. No início do seu **Turno** os **Oponentes** sempre perdem **1d4** pontos de **Mana**, não importando a distância.
+Os inimigos em sua presença tremem de frio e perdem a concentração aos poucos. Aumenta o **Domínio** e **Espírito** em 3. No início do seu **Turno** os **Oponentes** sempre perdem **1d6** pontos de **Mana**, não importando a distância.
 
 ### Rastro de Chamas
 
