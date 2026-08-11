@@ -22,6 +22,7 @@ Ajustar [[Itens]] atuais;
 
 # Restante para escopo bem agregado
 
+* [[Itens]] de todos os **Tipos**;
 * **Modos de Jogo**/**Instâncias** como **Masmorras**, **Raides** e **Reinícios**;
 * Primeira **Campanha** jogável;
 * [[Unidades]] de toda a [[Escala]];
